@@ -15,6 +15,7 @@ class MyHTMLParser(HTMLParser):
         self.field = []
         self.obj = {}
         self.objs = []
+        self.index = {}
         self.done = False
 
     def handle_starttag(self, tag, attrs):
@@ -24,19 +25,25 @@ class MyHTMLParser(HTMLParser):
             if self.state[0:8] == ['html', 'head', 'meta', 'body', 'div', 'div', 'div', 'div']:
 #                print ("Encountered a start tag:", tag)
                 #print ("D:  %s:" % (self.state))
-                href = attrs[0][1]
-                if href == 'clearfloat':
-                    self.done = True
-                    return
+                type_name = attrs[0][0]
+                if type_name == "href":
+                    href = attrs[0][1]
+                    if href == 'clearfloat':
+                        self.done = True
+                        return
                     
-                if href[0] == "h" :
-                    self.href = href
-                else:
-                    url = "http://www.usnpl.com/%s" % href
-                    self.href = url
+                    if href[0] == "h" :
+                        self.href = href
+                    else:
+                        url = "http://www.usnpl.com/%s" % href
+                        self.href = url
 
             if self.href == 'http://www.usnpl.com/address/npmail.php' :
                 self.href = ""
+
+        self.href = self.href.replace(" ","%20")
+        if self.href.find(" ")> 0:
+            print(self.href)
 
         self.state.append(tag)
             
@@ -50,11 +57,6 @@ class MyHTMLParser(HTMLParser):
 
     def handle_data(self, data):
 
-        if self.field:
-            if self.field[0] == "clearfloat":
-                #raise Exception()
-                self.done = True
-                return
 
         if self.done:
             return
@@ -74,24 +76,56 @@ class MyHTMLParser(HTMLParser):
                         self.field=[]
 
                     if data in (
+                            '?',
+                            '-',
+                            '- Facebook',
+                            '- Google+',
+                            '- Twitter',
+                            '.',
+                            'Announcements',
+                            'Info',
+                            'More',
+                            'State Google News',
+                            'TV Stations',
+                            'US Newspapers',
+                            'USNPL',
+                            'USNPL has address downloads for',
+                            'and', 
+                            'Statewide',
+                            'College Newspapers',
+                            'Magazines',
                             '&',
                             '(A) for Address, phone, fax, editor, translate',
                             '(C) for County Results',
-                            '(C) for County Results',
                             '(F) for Facebook',
-                            '(F) for Facebook:',
                             '(T) for Twitter',
-                            '(T) for Twitter:',
                             '(V) for Video',
-                            '(V) for Video:',
                             '(W) for Local Weather',
-                            '(W) for Local Weather:',
                             'Click',
                             'Forecast',
                             'Newspapers',
                             'Untitled Document',
                             'here',
-                            'for address downloads.'
+                            'for address downloads.',
+                            'Craigslist for State', 
+                            'State Newspapers',
+                            'State TV Stations',
+                            'State Radio Stations',
+                            'State Colleges',
+                            'State Website',
+                            'State Parks',
+                            'Museums',
+                            'Libraries',
+                            'State Census',
+                            'US Census by County',
+                            'County Listing by City',
+                            'State Governor',
+                            'State House', 
+                            'State Senate',
+                            'State Constitution',
+                            'US House',
+                            'US Senate',
+                            'City Listing by County',
                     ):
                         return
 
@@ -100,7 +134,39 @@ class MyHTMLParser(HTMLParser):
                         #self.obj[data] = str(self.href)
                         self.href = ""
                         self.objs.append(self.obj)
+                        obj = self.obj
                         self.obj = {}
+
+                        address=[]
+                        name = ""
+                        city = ""
+                        for k in obj.keys() :
+                            if k not in ("A","F","T","V", "C", "W"):
+                                v = obj[k]
+                                if not v :
+                                    city = k
+                                else:
+                                    name = k
+
+                                if len(k)>2:
+                                    address.append(k)
+                                else:
+                                    print ("WARN %s" % k)
+                        #http://www.usnpl.com/addr/aaddressresult.php?id=1167
+
+                        if (name):
+                            obj['name'] = name
+                            obj.pop(name)
+                        else:
+                            return
+
+                        if city :
+                            obj['city'] = city
+                            obj.pop(city)
+                        else:
+                            return
+
+                        self.index["%s,%s" % (city, name)] = obj
                     else:
                         #print ("'%s'" % data)
                         self.obj[data] = str(self.href)
@@ -131,5 +197,5 @@ parser = MyHTMLParser()
 parser.feed(string)
 
 o= open('usnpl.yaml', 'w')
-o.write (yaml.dump(parser.objs, indent=4,default_flow_style=False ))
+o.write (yaml.dump(parser.index, indent=4,default_flow_style=False ))
 
