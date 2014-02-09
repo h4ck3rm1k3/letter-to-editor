@@ -1,8 +1,9 @@
 import urllib.request
 from html.parser  import HTMLParser
 import os
-# create a subclass and override the handler methods
+import yaml
 
+# create a subclass and override the handler methods
 names= {}
 
 class MyHTMLParser(HTMLParser):
@@ -122,7 +123,6 @@ class MyHTMLParser(HTMLParser):
 
 
 
-import yaml
 data = {}
 f = open('kansas_simple.csv')
 for l in f.readlines() :
@@ -132,9 +132,7 @@ for l in f.readlines() :
     name = parts[1]
     parts = url.split("=")
     number = parts[1]
-
-    filename = "cache_item_%s.html" % number
-
+    filename = "cache/cache_item_%s.html" % number
     if not os.path.isfile(filename):
         p = open (filename,"w")    
         res = urllib.request.urlopen(url)
@@ -149,4 +147,7 @@ for l in f.readlines() :
     parser.feed(string)
     data[name]=parser.attr
 
-print (yaml.dump(data))
+#print (yaml.dump(data))
+o= open('kansas_simple.yaml', 'w')
+o.write (yaml.dump(data, indent=4,default_flow_style=False ))
+
