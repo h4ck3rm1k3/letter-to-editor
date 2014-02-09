@@ -5,6 +5,7 @@ Abilene,Reflector-Chronicle:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Abilene,%20KS&wuSelect=WEATHER
     city: Abilene
     name: Reflector-Chronicle
+    named: http://www.abilene-rc.com/
 Andover,Andover American:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4297
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
@@ -13,6 +14,7 @@ Andover,Andover American:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Andover,%20KS&wuSelect=WEATHER
     city: Andover
     name: Andover American
+    named: http://www.andoveramerican.com/
 Arkansas City,Arkansas City Traveler:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1169
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=989
@@ -20,6 +22,7 @@ Arkansas City,Arkansas City Traveler:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Arkansas%20City,%20KS&wuSelect=WEATHER
     city: Arkansas City
     name: Arkansas City Traveler
+    named: http://www.arkcity.net/
 Atchison,Atchison Daily Globe:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1170
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=890
@@ -29,6 +32,7 @@ Atchison,Atchison Daily Globe:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Atchison,%20KS&wuSelect=WEATHER
     city: Atchison
     name: Atchison Daily Globe
+    named: http://www.atchisonglobenow.com/
 Augusta,Augusta Daily Gazette:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1171
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
@@ -36,6 +40,7 @@ Augusta,Augusta Daily Gazette:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Augusta,%20KS&wuSelect=WEATHER
     city: Augusta
     name: Augusta Daily Gazette
+    named: http://www.augustagazette.com/
 Baldwin City,Baldwin City Signal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1172
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
@@ -44,6 +49,7 @@ Baldwin City,Baldwin City Signal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Baldwin%20City,%20KS&wuSelect=WEATHER
     city: Baldwin City
     name: Baldwin City Signal
+    named: http://signal.baldwincity.com/
 Basehor,Basehor Sentinel:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1173
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -52,12 +58,14 @@ Basehor,Basehor Sentinel:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Basehor,%20KS&wuSelect=WEATHER
     city: Basehor
     name: Basehor Sentinel
+    named: http://www.basehorinfo.com/
 Bird City,Bird City Times:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4885
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=969
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Bird%20City,%20KS&wuSelect=WEATHER
     city: Bird City
     name: Bird City Times
+    named: http://www.nwkansas.com/bcwebpages/bcmain.html
 Bonner Springs,Chieftain:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1174
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
@@ -66,6 +74,7 @@ Bonner Springs,Chieftain:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Bonner%20Springs,%20KS&wuSelect=WEATHER
     city: Bonner Springs
     name: Chieftain
+    named: http://www.bonnersprings.com/
 Chanute,Chanute Tribune:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1175
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=909
@@ -74,6 +83,7 @@ Chanute,Chanute Tribune:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Chanute,%20KS&wuSelect=WEATHER
     city: Chanute
     name: Chanute Tribune
+    named: http://www.chanute.com/
 Cheney,Times-Sentinel:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1190
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
@@ -82,6 +92,7 @@ Cheney,Times-Sentinel:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Cheney,%20KS&wuSelect=WEATHER
     city: Cheney
     name: Times-Sentinel
+    named: http://www.tsnews.com/
 Clay Center,Clay Center Dispatch:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1176
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=896
@@ -89,6 +100,7 @@ Clay Center,Clay Center Dispatch:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Clay%20Center,%20KS&wuSelect=WEATHER
     city: Clay Center
     name: Clay Center Dispatch
+    named: http://www.ccenterdispatch.com/
 Colby,Colby Free Press:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1178
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=897
@@ -96,12 +108,14 @@ Colby,Colby Free Press:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Colby,%20KS&wuSelect=WEATHER
     city: Colby
     name: Colby Free Press
+    named: http://www.nwkansas.com/cfpwebpages/cfpmain.html
 Concordia,Blade-Empire:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1179
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=900
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Concordia,%20KS&wuSelect=WEATHER
     city: Concordia
     name: Blade-Empire
+    named: http://www.bladeempire.com/
 De Soto,Desoto Explorer:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1182
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
@@ -109,6 +123,7 @@ De Soto,Desoto Explorer:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=De%20Soto,%20KS&wuSelect=WEATHER
     city: De Soto
     name: Desoto Explorer
+    named: http://www.desotoexplorer.com/
 Derby,Derby Informer:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1180
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
@@ -117,6 +132,7 @@ Derby,Derby Informer:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Derby,%20KS&wuSelect=WEATHER
     city: Derby
     name: Derby Informer
+    named: http://www.derbyinformer.com
 Dodge City,Dodge City Daily Globe:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1183
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=904
@@ -125,6 +141,7 @@ Dodge City,Dodge City Daily Globe:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Dodge%20City,%20KS&wuSelect=WEATHER
     city: Dodge City
     name: Dodge City Daily Globe
+    named: http://www.dodgeglobe.com/
 Dodge City,High Plains Journal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1184
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=904
@@ -134,6 +151,7 @@ Dodge City,High Plains Journal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Dodge%20City,%20KS&wuSelect=WEATHER
     city: Dodge City
     name: High Plains Journal
+    named: http://www.hpj.com/
 El Dorado,El Dorado Times:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4669
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
@@ -142,6 +160,7 @@ El Dorado,El Dorado Times:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=El%20Dorado,%20KS&wuSelect=WEATHER
     city: El Dorado
     name: El Dorado Times
+    named: http://www.eldoradotimes.com/
 Ellsworth,Independent/Reporter:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4160
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=907
@@ -151,6 +170,7 @@ Ellsworth,Independent/Reporter:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Ellsworth,%20KS&wuSelect=WEATHER
     city: Ellsworth
     name: Independent/Reporter
+    named: http://www.indyrepnews.com/
 Emporia State Univ,Kansas City:
     Bulletin: http://www.esubulletin.com/
     F: https://www.facebook.com/esubulletin
@@ -158,6 +178,7 @@ Emporia State Univ,Kansas City:
     V: http://www.youtube.com/user/ESUBulletin
     city: Emporia State Univ
     name: Kansas City
+    named: http://www.experiencekc.com/
 Emporia,Emporia Gazette:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1186
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=908
@@ -167,12 +188,14 @@ Emporia,Emporia Gazette:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Emporia,%20KS&wuSelect=WEATHER
     city: Emporia
     name: Emporia Gazette
+    named: http://www.emporiagazette.com/
 Eudora,Eudora News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1187
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Eudora,%20KS&wuSelect=WEATHER
     city: Eudora
     name: Eudora News
+    named: http://www.eudoranews.com/
 Fort Scott,Fort Scott Tribune:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=3672
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=911
@@ -181,10 +204,12 @@ Fort Scott,Fort Scott Tribune:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Fort%20Scott,%20KS&wuSelect=WEATHER
     city: Fort Scott
     name: Fort Scott Tribune
+    named: http://www.fstribune.com/
 Ft. Hays State,University Leader:
     F: https://www.facebook.com/fhsuleader
     city: Ft. Hays State
     name: University Leader
+    named: http://tmn.fhsu.edu/
 Garden City,Garden City Telegram:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1189
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=913
@@ -194,6 +219,7 @@ Garden City,Garden City Telegram:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Garden%20City,%20KS&wuSelect=WEATHER
     city: Garden City
     name: Garden City Telegram
+    named: http://www.gctelegram.com/
 Goodland,Goodland Star-News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4854
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=916
@@ -201,6 +227,7 @@ Goodland,Goodland Star-News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Goodland,%20KS&wuSelect=WEATHER
     city: Goodland
     name: Goodland Star-News
+    named: http://www.nwkansas.com/gldwebpages/gsnmain.html
 Great Bend,Great Bend Tribune:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1191
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=918
@@ -209,6 +236,7 @@ Great Bend,Great Bend Tribune:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Great%20Bend,%20KS&wuSelect=WEATHER
     city: Great Bend
     name: Great Bend Tribune
+    named: http://www.gbtribune.com/
 Greensburg,Kiowa County Signal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4670
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=919
@@ -217,6 +245,7 @@ Greensburg,Kiowa County Signal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Greensburg,%20KS&wuSelect=WEATHER
     city: Greensburg
     name: Kiowa County Signal
+    named: http://www.kiowacountysignal.com/
 Hays,Hays Daily News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1192
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=920
@@ -225,6 +254,7 @@ Hays,Hays Daily News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hays,%20KS&wuSelect=WEATHER
     city: Hays
     name: Hays Daily News
+    named: http://www.hdnews.net/
 Hesston,Hesston Record:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1193
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=956
@@ -233,6 +263,7 @@ Hesston,Hesston Record:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hesston,%20KS&wuSelect=WEATHER
     city: Hesston
     name: Hesston Record
+    named: http://www.hesstonrecord.com
 Hillsboro,Hillsboro Free Press:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1194
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
@@ -240,18 +271,21 @@ Hillsboro,Hillsboro Free Press:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hillsboro,%20KS&wuSelect=WEATHER
     city: Hillsboro
     name: Hillsboro Free Press
+    named: http://www.hillsborofreepress.com/
 Hillsboro,Hillsboro Star Journal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1195
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hillsboro,%20KS&wuSelect=WEATHER
     city: Hillsboro
     name: Hillsboro Star Journal
+    named: http://www.starj.com/
 Holton,Holton Recorder:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1196
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=923
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Holton,%20KS&wuSelect=WEATHER
     city: Holton
     name: Holton Recorder
+    named: http://www.holtonrecorder.com/
 Hutchinson,Hutchinson News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1197
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=927
@@ -261,6 +295,7 @@ Hutchinson,Hutchinson News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hutchinson,%20KS&wuSelect=WEATHER
     city: Hutchinson
     name: Hutchinson News
+    named: http://www.hutchnews.com/
 Iola,Iola Register:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1198
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=929
@@ -269,6 +304,7 @@ Iola,Iola Register:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Iola,%20KS&wuSelect=WEATHER
     city: Iola
     name: Iola Register
+    named: http://www.iolaregister.com/
 Junction City,Daily Union:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1199
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=932
@@ -277,6 +313,7 @@ Junction City,Daily Union:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Junction%20City,%20KS&wuSelect=WEATHER
     city: Junction City
     name: Daily Union
+    named: http://www.yourdu.net/
 Kansas City,Kansas City Kansan:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1200
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
@@ -286,6 +323,7 @@ Kansas City,Kansas City Kansan:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Kansas%20City,%20KS&wuSelect=WEATHER
     city: Kansas City
     name: Kansas City Kansan
+    named: http://www.kckansan.com/
 Kansas City,Kansas City Star:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1202
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
@@ -295,23 +333,27 @@ Kansas City,Kansas City Star:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Kansas%20City,%20KS&wuSelect=WEATHER
     city: Kansas City
     name: Kansas City Star
+    named: http://www.kcstar.com/
 Kansas State University,Collegian:
     F: http://www.facebook.com/kstatecollegian
     T: http://www.twitter.com/kstatecollegian
     V: http://www.youtube.com/user/Ecollegian
     city: Kansas State University
     name: Collegian
+    named: http://www.kstatecollegian.com/
 Kansas Univ Lawrence,Daily Kansan:
     F: https://www.facebook.com/thekansan
     T: http://www.twitter.com/udk_news
     city: Kansas Univ Lawrence
     name: Daily Kansan
+    named: http://www.kansan.com/
 Kiowa,Kiowa News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1203
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=952
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Kiowa,%20KS&wuSelect=WEATHER
     city: Kiowa
     name: Kiowa News
+    named: http://www.kiowanews.com/
 Lansing,Lansing Current:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1205
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -320,6 +362,7 @@ Lansing,Lansing Current:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Lansing,%20KS&wuSelect=WEATHER
     city: Lansing
     name: Lansing Current
+    named: http://www.basehorinfo.com/news/lansing/
 Lansing,Leavenworth Times:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1204
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -328,6 +371,7 @@ Lansing,Leavenworth Times:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Lansing,%20KS&wuSelect=WEATHER
     city: Lansing
     name: Leavenworth Times
+    named: http://www.leavenworthtimes.com/
 Lawrence,Journal World:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1206
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
@@ -337,6 +381,7 @@ Lawrence,Journal World:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Lawrence,%20KS&wuSelect=WEATHER
     city: Lawrence
     name: Journal World
+    named: http://www.ljworld.com/
 Leavenworth,Fort Leavenworth Lamp:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4672
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -345,6 +390,7 @@ Leavenworth,Fort Leavenworth Lamp:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Leavenworth,%20KS&wuSelect=WEATHER
     city: Leavenworth
     name: Fort Leavenworth Lamp
+    named: http://www.ftleavenworthlamp.com/
 Leavenworth,Leavenworth Times:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4671
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -353,6 +399,7 @@ Leavenworth,Leavenworth Times:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Leavenworth,%20KS&wuSelect=WEATHER
     city: Leavenworth
     name: Leavenworth Times
+    named: http://www.leavenworthtimes.com/
 Liberal,High Plains Daily Leader:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1208
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=942
@@ -360,6 +407,7 @@ Liberal,High Plains Daily Leader:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Liberal,%20KS&wuSelect=WEATHER
     city: Liberal
     name: High Plains Daily Leader
+    named: http://www.leaderandtimes.com/
 Louisburg,Louisburg Herald:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1209
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
@@ -367,14 +415,16 @@ Louisburg,Louisburg Herald:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Louisburg,%20KS&wuSelect=WEATHER
     city: Louisburg
     name: Louisburg Herald
+    named: http://www.herald-online.com/
 Manhattan,Mercury:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1210
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=946
     F: https://www.facebook.com/TheManhattanMercury
-    T: http://www.twitter.com/MERCnewsroom%20
+    T: http://www.twitter.com/MERCnewsroom
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Manhattan,%20KS&wuSelect=WEATHER
     city: Manhattan
     name: Mercury
+    named: http://themercury.com/
 Marion,Marion County Record:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1211
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
@@ -383,6 +433,7 @@ Marion,Marion County Record:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Marion,%20KS&wuSelect=WEATHER
     city: Marion
     name: Marion County Record
+    named: http://www.marionrecord.com/
 Marysville,Marysville Advocate:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1212
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=949
@@ -391,6 +442,7 @@ Marysville,Marysville Advocate:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Marysville,%20KS&wuSelect=WEATHER
     city: Marysville
     name: Marysville Advocate
+    named: http://www.marysvilleonline.net/
 McPherson,McPherson Sentinel:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1213
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=950
@@ -400,6 +452,7 @@ McPherson,McPherson Sentinel:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=McPherson,%20KS&wuSelect=WEATHER
     city: McPherson
     name: McPherson Sentinel
+    named: http://www.mcphersonsentinel.com/
 Medicine Lodge,Gyp Hill Premiere:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1214
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=952
@@ -407,6 +460,7 @@ Medicine Lodge,Gyp Hill Premiere:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Medicine%20Lodge,%20KS&wuSelect=WEATHER
     city: Medicine Lodge
     name: Gyp Hill Premiere
+    named: http://www.gyphillpremiere.com/
 Newton,Newton Kansan:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1215
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=956
@@ -416,12 +470,14 @@ Newton,Newton Kansan:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Newton,%20KS&wuSelect=WEATHER
     city: Newton
     name: Newton Kansan
+    named: http://www.thekansan.com/
 Olathe,Olathe Daily News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1216
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Olathe,%20KS&wuSelect=WEATHER
     city: Olathe
     name: Olathe Daily News
+    named: http://www.olathedailynews.com/
 Osage City,Herald-Chronicle:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4414
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=944
@@ -430,6 +486,7 @@ Osage City,Herald-Chronicle:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Osage%20City,%20KS&wuSelect=WEATHER
     city: Osage City
     name: Herald-Chronicle
+    named: http://www.och-c.com/
 Osawatomie,Osawatomie Graphic:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1217
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
@@ -438,6 +495,7 @@ Osawatomie,Osawatomie Graphic:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Osawatomie,%20KS&wuSelect=WEATHER
     city: Osawatomie
     name: Osawatomie Graphic
+    named: http://www.graphic-online.com/
 Ottawa,Ottawa Herald:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1218
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=964
@@ -447,6 +505,7 @@ Ottawa,Ottawa Herald:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Ottawa,%20KS&wuSelect=WEATHER
     city: Ottawa
     name: Ottawa Herald
+    named: http://www.ottawaherald.com/
 Paola,Miami County Republic:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1220
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
@@ -454,6 +513,7 @@ Paola,Miami County Republic:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Paola,%20KS&wuSelect=WEATHER
     city: Paola
     name: Miami County Republic
+    named: http://www.republic-online.com/
 Parsons,Parsons Sun:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1221
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=963
@@ -462,18 +522,21 @@ Parsons,Parsons Sun:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Parsons,%20KS&wuSelect=WEATHER
     city: Parsons
     name: Parsons Sun
+    named: http://www.parsonssun.com/
 Peabody,Peabody Gazette-Bulletin:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4217
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Peabody,%20KS&wuSelect=WEATHER
     city: Peabody
     name: Peabody Gazette-Bulletin
+    named: http://peabodykansas.com/
 Pittsburg State,Collegio:
     F: http://www.facebook.com/psucollegio
     T: http://www.twitter.com/PSU_Collegio
     V: http://www.youtube.com/user/collegiopsu
     city: Pittsburg State
     name: Collegio
+    named: http://psucollegio.com/
 Pittsburg,Morning Sun:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1222
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=915
@@ -483,6 +546,7 @@ Pittsburg,Morning Sun:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Pittsburg,%20KS&wuSelect=WEATHER
     city: Pittsburg
     name: Morning Sun
+    named: http://www.morningsun.net/
 Pratt,Pratt Tribune:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1223
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=967
@@ -491,6 +555,7 @@ Pratt,Pratt Tribune:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Pratt,%20KS&wuSelect=WEATHER
     city: Pratt
     name: Pratt Tribune
+    named: http://www.pratttribune.com/
 Saint John,St. John News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=4242
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=970
@@ -498,6 +563,7 @@ Saint John,St. John News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Saint%20John,%20KS&wuSelect=WEATHER
     city: Saint John
     name: St. John News
+    named: http://www.sjnewsonline.com/
 Salina,Salina Journal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1224
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=971
@@ -507,6 +573,7 @@ Salina,Salina Journal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Salina,%20KS&wuSelect=WEATHER
     city: Salina
     name: Salina Journal
+    named: http://www.salina.com/
 Shawnee,Shawnee Dispatch:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1225
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
@@ -515,10 +582,12 @@ Shawnee,Shawnee Dispatch:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Shawnee,%20KS&wuSelect=WEATHER
     city: Shawnee
     name: Shawnee Dispatch
+    named: http://www.shawneedispatch.com/
 State Capital,Topeka:
     Statehood - January 29, 1861: ''
     city: State Capital
     name: Topeka
+    named: http://en.wikipedia.org/wiki/Topeka,_Kansas
 Tonganoxie,Mirror:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1226
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
@@ -527,6 +596,7 @@ Tonganoxie,Mirror:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Tonganoxie,%20KS&wuSelect=WEATHER
     city: Tonganoxie
     name: Mirror
+    named: http://www.tonganoxiemirror.com/
 Topeka,Topeka Cap. Journal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1227
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=980
@@ -536,6 +606,7 @@ Topeka,Topeka Cap. Journal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Topeka,%20KS&wuSelect=WEATHER
     city: Topeka
     name: Topeka Cap. Journal
+    named: http://cjonline.com/
 Valley Center,Ark Valley News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1228
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
@@ -544,6 +615,7 @@ Valley Center,Ark Valley News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Valley%20Center,%20KS&wuSelect=WEATHER
     city: Valley Center
     name: Ark Valley News
+    named: http://www.arkvalleynews.com/
 Wellington,Wellington Daily News:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1229
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=986
@@ -552,11 +624,13 @@ Wellington,Wellington Daily News:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Wellington,%20KS&wuSelect=WEATHER
     city: Wellington
     name: Wellington Daily News
+    named: http://www.wgtndailynews.com/
 Wichita State,Sunflower:
     F: http://www.facebook.com/sunflowerwsu
     T: http://www.twitter.com/sunflowernews
     city: Wichita State
     name: Sunflower
+    named: http://www.thesunflower.com/
 Wichita,Wichita Business Journal:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1231
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
@@ -565,6 +639,7 @@ Wichita,Wichita Business Journal:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Wichita,%20KS&wuSelect=WEATHER
     city: Wichita
     name: Wichita Business Journal
+    named: http://www.bizjournals.com/wichita/
 Wichita,Wichita Eagle:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1230
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
@@ -573,6 +648,7 @@ Wichita,Wichita Eagle:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Wichita,%20KS&wuSelect=WEATHER
     city: Wichita
     name: Wichita Eagle
+    named: http://www.kansas.com/
 Winfield,Winfield Daily Courier:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1232
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=989
@@ -581,3 +657,4 @@ Winfield,Winfield Daily Courier:
     W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Winfield,%20KS&wuSelect=WEATHER
     city: Winfield
     name: Winfield Daily Courier
+    named: http://www.winfieldcourier.com/

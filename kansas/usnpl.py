@@ -1,4 +1,4 @@
-
+from cache import cache
 import urllib.request
 from html.parser  import HTMLParser
 import os
@@ -40,7 +40,7 @@ class MyHTMLParser(HTMLParser):
 
             if self.href == 'http://www.usnpl.com/address/npmail.php' :
                 self.href = ""
-
+        self.href = self.href.strip().rstrip()
         self.href = self.href.replace(" ","%20")
         if self.href.find(" ")> 0:
             print(self.href)
@@ -156,11 +156,16 @@ class MyHTMLParser(HTMLParser):
 
                         if (name):
                             obj['name'] = name
+                            if (obj[name]):
+                                obj['named'] = obj[name]
                             obj.pop(name)
                         else:
                             return
 
                         if city :
+                            if (obj[city]):
+                                obj['city_'] = obj[city]
+
                             obj['city'] = city
                             obj.pop(city)
                         else:
@@ -174,27 +179,21 @@ class MyHTMLParser(HTMLParser):
                     
 
 
-def cache(url):
-    name = url 
-    name = name.replace("/","").replace(".","").replace(":","")
-
-    filename = "cache/%s.html" % name
-
-    if not os.path.isfile(filename):
-        p = open (filename,"w")    
-        res = urllib.request.urlopen(url)
-        data = res.read()
-        string = data.decode()
-        p.write(string)
-        p.close()
-    p = open (filename,"r")    
-    string = p.read()
-    return string
-
 
 string = cache("http://www.usnpl.com/ksnews.php")
 parser = MyHTMLParser()
 parser.feed(string)
+
+
+for idx in parser.index:
+    obj = parser.index[idx]
+
+    # "W", eather, leave that out
+    for a in ("A","F","T","V", "C", "named","city_"):
+        if a in obj:
+            cache(obj[a])
+
+    
 
 o= open('usnpl.yaml', 'w')
 o.write (yaml.dump(parser.index, indent=4,default_flow_style=False ))
