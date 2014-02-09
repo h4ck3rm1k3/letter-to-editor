@@ -171,14 +171,14 @@ Ellsworth,Independent/Reporter:
     city: Ellsworth
     name: Independent/Reporter
     named: http://www.indyrepnews.com/
-Emporia State Univ,Kansas City:
-    Bulletin: http://www.esubulletin.com/
+Emporia State Univ,Bulletin:
     F: https://www.facebook.com/esubulletin
+    Kansas City: http://www.experiencekc.com/
     T: http://www.twitter.com/esubulletin
     V: http://www.youtube.com/user/ESUBulletin
     city: Emporia State Univ
-    name: Kansas City
-    named: http://www.experiencekc.com/
+    name: Bulletin
+    named: http://www.esubulletin.com/
 Emporia,Emporia Gazette:
     A: http://www.usnpl.com/addr/aaddressresult.php?id=1186
     C: http://www.usnpl.com/addr/aacountyresult.php?countyid=908

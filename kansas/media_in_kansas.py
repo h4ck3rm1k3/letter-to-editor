@@ -1,5 +1,7 @@
 import yaml
 import csv
+from cache import cache
+
 index = {}
 with open('media_in_kansas.csv', 'r') as csvfile:
     data = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -28,6 +30,26 @@ with open('media_in_kansas.csv', 'r') as csvfile:
         else:
             raise Exception(obj['name'])
 
+
+for item in index.keys():
+
+    obj = index[item]
+#    print (obj)
+    for field in ("website" , "wikipedia" , "twitter", "facebook" ,"contact_page", "user_forum"):
+        if field in obj:
+            v = obj[field]
+            if v:
+                print ("TODO %s" % v)
+                if v[0:3]=="www":
+                    v = "http://" + v
+                elif v[0]=="?":
+                    continue
+                elif v.startswith('http://'):
+                    cache(v)
+                elif v.startswith('https://'):
+                    cache(v)
+                else:
+                    cache("http://" + v)
 
 o= open('media_in_kansas.yaml', 'w')
 o.write (yaml.dump(index, indent=4,default_flow_style=False ))

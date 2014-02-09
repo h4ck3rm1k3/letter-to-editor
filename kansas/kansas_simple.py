@@ -2,7 +2,7 @@ import urllib.request
 from html.parser  import HTMLParser
 import os
 import yaml
-
+from cache import cache
 # create a subclass and override the handler methods
 names= {}
 
@@ -146,6 +146,17 @@ for l in f.readlines() :
     parser = MyHTMLParser(url,name)
     parser.feed(string)
     data[name]=parser.attr
+
+for item in data.keys():
+    obj = data[item]
+#    print (obj)
+    if "Website" in obj:
+        v = obj["Website"]
+        # patch this
+        v = v.replace("stir.sterling.edu","http://www.sterling.edu/stir-newspaper")
+        cache(v)
+
+
 
 #print (yaml.dump(data))
 o= open('kansas_simple.yaml', 'w')
