@@ -6,7 +6,7 @@ def read (filename):
     return data
 
 index = {}
-
+index2 = {}
 
 def index_data(filename, data):
 
@@ -17,6 +17,12 @@ def index_data(filename, data):
             v = d[k]
 
             if not isinstance(v,str):
+                continue
+
+            if not v:
+                continue
+
+            if v == "NONE":
                 continue
 
             v = v.strip().rstrip()
@@ -30,11 +36,15 @@ def index_data(filename, data):
             if k not in index[v]:
                 index[v][k]={}
 
-            if filename not in index[v][k] :
-                index[v][k][filename]={}
+            ref = "|".join((filename,i))
 
-            if i not in index[v][k][filename] :
-                index[v][k][filename][i]=1
+            if ref not in index[v][k] :
+                index[v][k][ref]=0
+            
+            index[v][k][ref]=index[v][k][ref]+1
+
+            index2[ref] = d
+
 
 for f in ('kansas_simple.yaml',
           'media_in_kansas.yaml',
@@ -43,4 +53,4 @@ for f in ('kansas_simple.yaml',
     index_data(f,d)
 
 o= open('merge.yaml', 'w')
-o.write (yaml.dump(index, indent=4,default_flow_style=False ))
+o.write (yaml.dump({"index":index, "data" : index2}, indent=4,default_flow_style=False ))
