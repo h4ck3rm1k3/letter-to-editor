@@ -39,5 +39,8 @@ def cache(url):
         p.write(data)
         p.close()
     p = open (filename,"r")    
-    string = p.read()
+    try :
+        string = p.read()
+    except:
+        return "ERROR"
     return string
