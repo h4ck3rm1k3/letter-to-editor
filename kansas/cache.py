@@ -7,12 +7,15 @@ def cache(url):
     name = name.replace("/","").replace(".","").replace(":","")
 
     filename = "cache/%s.html" % name
+    if not os.path.isdir("cache"):
+        os.mkdir("cache")
 
     if not os.path.isfile(filename):
         p = open (filename,"wb")    
         res = None
         while(not res):
             try:
+                print ("going to open %s" % url)
                 res = urllib.request.urlopen(url)
                 
             except HTTPError as exp:
