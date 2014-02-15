@@ -33,7 +33,7 @@ class MyHTMLParser(HTMLParser):
 #            print("ATTRS %s" % attrs)
             type_name = attrs[0][0]
             if type_name == "href":
-                href = attrs[0][1]                  
+                href = attrs[0][1]
                 if href[0] == "h" :
                     self.href = href
                 else:
@@ -45,7 +45,7 @@ class MyHTMLParser(HTMLParser):
         if self.href.find(" ")> 0:
             print(self.href)
         self.state.append(tag)
-            
+
     def handle_endtag(self, tag):
         if self.done:
             return
@@ -74,7 +74,9 @@ class MondoInfoHTMLParser(HTMLParser):
         self.state = []
         self.href= ""
         self.obj = {}
-        self.index = {}
+        self.index = {
+            "sources" : [] 
+            }
         self.done = False
 
 
@@ -94,7 +96,7 @@ class MondoInfoHTMLParser(HTMLParser):
         if attrs:
             type_name = attrs[0][0]
             if type_name == "href":
-                href = attrs[0][1]                  
+                href = attrs[0][1]
                 if href[0] == "h" :
                     self.href = href
                 else:
@@ -105,14 +107,18 @@ class MondoInfoHTMLParser(HTMLParser):
         if self.href.find(" ")> 0:
             print(self.href)
         self.state.append(tag)
-            
+
     def handle_endtag(self, tag):
         if self.done:
             return
         #print ("Encountered an end tag :", tag)
         self.state.pop()
 
+    def sources(self,data):
 
+        self.index["sources"].append(data)
+
+        
     def handle_data(self, data):
         if self.done:
             return
@@ -132,7 +138,7 @@ class MondoInfoHTMLParser(HTMLParser):
 
         if self.href.startswith("http://www.mondocode.com/"):
             return
-        
+
         if self.href.startswith("http://www.easymedialist.com/"):
             return
 
@@ -142,45 +148,43 @@ class MondoInfoHTMLParser(HTMLParser):
         if data not in self.index:
 
             if self.matches(r'For more (.+) contact information,',data, ["name"]):
-                pass
+                self.sources(data)
             #                   Name - newspaper in Osborne, Kansas USA with local news and community events
             elif self.matches(
-                r'(.+) \- (daily newspaper|newspaper) in (.+) (:?with|covering) (.+)',
-                data, 
+                r'(.+) \- (daily newspaper|newspaper) in (.+) (?:with|covering) (.+)',
+                data,
                 [
                     "name",
                     "type",
                     "location",
-                    "coverage1"
-                    "coverage2"
+                    "coverage"
                     ]
                 ):
-                pass
+                self.sources(data)
 
             elif data.startswith("Mailing address:"):
                 data=data.replace("Mailing address: ","")
                 self.index['address']=data
 
-                
             elif self.matches(r'Search for (.+) newspaper obituaries',data, ["name"]):
                 pass
 
             elif self.matches(r'(.+) is the (news editor|news director|managing editor|editor) of the (.+)',data, ["editor","editor_role","name"]):
-                pass
+                self.index['editor1_source']=data
 
             elif (
                 self.matches(
                     r'In (.+) (\d+) (\w+.+) replaced (\w+.+) (as the|as) (managing editor|editor) of the (.+)',
                     data,
                     [
-                        "replace_date", 
+                        "replace_date",
                         "temp_new_editor",
                         "temp_old_editor",
                         "temp_role",
                         "name"
                         ]
                     )
-            or  
+            or
             (
                 self.matches(
                     r'(\w+.+) replaced (\w+.+) as the (news editor|managing editor|editor) of the (.+)',data,
@@ -191,13 +195,13 @@ class MondoInfoHTMLParser(HTMLParser):
                         "test_name"
                         ]
                     ))):
+                self.sources(data)
                 role = self.index['temp_role' ]
+                role = role.replace(" ","_")
                 new_e = self.index['temp_new_editor' ]
                 old_e = self.index['temp_old_editor' ]
                 self.index['old_%s' % role ]=old_e
                 self.index['new_%s' % role ]=new_e
-                
-                self.index['history']=data
 
                 del self.index['temp_role' ]
                 del self.index['temp_new_editor' ]
@@ -205,22 +209,23 @@ class MondoInfoHTMLParser(HTMLParser):
 
 
             elif self.matches(r'(.+) is the news editor of the (.+)',data, ["news_editor","name"]):
-                pass
+                self.sources(data)
 
             elif self.matches(r'(.+) was the editor when it folded (.+)',data, ["last_editor"]):
-                pass
+                self.sources(data)
 
             elif self.matches(r'For more (.+) contact information',data, ["name"]):
-                pass            
+                pass
 
             elif data.find('The newspaper accepts only local press release submissions.'):
                 self.index['accepts_submissions'] = "local"
+                self.sources(data)
 
             elif self.matches(r'covering (.+),',data, ["coverage2"]):
-                pass            
+                self.sources(data)
 
             elif self.matches(r'Search for (.+),',data, ["name"]):
-                pass            
+                pass
 
             elif data.find('Contact Information') >= 0:
                 pass
@@ -228,8 +233,8 @@ class MondoInfoHTMLParser(HTMLParser):
             else:
                 if 'name' in self.index:
                     if data == self.index['name']  :
-                        return                    
-                    
+                        return
+
                 #raise Exception("cannot parse '%s'" % data)
                 self.index[data]=self.href
 
@@ -237,11 +242,6 @@ url='%s/newspapers/usa/kansas.html' % BASE
 string = cache(url)
 parser = MyHTMLParser()
 parser.feed(string)
-
-
-info_parser = MondoInfoHTMLParser()
-
-
 
 for idx in parser.index:
     obj = parser.index[idx]
@@ -251,21 +251,16 @@ for idx in parser.index:
         if a in obj:
             url = obj[a]
             page = cache(url)
+            info_parser = MondoInfoHTMLParser()
             info_parser.feed(page)
-            #print(url)
-            #print("DUMP:%s" % 
-            #      pprint.pformat(info_parser.index)
-            #      )
-            parser.index[idx]['data']=dict(info_parser.index)
-            
-    
+            parser.index[idx].update(dict(info_parser.index))
+
+
 o= open('mondotimes.yaml', 'w')
 o.write (
     yaml.dump(
-        parser.index, 
+        parser.index,
         indent=4,
         default_flow_style=False
         )
     )
-
-
