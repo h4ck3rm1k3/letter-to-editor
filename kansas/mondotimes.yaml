@@ -1,438 +1,3518 @@
 ' Grain':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 1009, Manhattan, KS 66505
+        coverage1coverage2: with
+        editor: Donna Sullivan
+        editor_role: editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Grass
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/22027
     name: ' Grain'
 ' Times':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 16 S. Kansas, Liberal, KS 67901
+        coverage1coverage2: with
+        editor: Larry Phillips
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Liberal Leader
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/927/22008
     name: ' Times'
 ' Toiler':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5137/15387
     name: ' Toiler'
 '&':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5137/15387
     name: '&'
 1st Infantry Division Post:
+    data:
+        accepts_submissions: local
+        address: 121 South Pearl Street, Paola, KS 66071
+        coverage1coverage2: with
+        editor: Brian McCauley
+        editor_role: managing editor
+        history: Chris Walker replaced Gwen Larson as the editor of the Emporia Gazette.
+        location: Emporia, Kansas USA
+        name: Miami County Republic
+        new_editor: Chris Walker
+        old_editor: Gwen Larson
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/25434
     name: 1st Infantry Division Post
 Abilene Reflector-Chronicle:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 8, Abilene, KS 67410
+        coverage1coverage2: with
+        editor: Tim Horan
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Abilene Reflector-Chronicle
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5132/15382
     name: Abilene Reflector-Chronicle
 Active Aging:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 71, Halstead, KS 67056
+        coverage1coverage2: with
+        editor: Jackie Nelson
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hesston Record
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/24672
     name: Active Aging
 Anderson County Review:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 409, Garnett, KS 66032
+        coverage1coverage2: with
+        editor: Garold Dane Hicks
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Anderson County Review
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7279/21971
     name: Anderson County Review
 Andover American:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 149 S.Andover Rd, Suite E, Andover, KS 67002
+        coverage1coverage2: with
+        editor: Kent Bush
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Andover American
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/895/31150
     name: Andover American
 Anthony Republican:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 31, Anthony, KS 67003
+        coverage1coverage2: with
+        editor: Larry Dunn
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Anthony Republican
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/896/2352
     name: Anthony Republican
 Ark Valley News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 120, Valley Center, KS 67147
+        coverage1coverage2: with
+        editor: Chris Strunk
+        editor_role: editor
+        history: Colleen Truelsen replaced Travis Perry as the news editor of the
+            Osawatomie Graphic.
+        location: Emporia, Kansas USA
+        name: Ark Valley News
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Osawatomie Graphic.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/946/2433
     name: Ark Valley News
 Arkansas City Traveler:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 988, Arkansas City, KS 67005
+        coverage1coverage2: with
+        editor: Andrew Lawson
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Arkansas City Traveler
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/897/2353
     name: Arkansas City Traveler
 Atchison Globe:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 247, Atchison, KS 66002
+        coverage1coverage2: with
+        editor: Joe Warren
+        editor_role: editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Atchison Globe
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/898/2354
     name: Atchison Globe
 Augusta Daily Gazette:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 9, Augusta, KS 67010
+        coverage1coverage2: with
+        editor: Belinda Larsen
+        editor_role: news editor
+        history: Belinda Larsen replaced Michael McDermott as the news editor of the
+            Augusta Gazette.
+        location: Emporia, Kansas USA
+        name: Augusta Daily Gazette
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Belinda Larsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Michael McDermott
+        replace_date: December
+        test_name: Augusta Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/899/2355
     name: Augusta Daily Gazette
 Baldwin City Signal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 970, Baldwin City, KS 66006
+        coverage1coverage2: with
+        editor: Elvyn Jones
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Baldwin City Signal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/900/2356
     name: Baldwin City Signal
 Basehor Sentinel:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 520 E. 4th St., Tonganoxie, KS 66086
+        coverage1coverage2: with
+        editor: Shawn Linenberger
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Basehor Sentinel
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/10846/30100
     name: Basehor Sentinel
 Belleville Telescope:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 1805 N Street, Belleville, KS 66935
+        coverage1coverage2: with
+        editor: Deb Hadachek
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Belleville Telescope
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7257/21975
     name: Belleville Telescope
 Bird City Times:
+    data:
+        accepts_submissions: local
+        address: PO Box 220, Bird City, KS 67731-0220
+        coverage1coverage2: with
+        editor: Norma Martinez
+        editor_role: editor
+        history: Norma Martinez replaced Casey McCormick as the editor of the Bird
+            City Times.
+        location: Emporia, Kansas USA
+        name: Bird City Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Bird City Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7258/21976
     name: Bird City Times
 Bonner Springs-Edwardsville Chieftain:
+    data:
+        accepts_submissions: local
+        address: PO Box 256, Bonner Springs, KS 66012
+        coverage1coverage2: with
+        editor: Carolyn Boyer
+        editor_role: editor
+        history: Joey Young replaced Amy Houston as the editor of the Mount Hope Clarion.
+        location: Emporia, Kansas USA
+        name: Bonner Springs-Edwardsville Chieftain
+        new_Richard W. Clasen: '2007'
+        new_editor: Joey Young
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Amy Houston
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Mount Hope Clarion.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6409/19484
     name: Bonner Springs-Edwardsville Chieftain
 Bourbon County Review:
+    data:
+        accepts_submissions: local
+        address: PO Box 547, Fort Scott, KS 66701
+        coverage1coverage2: with
+        editor: Adam Holt
+        editor_role: managing editor
+        history: Adam Holt replaced Barbara Proffitt as the managing editor of the
+            Bourbon County Review.
+        location: Emporia, Kansas USA
+        name: Bourbon County Review
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Adam Holt
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Barbara Proffitt
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Bourbon County Review.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5135/33296
     name: Bourbon County Review
 Cawker City Ledger:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 7, Cawker City, KS 67430
+        coverage1coverage2: with
+        editor: LaRhea Cole
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Cawker City Ledger
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7263/21980
     name: Cawker City Ledger
 Chanute Tribune:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 310 W. Cherry Street, Chanute, KS 66720
+        coverage1coverage2: with
+        editor: Stu Butcher
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Chanute Tribune
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/902/2358
     name: Chanute Tribune
 Cheney Times Sentinel:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 544, Cheney, KS 67025
+        coverage1coverage2: with
+        editor: Jackie Nelson
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Cheney Times Sentinel
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/903/2359
     name: Cheney Times Sentinel
 Cherokee County News-Advocate:
+    data:
+        accepts_submissions: local
+        address: PO Box 231, Columbus, KS 66725
+        coverage1coverage2: with
+        editor: Patrick Richardson
+        editor_role: managing editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Cherokee County News-Advocate
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7255/21973
     name: Cherokee County News-Advocate
 Clark County Gazette:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 463, Minneola, KS 67865
+        coverage1coverage2: with
+        editor: Denice Kuhns
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Clark County Gazette
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7306/24662
     name: Clark County Gazette
 Clay Center Dispatch:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 519, Clay Center, KS 67432
+        coverage1coverage2: with
+        editor: Ryan D. Wilson
+        editor_role: news editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Clay Center Dispatch
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/904/2360
     name: Clay Center Dispatch
 Coffey County Republican:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box A, Burlington, KS 66839-0218
+        coverage1coverage2: with
+        editor: Becky Reeves
+        editor_role: news editor
+        history: Colleen Truelsen replaced Travis Perry as the news editor of the
+            Osawatomie Graphic.
+        location: Emporia, Kansas USA
+        name: Coffey County Republican
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Osawatomie Graphic.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7260/21977
     name: Coffey County Republican
 Colby Free Press:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 155 W 5th St., Colby, KS 67701-2312
+        coverage1coverage2: with
+        editor: Bill Blauvelt
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Colby Free Press
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5133/15383
     name: Colby Free Press
 Columbus Advocate:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 114 S. Kansas Ave, Columbus, KS 66725
+        coverage1coverage2: with
+        editor: Don Ratzlaff
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Columbus Advocate
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5134/15384
     name: Columbus Advocate
 Concordia Blade Empire:
+    data:
+        accepts_submissions: local
+        address: 510 Washington, Concordia, KS 66901
+        coverage1coverage2: with
+        editor: Brad Lowell
+        editor_role: editor
+        history: Norma Martinez replaced Casey McCormick as the editor of the Bird
+            City Times.
+        location: Emporia, Kansas USA
+        name: Concordia Blade Empire
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Bird City Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/911/15149
     name: Concordia Blade Empire
 Conway Springs Star and Argonia Argosy:
+    data:
+        accepts_submissions: local
+        address: PO Box 544, Cheney, KS 67025
+        coverage1coverage2: with
+        editor: Paul Rhodes
+        editor_role: editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Conway Springs Star and Argonia Argosy
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7268/21986
     name: Conway Springs Star and Argonia Argosy
 Derby Weekly Informer:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 842, Derby, KS 67037
+        coverage1coverage2: with
+        editor: Linda Stinnett
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Derby Weekly Informer
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/906/19486
     name: Derby Weekly Informer
 Dodge City Daily Globe:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 705 N. 2nd Ave, Dodge City, KS 67801
+        coverage1coverage2: with
+        editor: Mike Courson
+        editor_role: news director
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Dodge City Daily Globe
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/907/2363
     name: Dodge City Daily Globe
 Downs News and Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 717 Railroad St., Downs, KS 67437
+        coverage1coverage2: with
+        editor: Jack Krier
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Downs News and Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6411/19488
     name: Downs News and Times
 El Dorado Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 694, El Dorado, KS 67042
+        coverage1coverage2: with
+        editor: Julie Clements
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: El Dorado Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/908/2364
     name: El Dorado Times
 Ellinwood Leader:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 105 N. Main St., Ellinwood, KS 67526
+        coverage1coverage2: with
+        editor: Mike Courson
+        editor_role: news director
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Ellinwood Leader
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7273/21990
     name: Ellinwood Leader
 Ellis Review:
+    data:
+        accepts_submissions: local
+        address: PO Box 227, Ellis, KS 67637
+        coverage1coverage2: with
+        editor: Nichole Byers
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Ellis Review
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7274/21991
     name: Ellis Review
 Ellsworth County Independent Reporter:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 304 N. Douglas, Ellsworth, KS 67439
+        coverage1coverage2: with
+        editor: Linda Mowery-Denning
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Ellsworth County Independent Reporter
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5948/18838
     name: Ellsworth County Independent Reporter
 Emporia Gazette:
+    data:
+        accepts_submissions: local
+        address: 517 Merchant, Emporia, KS 66801
+        coverage1coverage2: with
+        editor: Chris Walker
+        editor_role: editor
+        history: Chris Walker replaced Gwen Larson as the editor of the Emporia Gazette.
+        location: Emporia, Kansas USA
+        name: Emporia Gazette
+        new_editor: Chris Walker
+        old_editor: Gwen Larson
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/909/2366
     name: Emporia Gazette
 Emporia State University Bulletin:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/909/2365
     name: Emporia State University Bulletin
 Eureka Herald:
+    data:
+        accepts_submissions: local
+        address: PO Box 590, Eureka, KS 67045
+        coverage1coverage2: with
+        editor: Robin Wunderlich
+        editor_role: editor
+        history: In December 2007 Robin A. Wunderlich replaced Richard W. Clasen as
+            editor of the Eureka Herald.
+        location: Emporia, Kansas USA
+        name: Eureka Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        replace_date: December
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/910/2367
     name: Eureka Herald
 FHSU University Leader:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 422 Seneca, Leavenworth, KS 66048
+        coverage1coverage2: with
+        editor: Rimsie McConiga
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Leavenworth Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/917/2378
     name: FHSU University Leader
 Farm Talk:
+    data:
+        accepts_submissions: local
+        address: 517 Merchant, Emporia, KS 66801
+        coverage1coverage2: with
+        editor: Chris Walker
+        editor_role: editor
+        history: Chris Walker replaced Gwen Larson as the editor of the Emporia Gazette.
+        location: Emporia, Kansas USA
+        name: Emporia Gazette
+        new_editor: Chris Walker
+        old_editor: Gwen Larson
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/938/25898
     name: Farm Talk
 Fort Leavenworth Lamp:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 10, Hillsboro, KS 67063-0010
+        coverage1coverage2: with
+        editor: Adam Stewart
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hillsboro Star-Journal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/925/25433
     name: Fort Leavenworth Lamp
 Fort Scott Tribune:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 150, Fort Scott, KS 66701
+        coverage1coverage2: with
+        editor: Tammy Helm
+        editor_role: managing editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Fort Scott Tribune
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5135/15385
     name: Fort Scott Tribune
 Galena Sentinel Times:
+    data:
+        accepts_submissions: local
+        address: 511 S. Main, Galena, KS 66739
+        coverage1coverage2: with
+        editor: Machelle Smith
+        editor_role: editor
+        history: In December 2007 Robin A. Wunderlich replaced Richard W. Clasen as
+            editor of the Eureka Herald.
+        location: Emporia, Kansas USA
+        name: Galena Sentinel Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        replace_date: December
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7278/21995
     name: Galena Sentinel Times
 Garden City Telegram:
+    data:
+        accepts_submissions: local
+        address: PO Box 958, Garden City, KS 67846
+        coverage1coverage2: with
+        editor: Brett Riggs
+        editor_role: managing editor
+        history: Norma Martinez replaced Casey McCormick as the editor of the Bird
+            City Times.
+        location: Emporia, Kansas USA
+        name: Garden City Telegram
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Bird City Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/912/2369
     name: Garden City Telegram
 Gardner News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 303, Gardner, KS 66030
+        coverage1coverage2: with
+        editor: Denedri Thompson
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Gardner News
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/913/2371
     name: Gardner News
 Goodland Star News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 1205 Main Street, Goodland, KS 67735
+        coverage1coverage2: with
+        editor: Kevin Bottrell
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Goodland Star News
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/914/2372
     name: Goodland Star News
 'Grass ':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 1009, Manhattan, KS 66505
+        coverage1coverage2: with
+        editor: Donna Sullivan
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Grass
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/22027
     name: 'Grass '
 Great Bend Tribune:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 2012 Forest Ave., Great Bend, KS 67530
+        coverage1coverage2: with
+        editor: Dale Hogg
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Great Bend Tribune
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/915/2374
     name: Great Bend Tribune
 Greeley County Republican:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 610, Tribune, KS 67879
+        coverage1coverage2: with
+        editor: Dan M. Epp
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Greeley County Republican
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7336/22069
     name: Greeley County Republican
 Gyp Hill Premiere:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 127, Medicine Lodge, KS 67104-0127
+        coverage1coverage2: with
+        editor: Kevin J. Noland
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Gyp Hill Premiere
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/932/2406
     name: Gyp Hill Premiere
 Harvey County Independent:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 71, Halstead, KS 67056
+        coverage1coverage2: with
+        editor: Karen Jacobs
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Harvey County Independent
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7281/22036
     name: Harvey County Independent
 Hays Daily News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 507 Main St., Hays, KS 67601
+        coverage1coverage2: with
+        editor: Ron Fields
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hays Daily News
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/917/2377
     name: Hays Daily News
 Hesston Record:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 71, Halstead, KS 67056
+        coverage1coverage2: with
+        editor: Jackie Nelson
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hesston Record
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6413/19490
     name: Hesston Record
 Hiawatha World:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 607 Utah St., Hiawatha, KS 66434
+        coverage1coverage2: with
+        editor: Joe Warren
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hiawatha World
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7387/22001
     name: Hiawatha World
 High Plains Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 760, Dodge City, KS 67801
+        coverage1coverage2: with
+        editor: Holly Martin
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: High Plains Journal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/907/19487
     name: High Plains Journal
 Hillsboro Free Press:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 116 S. Main St., Hillsboro, KS 67063
+        coverage1coverage2: with
+        editor: Don Ratzlaff
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Hillsboro Free Press
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/918/4506
     name: Hillsboro Free Press
 Hillsboro Star-Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 10, Hillsboro, KS 67063-0010
+        coverage1coverage2: with
+        editor: Adam Stewart
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hillsboro Star-Journal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/918/2379
     name: Hillsboro Star-Journal
 Hoisington Dispatch:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 104 N. Main St., Hosington, KS 67544
+        coverage1coverage2: with
+        editor: Mike Courson
+        editor_role: news director
+        history: Jackie Taylor replaced Barbara Proffitt who previously replaced Brad
+            Allen as the editor of the Linn County News.
+        location: Emporia, Kansas USA
+        name: Hoisington Dispatch
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Linn County News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/10547/30065
     name: Hoisington Dispatch
 Holton Recorder:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 311, Holton, KS 66436
+        coverage1coverage2: with
+        editor: David Powls
+        editor_role: editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Holton Recorder
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6414/19491
     name: Holton Recorder
 Hugoton Hermes:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 522 S. Main St., Hugoton, KS 67951
+        coverage1coverage2: with
+        editor: RoGlenda Coulter
+        editor_role: editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Hugoton Hermes
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7287/22005
     name: Hugoton Hermes
 Hutchinson News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 190, Hutchinson, KS 67504-0190
+        coverage1coverage2: with
+        editor: Mary Rintoul
+        editor_role: managing editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Hutchinson News
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/919/2380
     name: Hutchinson News
 Iola Register:
+    data:
+        accepts_submissions: local
+        address: 302 South Washington, Iola, KS 66749
+        coverage1coverage2: with
+        editor: Susan Lynn
+        editor_role: editor
+        history: Norma Martinez replaced Casey McCormick as the editor of the Bird
+            City Times.
+        location: Emporia, Kansas USA
+        name: Iola Register
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Bird City Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/920/2381
     name: Iola Register
 Jewell County Record:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 305, Mankato, KS 66956
+        coverage1coverage2: with
+        editor: Bill Blauvelt
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Jewell County Record
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7301/2434
     name: Jewell County Record
 Johnson County Sun:
+    data:
+        accepts_submissions: local
+        address: 527 Market St., Osage City, KS 66523
+        coverage1coverage2: with
+        editor: Jeremy Gaston
+        editor_role: managing editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Osage County Herald-Chronicle
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/937/2414
     name: Johnson County Sun
 Junction City Daily Union:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 129, Junction City, KS 66441
+        coverage1coverage2: with
+        editor: Lisa Seiser
+        editor_role: managing editor
+        history: Lisa Seiser replaced Mike Heronemus as the managing editor of the
+            Daily Union.
+        location: Emporia, Kansas USA
+        name: Junction City Daily Union
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Lisa Seiser
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Mike Heronemus
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Daily Union.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/921/2382
     name: Junction City Daily Union
 Kansas City Jewish Chronicle:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/922/2386
     name: Kansas City Jewish Chronicle
 Kansas City Wednesday Sun:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 4370 West 109th Street, Suite 300, Overland Park, KS 66211
+        coverage1coverage2: with
+        editor: Candace Rachel
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Kansas City Wednesday Sun
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/922/22896
     name: Kansas City Wednesday Sun
 Kansas State Collegian:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 970, Baldwin City, KS 66006
+        coverage1coverage2: with
+        editor: Elvyn Jones
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Baldwin City Signal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/2401
     name: Kansas State Collegian
 Kingman Leader-Courier:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 140 N. Main Street, Kingman, KS 67068
+        coverage1coverage2: with
+        editor: Nancy D. Borst
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Kingman Leader-Courier
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7289/22012
     name: Kingman Leader-Courier
 Kiowa County Signal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 101 S. Main Street, Suite 207, Greensburg, KS 67054
+        coverage1coverage2: with
+        editor: Patrick Clement
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Kiowa County Signal
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7280/21998
     name: Kiowa County Signal
 Kiowa News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 614 Main St., Kiowa, KS 67070
+        coverage1coverage2: with
+        editor: Rex Zimmerman
+        editor_role: editor
+        history: Colleen Truelsen replaced Travis Perry as the news editor of the
+            Osawatomie Graphic.
+        location: Emporia, Kansas USA
+        name: Kiowa News
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Osawatomie Graphic.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6415/19493
     name: Kiowa News
 Labette Avenue:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 269, Oswego, KS 67356
+        coverage1coverage2: with
+        editor: Rena Russell
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Labette Avenue
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7264/21981
     name: Labette Avenue
 Lakin Independent:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 45, Lakin, KS 67860
+        coverage1coverage2: with
+        editor: Kathy McVey
+        editor_role: editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Lakin Independent
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/923/22011
     name: Lakin Independent
 'Larned Tiller ':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Jackie Taylor replaced Barbara Proffitt who previously replaced Brad
+            Allen as the editor of the Linn County News.
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Linn County News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/5137/15387
     name: 'Larned Tiller '
 Lawrence Journal World:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 7, Cawker City, KS 67430
+        coverage1coverage2: with
+        editor: LaRhea Cole
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Cawker City Ledger
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/924/2393
     name: Lawrence Journal World
 Leavenworth Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 422 Seneca, Leavenworth, KS 66048
+        coverage1coverage2: with
+        editor: Rimsie McConiga
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Leavenworth Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/925/2397
     name: Leavenworth Times
 Lebanon Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 700 Kansas Street, Lebanon, KS 66952
+        coverage1coverage2: with
+        editor: Becky Reeves
+        editor_role: news editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Lebanon Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7389/22015
     name: Lebanon Times
 'Liberal Leader ':
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 16 S. Kansas, Liberal, KS 67901
+        coverage1coverage2: with
+        editor: Larry Phillips
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Liberal Leader
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/927/22008
     name: 'Liberal Leader '
 Liberty Press:
+    data:
+        accepts_submissions: local
+        address: PO Box 158, Alma, KS 66401
+        coverage1coverage2: with
+        editor: Ervan D. Stuewe
+        editor_role: editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Wabaunsee County Signal Enterprise
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/25300
     name: Liberty Press
 Lincoln Sentinel-Republican:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 67, Lincoln, KS 67455
+        coverage1coverage2: with
+        editor: John Baetz
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Lincoln Sentinel-Republican
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7293/22018
     name: Lincoln Sentinel-Republican
 Linn County News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 808 Main Street, Pleasanton, KS 66075
+        coverage1coverage2: with
+        editor: Jackie Taylor
+        editor_role: editor
+        history: Jackie Taylor replaced Barbara Proffitt who previously replaced Brad
+            Allen as the editor of the Linn County News.
+        location: Emporia, Kansas USA
+        name: Linn County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Linn County News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7323/22052
     name: Linn County News
 Louisburg Herald:
+    data:
+        accepts_submissions: local
+        address: 15 S. Broadway St., Louisburg, KS 66071
+        coverage1coverage2: with
+        editor: Allysha Newton
+        editor_role: news editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Louisburg Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7297/22022
     name: Louisburg Herald
 Lyons News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 210 W. Commercial St., Lyons, KS 67554
+        coverage1coverage2: with
+        editor: David Settle
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Lyons News
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7299/22024
     name: Lyons News
 Manhattan Free Press:
+    data:
+        accepts_submissions: local
+        address: PO Box 1191, Manhattan, KS 66505
+        coverage1coverage2: with
+        editor: Jon A. Brake
+        editor_role: editor
+        history: Chad Frey replaced Christine Wyrick as the managing editor of the
+            Newton Kansan.
+        location: Emporia, Kansas USA
+        name: Manhattan Free Press
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Chad Frey
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Christine Wyrick
+        replace_date: December
+        test_name: Newton Kansan.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/22026
     name: Manhattan Free Press
 Manhattan Mercury:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 318 North 5th Street, Manhattan, KS 66502
+        coverage1coverage2: with
+        editor: Terry Spradley
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Manhattan Mercury
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/928/2402
     name: Manhattan Mercury
 Marion County Record:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 278, Marion, KS 66861-0278
+        coverage1coverage2: with
+        editor: Adam Stewart
+        editor_role: news editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Marion County Record
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/929/2403
     name: Marion County Record
 Marysville Advocate:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 271, Marysville, KS 66508
+        coverage1coverage2: with
+        editor: Sarah Kessinger
+        editor_role: editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Marysville Advocate
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/930/2404
     name: Marysville Advocate
 McPherson Sentinel:
+    data:
+        accepts_submissions: local
+        address: 301 S. Main Street, McPherson, KS 67460
+        coverage1coverage2: with
+        editor: Cristina Janney
+        editor_role: managing editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: McPherson Sentinel
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/931/2405
     name: McPherson Sentinel
 Meade County News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 310, Meade, KS 67864
+        coverage1coverage2: with
+        editor: Tom Kuhns
+        editor_role: editor
+        history: Colleen Truelsen replaced Travis Perry as the news editor of the
+            Osawatomie Graphic.
+        location: Emporia, Kansas USA
+        name: Meade County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Osawatomie Graphic.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7303/22030
     name: Meade County News
 Mennonite Weekly Review:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 279, Sharon Springs, KS 67758
+        coverage1coverage2: with
+        editor: Julie Samuelson
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Western Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/933/24601
     name: Mennonite Weekly Review
 Miami County Republic:
+    data:
+        accepts_submissions: local
+        address: 121 South Pearl Street, Paola, KS 66071
+        coverage1coverage2: with
+        editor: Brian McCauley
+        editor_role: managing editor
+        history: Chris Walker replaced Gwen Larson as the editor of the Emporia Gazette.
+        location: Emporia, Kansas USA
+        name: Miami County Republic
+        new_editor: Chris Walker
+        old_editor: Gwen Larson
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7319/22048
     name: Miami County Republic
 Minneapolis Messenger:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 108, Minneapolis, KS 67467
+        coverage1coverage2: with
+        editor: John Wilson
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Minneapolis Messenger
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7305/22032
     name: Minneapolis Messenger
 Montgomery County Chronicle:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 186, Caney, KS 67333
+        coverage1coverage2: with
+        editor: Andy Taylor
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Montgomery County Chronicle
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7262/21979
     name: Montgomery County Chronicle
 Moundridge Ledger:
+    data:
+        accepts_submissions: local
+        address: PO Box 720, Moundridge, KS 67107
+        coverage1coverage2: with
+        editor: Randy Fogg
+        editor_role: editor
+        history: Andrew Nash replaced Stephen Wade as the managing editor of the Pittsburg
+            Morning Sun.
+        location: Emporia, Kansas USA
+        name: Moundridge Ledger
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Andrew Nash
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Stephen Wade
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Pittsburg Morning Sun.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7307/22035
     name: Moundridge Ledger
 Mount Hope Clarion:
+    data:
+        accepts_submissions: local
+        address: 314 North Main, Andale, KS 67001
+        coverage1coverage2: with
+        editor: Joey Young
+        editor_role: editor
+        history: Joey Young replaced Amy Houston as the editor of the Mount Hope Clarion.
+        location: Emporia, Kansas USA
+        name: Mount Hope Clarion
+        new_Richard W. Clasen: '2007'
+        new_editor: Joey Young
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Amy Houston
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Mount Hope Clarion.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7308/22037
     name: Mount Hope Clarion
 Neodesha Derrick:
+    data:
+        accepts_submissions: local
+        address: 502 Main Street, Neodesha, KS 66757
+        coverage1coverage2: with
+        editor: Jo Anne Hartley Harper
+        editor_role: editor
+        history: Chris Walker replaced Gwen Larson as the editor of the Emporia Gazette.
+        location: Emporia, Kansas USA
+        name: Neodesha Derrick
+        new_editor: Chris Walker
+        old_editor: Gwen Larson
+        test_name: Emporia Gazette.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7310/22039
     name: Neodesha Derrick
 Newton Kansan:
+    data:
+        accepts_submissions: local
+        address: 121 W. Sixth Street, Newton, KS 67114
+        coverage1coverage2: with
+        editor: Chad Frey
+        editor_role: managing editor
+        history: Chad Frey replaced Christine Wyrick as the managing editor of the
+            Newton Kansan.
+        location: Emporia, Kansas USA
+        name: Newton Kansan
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Chad Frey
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Christine Wyrick
+        replace_date: December
+        test_name: Newton Kansan.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/933/2407
     name: Newton Kansan
 Norton Telegram:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 215 S. Kansas Ave., Norton, KS 67654
+        coverage1coverage2: with
+        editor: Becky Reeves
+        editor_role: news editor
+        history: Dana Paxton replaced Carlleen Bell as the managing editor of the
+            Norton Telegram.
+        location: Emporia, Kansas USA
+        name: Norton Telegram
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Norton Telegram.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7312/22041
     name: Norton Telegram
 Oberlin Herald:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 170 S. Penn Avenue, Oberlin, KS 67749
+        coverage1coverage2: with
+        editor: Steve Haynes
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Oberlin Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/934/2409
     name: Oberlin Herald
 Olathe News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 514 South Kansas Ave, Olathe, KS 66061
+        coverage1coverage2: with
+        editor: Richard Espinoza
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Olathe News
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/935/2410
     name: Olathe News
 Osage County Herald-Chronicle:
+    data:
+        accepts_submissions: local
+        address: 527 Market St., Osage City, KS 66523
+        coverage1coverage2: with
+        editor: Jeremy Gaston
+        editor_role: managing editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Osage County Herald-Chronicle
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7314/22043
     name: Osage County Herald-Chronicle
 Osawatomie Graphic:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 635 Main Street, Osawatomie, KS 66064
+        coverage1coverage2: with
+        editor: Colleen Truelsen
+        editor_role: news editor
+        history: Colleen Truelsen replaced Travis Perry as the news editor of the
+            Osawatomie Graphic.
+        location: Emporia, Kansas USA
+        name: Osawatomie Graphic
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Osawatomie Graphic.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7315/22044
     name: Osawatomie Graphic
 Osborne County Farmer:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 210 W. Main, Osborne, KS 67473
+        coverage1coverage2: with
+        editor: Stephanie Baxa
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Osborne County Farmer
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7316/22045
     name: Osborne County Farmer
 Oskaloosa Independent:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 278, Oskaloosa, KS 66066
+        coverage1coverage2: with
+        editor: Dennis Sharkey
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Oskaloosa Independent
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7317/22046
     name: Oskaloosa Independent
 Ottawa Herald:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 104 S. Cedar, Ottawa, KS 66067
+        coverage1coverage2: with
+        editor: Jeanny Sharp
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Ottawa Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/936/2411
     name: Ottawa Herald
 PSU Collegio:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 45, Lakin, KS 67860
+        coverage1coverage2: with
+        editor: Kathy McVey
+        editor_role: editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Lakin Independent
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/939/2419
     name: PSU Collegio
 Parsons Sun:
+    data:
+        accepts_submissions: local
+        address: PO Box 836, Parsons, KS 67357
+        coverage1coverage2: with
+        editor: Ray Nolting
+        editor_role: managing editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Parsons Sun
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/938/2418
     name: Parsons Sun
 Peabody Gazette-Bulletin:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 113 N. Walnut St., Peabody, KS 66866-1059
+        coverage1coverage2: with
+        editor: Susan Marshall
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Peabody Gazette-Bulletin
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7320/22049
     name: Peabody Gazette-Bulletin
 Phillips County Review:
+    data:
+        accepts_submissions: local
+        address: PO Box 446, Phillipsburg, KS 67661
+        coverage1coverage2: with
+        editor: Kirby Ross
+        editor_role: editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Phillips County Review
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7321/22050
     name: Phillips County Review
 Pittsburg Morning Sun:
+    data:
+        accepts_submissions: local
+        address: 701 N. Locust St., Pittsburg, KS 66762
+        coverage1coverage2: with
+        editor: Andrew Nash
+        editor_role: managing editor
+        history: Andrew Nash replaced Stephen Wade as the managing editor of the Pittsburg
+            Morning Sun.
+        location: Emporia, Kansas USA
+        name: Pittsburg Morning Sun
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Andrew Nash
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Stephen Wade
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Pittsburg Morning Sun.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/939/2421
     name: Pittsburg Morning Sun
 Plainville Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 40, Plainville, KS 67663
+        coverage1coverage2: with
+        editor: Candace Rachel
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Plainville Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7322/22051
     name: Plainville Times
 Prairie Star:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 417, Sedan, KS 67361
+        coverage1coverage2: with
+        editor: Jenny Diveley
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Prairie Star
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/942/2424
     name: Prairie Star
 Pratt Tribune:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 909, Pratt, KS 67124
+        coverage1coverage2: with
+        editor: Dan M. Epp
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Pratt Tribune
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/940/2422
     name: Pratt Tribune
 Rush County News:
+    data:
+        accepts_submissions: local
+        address: PO Box 60, La Crosse, KS 67548
+        coverage1coverage2: with
+        editor: Tim Engel
+        editor_role: managing editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Rush County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7291/22014
     name: Rush County News
 Russell County News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 513, Russell, KS 67665
+        coverage1coverage2: with
+        editor: Marcus Ashlock
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Russell County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7325/22055
     name: Russell County News
 Sabetha Herald:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 208, Sabetha, KS 66534
+        coverage1coverage2: with
+        editor: Nancy D. Borst
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Sabetha Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7326/22056
     name: Sabetha Herald
 Saint Francis Herald:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 310 W. Washington St., Saint Francis, KS 67756
+        coverage1coverage2: with
+        editor: Karen Krien
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Saint Francis Herald
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7327/22062
     name: Saint Francis Herald
 Saint Marys Star:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 190, Saint Marys, KS 66536
+        coverage1coverage2: with
+        editor: Shanna Harrison
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Saint Marys Star
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7390/22064
     name: Saint Marys Star
 Salina Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 333 S. 4th Street, Salina, KS 67401
+        coverage1coverage2: with
+        editor: Sharon Montague
+        editor_role: editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Salina Journal
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/941/2423
     name: Salina Journal
 Seneca Courier-Tribune:
+    data:
+        accepts_submissions: local
+        address: 512 Main, Seneca, KS 66538-1928
+        coverage1coverage2: with
+        editor: Matt Diehl
+        editor_role: editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Seneca Courier-Tribune
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7329/22057
     name: Seneca Courier-Tribune
 Shawnee Dispatch:
+    data:
+        accepts_submissions: local
+        address: 6301 Pflumm Rd., Shawnee, KS 66216
+        coverage1coverage2: with
+        editor: Jason Kendall
+        editor_role: news editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Shawnee Dispatch
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/943/2415
     name: Shawnee Dispatch
 Smith County Pioneer:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 201 S. Main, Smith Center, KS 66967
+        coverage1coverage2: with
+        editor: Jack Krier
+        editor_role: editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Smith County Pioneer
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7330/22059
     name: Smith County Pioneer
 St. John News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 318 N. Main Street, St. John, KS 67576
+        coverage1coverage2: with
+        editor: Terry Spradley
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: St. John News
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7328/22063
     name: St. John News
 Sterling Bulletin:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 107 North Broadway Avenue, Sterling, KS 67579
+        coverage1coverage2: with
+        editor: Rene Wilson
+        editor_role: news editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Sterling Bulletin
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7334/22066
     name: Sterling Bulletin
 Syracuse Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 1137, Syracuse, KS 67878
+        coverage1coverage2: with
+        editor: Marcus Ashlock
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Syracuse Journal
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7335/22068
     name: Syracuse Journal
 Tonganoxie Mirror:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 520 E. Fourth Street, Tonganoxie, KS 66086
+        coverage1coverage2: with
+        editor: Shawn Linenberger
+        editor_role: news editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Tonganoxie Mirror
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/944/2426
     name: Tonganoxie Mirror
 Topeka Capital Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 115 W 5th St, Larned, KS 67550
+        coverage1coverage2: with
+        editor: John Settle
+        editor_role: editor
+        history: Shawn Linenberger replaced Carolyn Trowbridge who earlier replaced
+            John Taylor as the editor of the Sentinel
+        location: Emporia, Kansas USA
+        name: Larned Tiller
+        new_Richard W. Clasen: '2007'
+        new_editor: Shawn Linenberger replaced Carolyn Trowbridge who earlier
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: John Taylor
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Sentinel
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/945/2432
     name: Topeka Capital Journal
 Ulysses News:
+    data:
+        accepts_submissions: local
+        address: PO Box 706, Ulysses, KS 67880-0706
+        coverage1coverage2: with
+        editor: Shayla Jaquez
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Ulysses News
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/6417/21997
     name: Ulysses News
 University Daily Kansan:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 507 Main St., Hays, KS 67601
+        coverage1coverage2: with
+        editor: Ron Fields
+        editor_role: managing editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Hays Daily News
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/924/2395
     name: University Daily Kansan
 Valley Falls Vindicator:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 187, Valley Falls, KS 66088
+        coverage1coverage2: with
+        editor: Clarke Davis
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Valley Falls Vindicator
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7337/22006
     name: Valley Falls Vindicator
 WSU Sunflower:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 808 Main Street, Pleasanton, KS 66075
+        coverage1coverage2: with
+        editor: Jackie Taylor
+        editor_role: editor
+        history: Jackie Taylor replaced Barbara Proffitt who previously replaced Brad
+            Allen as the editor of the Linn County News.
+        location: Emporia, Kansas USA
+        name: Linn County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Jackie Taylor replaced Barbara Proffitt who previously
+        new_managing editor: Lisa Seiser
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Brad Allen
+        old_managing editor: Mike Heronemus
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Linn County News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/2442
     name: WSU Sunflower
 Wabaunsee County Signal Enterprise:
+    data:
+        accepts_submissions: local
+        address: PO Box 158, Alma, KS 66401
+        coverage1coverage2: with
+        editor: Ervan D. Stuewe
+        editor_role: editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Wabaunsee County Signal Enterprise
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7253/21969
     name: Wabaunsee County Signal Enterprise
 Wamego Smoke Signal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 267, Wamego, KS 66547
+        coverage1coverage2: with
+        editor: Beth Day
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Wamego Smoke Signal
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7339/22053
     name: Wamego Smoke Signal
 Washington County News:
+    data:
+        accepts_submissions: local
+        address: 303 C Street, Washington, KS 66968-0316
+        coverage1coverage2: with
+        editor: Dan Thalmann
+        editor_role: editor
+        history: Cristina Janney replaced Katie Sawyer as the managing editor of the
+            McPherson Sentinel.
+        location: Emporia, Kansas USA
+        name: Washington County News
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Cristina Janney
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Katie Sawyer
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: McPherson Sentinel.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7341/22073
     name: Washington County News
 Wellington Daily News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 113 W. Harvey, Wellington, KS 67152
+        coverage1coverage2: with
+        editor: James Jordan
+        editor_role: managing editor
+        history: James Jordan replaced Nate Jones as the managing editor of the Wellington
+            Daily News.
+        location: Emporia, Kansas USA
+        name: Wellington Daily News
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Wellington Daily News.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/948/2435
     name: Wellington Daily News
 Western Times:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 279, Sharon Springs, KS 67758
+        coverage1coverage2: with
+        editor: Julie Samuelson
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Western Times
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7391/22058
     name: Western Times
 Westmoreland Recorder:
+    data:
+        accepts_submissions: local
+        address: PO Box 98, Westmoreland, KS 66549
+        coverage1coverage2: with
+        editor: Angela Holt
+        editor_role: managing editor
+        history: Jason Kendall replaced Rob Roberts as the news editor of the Dispatch.
+        location: Emporia, Kansas USA
+        name: Westmoreland Recorder
+        new_Richard W. Clasen: '2007'
+        new_editor: Norma Martinez
+        new_managing editor: Jeremy Gaston
+        new_news editor: Jason Kendall
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Casey McCormick
+        old_managing editor: Wayne White
+        old_news editor: Rob Roberts
+        replace_date: December
+        test_name: Dispatch.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7342/22074
     name: Westmoreland Recorder
 Wichita Business Journal:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 8, Abilene, KS 67410
+        coverage1coverage2: with
+        editor: Tim Horan
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Abilene Reflector-Chronicle
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/2443
     name: Wichita Business Journal
 Wichita Catholic Advance:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 16 S. Kansas, Liberal, KS 67901
+        coverage1coverage2: with
+        editor: Larry Phillips
+        editor_role: editor
+        history: Shanna Harrison replaced Ranae Tetlow as the editor of the Saint
+            Marys Star.
+        location: Emporia, Kansas USA
+        name: Liberal Leader
+        new_Richard W. Clasen: '2007'
+        new_editor: Shanna Harrison
+        new_managing editor: James Jordan
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Ranae Tetlow
+        old_managing editor: Nate Jones
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Saint Marys Star.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/24602
     name: Wichita Catholic Advance
 Wichita Eagle:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: 825 E. Douglas, Wichita, KS 67202
+        coverage1coverage2: with
+        editor: Sherry Chisenhall
+        editor_role: editor
+        history: Linda Scott replaced Phyllis Bell as the editor of the Lebanon Times.
+        location: Emporia, Kansas USA
+        name: Wichita Eagle
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Dana Paxton
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Carlleen Bell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Lebanon Times.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/949/2445
     name: Wichita Eagle
 Wilson County Citizen:
+    data:
+        accepts_submissions: local
+        address: 406 N 7th Street, Fredonia, KS 66736
+        coverage1coverage2: with
+        editor: Mina DeBerry
+        editor_role: managing editor
+        history: Jeremy Gaston replaced Wayne White as the managing editor of the
+            Osage County Herald-Chronicle.
+        location: Emporia, Kansas USA
+        name: Wilson County Citizen
+        new_Richard W. Clasen: '2007'
+        new_editor: Chris Walker
+        new_managing editor: Jeremy Gaston
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Gwen Larson
+        old_managing editor: Wayne White
+        replace_date: December
+        test_name: Osage County Herald-Chronicle.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/7277/21994
     name: Wilson County Citizen
 Winfield Daily Courier:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 543, Winfield, KS 67156
+        coverage1coverage2: with
+        editor: Judith Zaccaria
+        editor_role: managing editor
+        history: Judith Zaccaria replaced Roy Graber as the managing editor of the
+            Daily Courier.
+        location: Emporia, Kansas USA
+        name: Winfield Daily Courier
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Judith Zaccaria
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Roy Graber
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Daily Courier.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/950/2446
     name: Winfield Daily Courier
 Wyandotte Daily News:
+    data:
+        The newspaper accepts only local press release submissions.: http://www.mondotimes.com%20http://www.jdoqocy.com/click-1451938-10776881?klp=5obit&KW2=Newspaper&location=KS
+        accepts_submissions: local
+        address: PO Box 12003, Kansas City, KS 66112
+        coverage1coverage2: with
+        editor: Mary Rupert
+        editor_role: managing editor
+        history: Tammy Helm replaced Ruth Campbell as the managing editor of the Fort
+            Scott Tribune.
+        location: Emporia, Kansas USA
+        name: Wyandotte Daily News
+        new_Richard W. Clasen: '2007'
+        new_editor: Linda Scott
+        new_managing editor: Tammy Helm
+        new_news editor: Colleen Truelsen
+        old_Richard W. Clasen: Robin A. Wunderlich
+        old_editor: Phyllis Bell
+        old_managing editor: Ruth Campbell
+        old_news editor: Travis Perry
+        replace_date: December
+        test_name: Fort Scott Tribune.
+        type: daily newspaper
     info_page: http://www.mondotimes.com/1/world/us/16/922/22010
     name: Wyandotte Daily News

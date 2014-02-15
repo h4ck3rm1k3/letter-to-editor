@@ -69,9 +69,12 @@ def index_data(filename, data):
         index_object(filename, data,i)
 
 
-for f in ('kansas_simple.yaml',
-          'media_in_kansas.yaml',
-          'usnpl.yaml'):
+for f in (
+    'kansas_simple.yaml',
+    'media_in_kansas.yaml',
+    'usnpl.yaml',
+    'mondotimes.yaml'
+    ):
     d = read(f)
     index_data(f,d)
 
