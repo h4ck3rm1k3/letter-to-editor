@@ -1,4 +1,5 @@
 import yaml
+import cache 
 
 def read (filename):
     stream = open(filename, 'r')
@@ -34,26 +35,31 @@ def index_object(filename, data,i):
         if not isinstance(v,str):
             continue
 
-        if not v:
-            continue
-
-        if v == '':
-            continue
-
-        if v == "NONE":
-            continue
         if v.startswith('No Website') :
             continue
 
-        if v[0] == "?":
-            continue
         v = v.strip().rstrip()
         v = v.rstrip("/")
         v = v.replace("http://","")
         v = v.replace("https://","")
+
+        # strip
+        if not v:
+            continue
+        if v == '':
+            continue
+        if v == "NONE":
+            continue
+        if v[0] == "?":
+            continue
+
         if v not in index:
             index[v]={}
         if k not in index[v]:
+
+            # now lets make sure we can cache this all
+            cache.cache("http://%s" %v)
+
             index[v][k]=[]
             print ("adding key:'%s' val'%s'" % (k, v))
             index[v][k].append(d)

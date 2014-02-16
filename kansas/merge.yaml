@@ -1,64 +1,4 @@
 index:
-    ? ''
-    :   Website:
-        - &id031
-            Address: 107 S. Burns
-            Alternate Address: PO Box 38
-            Circulation: '491'
-            City: Turon
-            County: Reno
-            Fax: None
-            Member Type: Active
-            Newspaper Name: Record (Turon)
-            Phone: 620-497-6448
-            State: KS
-            Type: Weekly
-            Website: ' '
-            ZIP: 67583-0038
-            roles:
-                Advertising Director:
-                    Name: Erin Green
-                Editor:
-                    Email: record@sctelcom.net
-                    Name: Erin Green
-                Managing Editor:
-                    Email: NONE
-                    Name: NONE
-                Publisher:
-                    Email: record@sctelcom.net
-                    Name: Stephen Green
-            src_name: Record (Turon)
-            src_url: http://kspress.com/viewRecord.php?recid=289
-    No Website...:
-        Website:
-        - &id047
-            Address: 205 Main St
-            Alternate Address: PO Box 218
-            Circulation: '1328'
-            City: WaKeeney
-            County: Trego
-            Fax: 785-743-5340
-            Member Type: Active
-            Newspaper Name: Western Kansas World
-            Phone: 785-743-2155
-            State: KS
-            Type: Weekly
-            Website: No Website...
-            ZIP: 67672-0218
-            roles:
-                Advertising Director:
-                    Name: Jerry Millard
-                Editor:
-                    Email: NONE
-                    Name: Jerry Millard
-                Managing Editor:
-                    Email: westernkansasworld@yahoo.com
-                    Name: Cathy Millard
-                Publisher:
-                    Email: NONE
-                    Name: Jerry Millard
-            src_name: Western Kansas World
-            src_url: http://kspress.com/viewRecord.php?recid=416
     abilene-rc.com:
         website:
         - &id004
@@ -125,7 +65,7 @@ index:
             wikipedia: ''
     anthonyrepublicannews.com:
         Website:
-        - &id051
+        - &id049
             Address: 121 E Main
             Alternate Address: PO Box 31
             Circulation: '1877'
@@ -154,7 +94,7 @@ index:
             src_name: Anthony Republican
             src_url: http://kspress.com/viewRecord.php?recid=54
         website:
-        - &id050
+        - &id048
             address: Anthony, Kansas
             contact_page: ''
             editor: ''
@@ -199,7 +139,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Basehore_Sentinal
     bonnersprings.com:
         website:
-        - &id041
+        - &id040
             address: Bonner Springs, Kansas
             contact_page: ''
             editor: ''
@@ -259,7 +199,7 @@ index:
             wikipedia: ''
     cjonline.com:
         named:
-        - &id115
+        - &id113
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1227
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=980
             F: https://www.facebook.com/TopekaCapitalJournal
@@ -324,7 +264,7 @@ index:
             wikipedia: ''
     derbyinformer.com:
         website:
-        - &id042
+        - &id041
             address: Derby, Kansas
             contact_page: ''
             editor: ''
@@ -359,7 +299,8 @@ index:
         - *id002
     en.wikipedia.org/wiki/Augusta_Daily_Gazette:
         wikipedia:
-        -   address: Augusta, Kansas
+        - &id083
+            address: Augusta, Kansas
             contact_page: ''
             editor: ''
             facebook: ''
@@ -391,7 +332,7 @@ index:
         - *id003
     en.wikipedia.org/wiki/Belleville_Telescope:
         wikipedia:
-        - &id054
+        - &id052
             address: 1805 N Street Belleville, Kan. 66935
             contact_page: ''
             editor: Deb Hadachek Editor dhadachek@gmail.com
@@ -450,7 +391,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Concordia_Blade-Empire
     en.wikipedia.org/wiki/Dodge_City_Daily_Globe:
         wikipedia:
-        - &id053
+        - &id051
             address: Dodge City, Kansas
             contact_page: ''
             editor: ''
@@ -465,7 +406,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Dodge_City_Daily_Globe
     en.wikipedia.org/wiki/Emporia_Gazette:
         wikipedia:
-        - &id034
+        - &id033
             address: ''
             contact_page: ''
             editor: ''
@@ -582,7 +523,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Hillsboro_Star-Journal
     en.wikipedia.org/wiki/Junction_City_Post:
         wikipedia:
-        - &id173
+        - &id171
             address: ''
             contact_page: ''
             editor: ''
@@ -597,7 +538,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Junction_City_Post
     en.wikipedia.org/wiki/Kansas_City_Kansan:
         wikipedia:
-        - &id111
+        - &id109
             address: Kansas City,KS
             contact_page: ''
             editor: "Nick Sloan | nick@kansascitykansan.com \nExecutive Publisher\n\
@@ -613,7 +554,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Kansas_City_Kansan
     en.wikipedia.org/wiki/Kansas_State_Collegian:
         wikipedia:
-        - &id049
+        - &id047
             address: Kansas State University
             contact_page: ''
             editor: ''
@@ -647,7 +588,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Lawrence_Journal-World
     en.wikipedia.org/wiki/Leavenworth_Times:
         wikipedia:
-        - &id039
+        - &id038
             address: 422 Seneca St, Leavenworth, KS 66048
             contact_page: ''
             editor: General Manager/Executive EditorDale Brendeldbrendel@leavenworthtimes.com
@@ -662,7 +603,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Leavenworth_Times
     en.wikipedia.org/wiki/Marion_County_Record:
         wikipedia:
-        - &id040
+        - &id039
             address: Marion, Kansas
             contact_page: ''
             editor: ''
@@ -710,7 +651,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/Ottawa_Herald
     en.wikipedia.org/wiki/Peabody_Gazette-Bulletin:
         wikipedia:
-        - &id044
+        - &id043
             address: Peabody, Kansas
             contact_page: ''
             editor: ''
@@ -728,7 +669,7 @@ index:
         - *id004
     en.wikipedia.org/wiki/The_Arkansas_City_Traveler:
         wikipedia:
-        - &id052
+        - &id050
             address: ''
             contact_page: ''
             editor: ''
@@ -758,7 +699,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Coffeyville_Journal
     en.wikipedia.org/wiki/The_Daily_Union:
         wikipedia:
-        - &id255
+        - &id253
             address: ''
             contact_page: ''
             editor: ''
@@ -773,7 +714,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Daily_Union
     en.wikipedia.org/wiki/The_De_Soto_Explorer:
         wikipedia:
-        - &id066
+        - &id064
             address: 'Address: 645 New Hampshire Street Lawrence, KS 66044'
             contact_page: http://www.desotoexplorer.com/about/contact/
             editor: editor@desotoexplorer.com
@@ -788,8 +729,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_De_Soto_Explorer
     en.wikipedia.org/wiki/The_El_Dorado_Times:
         wikipedia:
-        - &id085
-            address: ''
+        -   address: ''
             contact_page: ''
             editor: ''
             facebook: ''
@@ -803,7 +743,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_El_Dorado_Times
     en.wikipedia.org/wiki/The_Hutchinson_News:
         wikipedia:
-        - &id166
+        - &id164
             address: ''
             contact_page: ''
             editor: ''
@@ -818,7 +758,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Hutchinson_News
     en.wikipedia.org/wiki/The_Kansas_City_Star:
         wikipedia:
-        - &id036
+        - &id035
             address: The Star, 1729 Grand Blvd., Kansas City, MO. 64108.
             contact_page: http://www.kansascity.com/opinion/letters/
             editor: 'Mike Fannin, Editor and Vice President
@@ -874,7 +814,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Monitor_(Kansas_City)
     en.wikipedia.org/wiki/The_Morning_Sun_(Pittsburg):
         wikipedia:
-        - &id213
+        - &id211
             address: Pittsburg, Kansas
             contact_page: ''
             editor: ''
@@ -906,7 +846,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Newton_Kansan
     en.wikipedia.org/wiki/The_Olathe_News:
         wikipedia:
-        - &id261
+        - &id259
             address: 'The Olathe News
 
                 514 South Kansas Ave., Olathe, KS 66061'
@@ -925,7 +865,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Olathe_News
     en.wikipedia.org/wiki/The_Pitch_(newspaper):
         wikipedia:
-        - &id059
+        - &id057
             address: ''
             contact_page: ''
             editor: ''
@@ -940,7 +880,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Pitch_(newspaper)
     en.wikipedia.org/wiki/The_Pratt_Tribune:
         wikipedia:
-        - &id045
+        - &id044
             address: Pratt, Kansas
             contact_page: ''
             editor: ''
@@ -955,7 +895,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Pratt_Tribune
     en.wikipedia.org/wiki/The_Salina_Journal:
         wikipedia:
-        - &id055
+        - &id053
             address: 'The Salina Journal
 
                 333 S. 4th St.
@@ -989,7 +929,7 @@ index:
         - *id005
     en.wikipedia.org/wiki/The_Wellington_Daily_News:
         wikipedia:
-        - &id032
+        - &id031
             address: Wellington , Kansas
             contact_page: ''
             editor: ''
@@ -1004,7 +944,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Wellington_Daily_News
     en.wikipedia.org/wiki/The_Wichita_Eagle:
         wikipedia:
-        - &id057
+        - &id055
             address: '825 East Douglas Avenue
 
                 Wichita, KS 67202
@@ -1023,7 +963,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/The_Wichita_Eagle
     en.wikipedia.org/wiki/The_Winfield_Daily_Courier:
         wikipedia:
-        - &id035
+        - &id034
             address: 'The Winfield Daily Courier
 
 
@@ -1068,7 +1008,7 @@ index:
             wikipedia: https://en.wikipedia.org/wiki/University_Daily_Kansan
     esubulletin.com:
         website:
-        - &id056
+        - &id054
             address: Emporia State University
             contact_page: ''
             editor: ''
@@ -1083,7 +1023,7 @@ index:
             wikipedia: ''
     eurekaherald.com:
         website:
-        - &id048
+        - &id046
             address: Eureka, Kansas
             contact_page: ''
             editor: ''
@@ -1129,23 +1069,9 @@ index:
     gctelegram.com:
         website:
         - *id006
-    girardpress.com:
-        website:
-        -   address: Girard, Kansas
-            contact_page: ''
-            editor: ''
-            facebook: ''
-            fax: ''
-            ksa_site: ''
-            name: Girard Press
-            phone: ''
-            twitter: ''
-            user_forum: ''
-            website: http://girardpress.com
-            wikipedia: ''
     grassandgrain.com:
         Website:
-        - &id043
+        - &id042
             Address: PO Box 1009
             Alternate Address: NONE
             Circulation: '12000'
@@ -1178,7 +1104,7 @@ index:
         - *id007
     herald-online-dot-com.bloxcms-ny1.com/site/forms/online_services/letter:
         contact_page:
-        - &id046
+        - &id045
             address: 15 S Broadway St, Louisburg, KS 66053
             contact_page: https://herald-online-dot-com.bloxcms-ny1.com/site/forms/online_services/letter/
             editor: herald@miconews.com
@@ -1283,7 +1209,7 @@ index:
             wikipedia: ''
     iolaregister.com:
         website:
-        - &id033
+        - &id032
             address: Iola, Kansas
             contact_page: ''
             editor: ''
@@ -1318,7 +1244,7 @@ index:
         - *id009
     kiowacountysignal.com:
         website:
-        - &id037
+        - &id036
             address: Greensburg, Kansas
             contact_page: ''
             editor: ''
@@ -1333,7 +1259,7 @@ index:
             wikipedia: ''
     kiowanews.com:
         website:
-        - &id038
+        - &id037
             address: Kiowa, Kansas
             contact_page: ''
             editor: ''
@@ -1350,7 +1276,7 @@ index:
         ksa_site:
         - *id010
         src_url:
-        - &id080
+        - &id078
             Address: 510 Washington
             Alternate Address: PO Box 309
             Circulation: '2039'
@@ -1382,7 +1308,7 @@ index:
         ksa_site:
         - *id004
         src_url:
-        - &id069
+        - &id067
             Address: PO Box 8
             Alternate Address: 303 N Broadway
             Circulation: '3122'
@@ -1456,7 +1382,7 @@ index:
         ksa_site:
         - *id011
         src_url:
-        - &id161
+        - &id159
             Address: 1500 E Wyatt Earp
             Alternate Address: PO Box 760
             Circulation: '50790'
@@ -1541,7 +1467,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id234
+        - &id232
             Address: 406 Main
             Alternate Address: PO Box 377
             Circulation: '1838'
@@ -1626,8 +1552,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id200
-            Address: 717 E. Railroad St.
+        -   Address: 717 E. Railroad St.
             Alternate Address: NONE
             Circulation: '968'
             City: Downs
@@ -1758,7 +1683,7 @@ index:
         ksa_site:
         - *id013
         src_url:
-        - &id088
+        - &id086
             Address: PO Box 559
             Alternate Address: 310 W. Cherry
             Circulation: '3699'
@@ -1843,8 +1768,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id101
-            Address: 213 S. Main
+        -   Address: 213 S. Main
             Alternate Address: PO Box 159
             Circulation: '987'
             City: Erie
@@ -1946,7 +1870,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=125
     kspress.com/viewRecord.php?recid=1255:
         ksa_site:
-        - &id065
+        - &id063
             address: Cheney, Kansas
             contact_page: ''
             editor: ''
@@ -2044,7 +1968,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id296
+        - &id294
             Address: 121 N. Mead, Suite 100
             Alternate Address: NONE
             Circulation: '6209'
@@ -2087,7 +2011,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id262
+        - &id260
             Address: 2411 120th Ave
             Alternate Address: NONE
             Circulation: '6813'
@@ -2130,7 +2054,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id240
+        - &id238
             Address: PO Box 158
             Alternate Address: 323 Missouri St
             Circulation: '1280'
@@ -2173,7 +2097,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id075
+        - &id073
             Address: Baker University
             Alternate Address: 606 W. 8th, PO Box 65
             Circulation: NONE
@@ -2216,7 +2140,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id077
+        - &id075
             Address: Barton County Community College
             Alternate Address: 245 NE 30th Road
             Circulation: NONE
@@ -2275,7 +2199,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id083
+        - &id081
             Address: Butler County Community College
             Alternate Address: 901 S. Haverhill Rd.
             Circulation: NONE
@@ -2318,7 +2242,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id099
+        - &id097
             Address: Garden City Community College
             Alternate Address: 801 Campus Drive
             Circulation: '2250'
@@ -2403,7 +2327,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id214
+        - &id212
             Address: 401 Houston
             Alternate Address: NONE
             Circulation: '38000'
@@ -2446,7 +2370,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id184
+        - &id182
             Address: 7373 W. 107th St
             Alternate Address: NONE
             Circulation: '14100'
@@ -2478,7 +2402,7 @@ index:
         ksa_site:
         - *id016
         src_url:
-        - &id137
+        - &id135
             Address: 422 Seneca
             Alternate Address: NONE
             Circulation: '6000'
@@ -2521,7 +2445,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id292
+        - &id290
             Address: PO Box 20804  67208
             Alternate Address: 2918 E Douglas
             Circulation: '6600'
@@ -2564,7 +2488,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id141
+        - &id139
             Address: PO Box 403
             Alternate Address: 117 E. 4th
             Circulation: '1979'
@@ -2649,7 +2573,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id167
+        - &id165
             Address: Independence Community College
             Alternate Address: PO Box 708
             Circulation: NONE
@@ -2692,7 +2616,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id258
+        - &id256
             Address: PO Box 273
             Alternate Address: 1701 E. Cedar St. Ste. 111
             Circulation: NONE
@@ -2724,7 +2648,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=1437
     kspress.com/viewRecord.php?recid=1463:
         ksa_site:
-        - &id060
+        - &id058
             address: Pittsburg State University
             contact_page: ''
             editor: ''
@@ -2738,7 +2662,7 @@ index:
             website: http://psucollegio.com/
             wikipedia: ''
         src_url:
-        - &id227
+        - &id225
             Address: Pittsburg State University
             Alternate Address: 1701 S. Broadway
             Circulation: '5000'
@@ -2781,7 +2705,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id231
+        - &id229
             Address: 1024 Main St.
             Alternate Address: PO Box 208
             Circulation: '1959'
@@ -2855,7 +2779,7 @@ index:
         ksa_site:
         - *id017
         src_url:
-        - &id135
+        - &id133
             Address: PO Box 150
             Alternate Address: 12 E Wall Street
             Circulation: '1867'
@@ -2940,7 +2864,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id301
+        - &id300
             Address: P.O. Box 2305
             Alternate Address: 450 N. 17th Street
             Circulation: '1027'
@@ -2983,7 +2907,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id148
+        - &id146
             Address: 108 N Main
             Alternate Address: PO Box 127
             Circulation: '1113'
@@ -3068,7 +2992,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id095
+        - &id093
             Address: 512 Main
             Alternate Address: PO Box 100
             Circulation: '2670'
@@ -3184,7 +3108,7 @@ index:
         ksa_site:
         - *id018
         src_url:
-        - &id207
+        - &id205
             Address: 301 S. Main
             Alternate Address: PO Box 926
             Circulation: '2782'
@@ -3269,7 +3193,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id168
+        - &id166
             Address: 304 N Douglas Avenue
             Alternate Address: NONE
             Circulation: '2060'
@@ -3301,7 +3225,7 @@ index:
         ksa_site:
         - *id019
         src_url:
-        - &id076
+        - &id074
             Address: PO Box 970
             Alternate Address: 703 High Street
             Circulation: '899'
@@ -3344,7 +3268,8 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        -   Address: PO Box 544
+        - &id275
+            Address: PO Box 544
             Alternate Address: NONE
             Circulation: '1082'
             City: Cheney
@@ -3470,7 +3395,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id102
+        - &id100
             Address: 1701 S. 55th St.
             Alternate Address: NONE
             Circulation: '20000'
@@ -3555,7 +3480,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id201
+        - &id199
             Address: PO Box 1191
             Alternate Address: '103 N 3rd Street #C'
             Circulation: '2000'
@@ -3598,7 +3523,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id190
+        - &id188
             Address: PO Box 445
             Alternate Address: 221 S. Mill St.
             Circulation: NONE
@@ -3672,7 +3597,7 @@ index:
         ksa_site:
         - *id020
         src_url:
-        - &id164
+        - &id162
             Address: PO Box 190
             Alternate Address: 300 W 2nd
             Circulation: '32867'
@@ -3799,7 +3724,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id097
+        - &id095
             Address: Seward County Community College
             Alternate Address: 1801 N Kansas Avenue, PO Box 1137
             Circulation: '2200'
@@ -3831,7 +3756,7 @@ index:
         ksa_site:
         - *id021
         src_url:
-        - &id246
+        - &id244
             Address: PO Box 10
             Alternate Address: NONE
             Circulation: '777'
@@ -3874,7 +3799,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id300
+        - &id299
             Address: PO Box 13235
             Alternate Address: NONE
             Circulation: NONE
@@ -3906,7 +3831,7 @@ index:
         ksa_site:
         - *id022
         src_url:
-        - &id157
+        - &id155
             Address: 116 S. Main
             Alternate Address: NONE
             Circulation: '7500'
@@ -4064,7 +3989,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id100
+        - &id098
             Address: PO Box 842
             Alternate Address: 219 E. Madison
             Circulation: '1328'
@@ -4107,8 +4032,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id144
-            Address: PO Box 958
+        -   Address: PO Box 958
             Alternate Address: 310 N. Seventh St.
             Circulation: '3000'
             City: Garden City
@@ -4223,7 +4147,7 @@ index:
         ksa_site:
         - *id024
         src_url:
-        - &id198
+        - &id196
             Address: 645 New Hampshire
             Alternate Address: PO Box 888
             Circulation: '14898'
@@ -4255,7 +4179,7 @@ index:
         ksa_site:
         - *id025
         src_url:
-        - &id259
+        - &id257
             Address: 318 N 5th
             Alternate Address: PO Box 787
             Circulation: '10229'
@@ -4287,7 +4211,7 @@ index:
         ksa_site:
         - *id026
         src_url:
-        - &id256
+        - &id254
             Address: PO Box 268
             Alternate Address: 121 W. 6th Street
             Circulation: '5939'
@@ -4330,7 +4254,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id236
+        - &id234
             Address: 511 S. Main
             Alternate Address: NONE
             Circulation: '1285'
@@ -4373,7 +4297,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id140
+        - &id138
             Address: 112 W 6th
             Alternate Address: PO Box 409
             Circulation: '2919'
@@ -4405,7 +4329,7 @@ index:
         ksa_site:
         - *id027
         src_url:
-        - &id142
+        - &id140
             Address: NONE
             Alternate Address: 2012 Forest Ave.
             Circulation: '5826'
@@ -4450,7 +4374,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id150
+        - &id148
             Address: 220 Main
             Alternate Address: PO Box 71
             Circulation: '1700'
@@ -4608,7 +4532,7 @@ index:
         ksa_site:
         - *id001
         src_url:
-        - &id183
+        - &id181
             Address: Kansas City Kansas Community College
             Alternate Address: 7250 State Avenue
             Circulation: NONE
@@ -4651,7 +4575,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id094
+        - &id092
             Address: Colby Community College
             Alternate Address: 12555 Range
             Circulation: NONE
@@ -4694,7 +4618,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id079
+        - &id077
             Address: 1100 Main, Suite 210
             Alternate Address: NONE
             Circulation: '11334'
@@ -4724,7 +4648,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=2722
     kspress.com/viewRecord.php?recid=2723:
         ksa_site:
-        - &id087
+        - &id085
             address: ''
             contact_page: ''
             editor: ''
@@ -4738,7 +4662,7 @@ index:
             website: www.campusledger.com
             wikipedia: ''
         src_url:
-        - &id086
+        - &id084
             Address: Johnson County Community College
             Alternate Address: 12345 College Blvd., Box 7
             Circulation: '2500'
@@ -4854,7 +4778,7 @@ index:
         ksa_site:
         - *id008
         src_url:
-        - &id175
+        - &id173
             Address: 1000 Sunnyside DHDC Rm. 2051
             Alternate Address: University of Kansas
             Circulation: '11250'
@@ -4886,7 +4810,7 @@ index:
         ksa_site:
         - *id028
         src_url:
-        - &id156
+        - &id154
             Address: 607 Utah Street
             Alternate Address: NONE
             Circulation: '1826'
@@ -4916,7 +4840,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=2736
     kspress.com/viewRecord.php?recid=2742:
         ksa_site:
-        - &id239
+        - &id237
             address: 6301 Pflumm Rd, Shawnee, KS 66216
             contact_page: ''
             editor: ''
@@ -4930,7 +4854,7 @@ index:
             website: http://www.shawneedispatch.com/
             wikipedia: ''
         src_url:
-        - &id237
+        - &id235
             Address: 6301 Pflumm Road, Ste. 102
             Alternate Address: NONE
             Circulation: '22560'
@@ -4973,7 +4897,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id263
+        - &id261
             Address: 400 N Woodlawn, Suite 10
             Alternate Address: NONE
             Circulation: NONE
@@ -5058,7 +4982,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id155
+        - &id153
             Address: PO Box 340
             Alternate Address: 347B N Old 81 Highway
             Circulation: '934'
@@ -5090,7 +5014,7 @@ index:
         ksa_site:
         - *id029
         src_url:
-        - &id220
+        - &id218
             Address: 104 S Cedar
             Alternate Address: NONE
             Circulation: '3824'
@@ -5175,7 +5099,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id209
+        - &id207
             Address: PO Box 330
             Alternate Address: 104 Main
             Circulation: '1326'
@@ -5220,7 +5144,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id219
+        - &id217
             Address: 527 Market Street
             Alternate Address: PO Box 266
             Circulation: '3898'
@@ -5252,7 +5176,7 @@ index:
         ksa_site:
         - *id030
         src_url:
-        - &id159
+        - &id157
             Address: 109 W. Fourth Street
             Alternate Address: P.O. Box 311
             Circulation: '4575'
@@ -5379,12 +5303,38 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - *id031
+        -   Address: 107 S. Burns
+            Alternate Address: PO Box 38
+            Circulation: '491'
+            City: Turon
+            County: Reno
+            Fax: None
+            Member Type: Active
+            Newspaper Name: Record (Turon)
+            Phone: 620-497-6448
+            State: KS
+            Type: Weekly
+            Website: ' '
+            ZIP: 67583-0038
+            roles:
+                Advertising Director:
+                    Name: Erin Green
+                Editor:
+                    Email: record@sctelcom.net
+                    Name: Erin Green
+                Managing Editor:
+                    Email: NONE
+                    Name: NONE
+                Publisher:
+                    Email: record@sctelcom.net
+                    Name: Stephen Green
+            src_name: Record (Turon)
+            src_url: http://kspress.com/viewRecord.php?recid=289
     kspress.com/viewRecord.php?recid=29:
         ksa_site:
-        - *id032
+        - *id031
         src_url:
-        - &id293
+        - &id291
             Address: PO Box 368
             Alternate Address: 113 West Harvey
             Circulation: '2051'
@@ -5511,7 +5461,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id272
+        - &id270
             Address: 808 W. 25th St. N.
             Alternate Address: NONE
             Circulation: '15200'
@@ -5596,7 +5546,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id062
+        - &id060
             Address: Sterling College
             Alternate Address: 125 W Cooper St
             Circulation: NONE
@@ -5668,9 +5618,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=2916
     kspress.com/viewRecord.php?recid=292:
         ksa_site:
-        - *id033
+        - *id032
         src_url:
-        - &id171
+        - &id169
             Address: PO Box 767
             Alternate Address: 302 S Washington Avenue
             Circulation: '3032'
@@ -5755,7 +5705,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id249
+        - &id247
             Address: PO Box 305
             Alternate Address: 111 East Main
             Circulation: '871'
@@ -5785,7 +5735,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=294
     kspress.com/viewRecord.php?recid=296:
         ksa_site:
-        - &id180
+        - &id178
             address: 'The Kansas City Jewish Chronicle
 
                 4210 Shawnee Mission Parkway - Suite 314A
@@ -5803,7 +5753,7 @@ index:
             website: http://www.kcjc.com/
             wikipedia: ''
         src_url:
-        - &id181
+        - &id179
             Address: 4210 Shawnee Mission Parkway Ste. 314A
             Alternate Address: NONE
             Circulation: '2518'
@@ -5875,9 +5825,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=297
     kspress.com/viewRecord.php?recid=2975:
         ksa_site:
-        - *id034
+        - *id033
         src_url:
-        - &id103
+        - &id101
             Address: 517 Merchant St.
             Alternate Address: P.O. Drawer C
             Circulation: '6350'
@@ -6033,9 +5983,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=2993
     kspress.com/viewRecord.php?recid=30:
         ksa_site:
-        - *id035
+        - *id034
         src_url:
-        - &id298
+        - &id296
             Address: 201 E 9th Ave
             Alternate Address: PO Box 543
             Circulation: '4322'
@@ -6065,9 +6015,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=30
     kspress.com/viewRecord.php?recid=3016:
         ksa_site:
-        - *id036
+        - *id035
         src_url:
-        - &id179
+        - &id177
             Address: 1729 Grand Blvd.
             Alternate Address: NONE
             Circulation: '147463'
@@ -6152,7 +6102,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id297
+        - &id295
             Address: PO Box 330
             Alternate Address: 406 N 7th
             Circulation: '3216'
@@ -6195,7 +6145,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id253
+        - &id251
             Address: PO Box 492
             Alternate Address: NONE
             Circulation: '19950'
@@ -6225,9 +6175,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=3037
     kspress.com/viewRecord.php?recid=304:
         ksa_site:
-        - *id037
+        - *id036
         src_url:
-        - &id187
+        - &id185
             Address: PO Box 909
             Alternate Address: 120 N Main
             Circulation: '789'
@@ -6259,9 +6209,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=304
     kspress.com/viewRecord.php?recid=305:
         ksa_site:
-        - *id038
+        - *id037
         src_url:
-        - &id189
+        - &id187
             Address: 614 Main St
             Alternate Address: NONE
             Circulation: '1023'
@@ -6333,9 +6283,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=306
     kspress.com/viewRecord.php?recid=311:
         ksa_site:
-        - *id039
+        - *id038
         src_url:
-        - &id194
+        - &id192
             Address: 422 Seneca St.
             Alternate Address: NONE
             Circulation: '3790'
@@ -6378,7 +6328,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id196
+        - &id194
             Address: PO Box 67
             Alternate Address: 141 W Lincoln Ave
             Circulation: '1332'
@@ -6421,7 +6371,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id091
+        - &id089
             Address: PO Box 463
             Alternate Address: NONE
             Circulation: '760'
@@ -6506,7 +6456,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id197
+        - &id195
             Address: 808 Main, PO Box 478
             Alternate Address: NONE
             Circulation: '2368'
@@ -6549,7 +6499,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id260
+        - &id258
             Address: 417 Main
             Alternate Address: PO Box 209
             Circulation: '210'
@@ -6789,7 +6739,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=32
     kspress.com/viewRecord.php?recid=320:
         ksa_site:
-        - &id061
+        - &id059
             address: 'Miami County Republic
 
 
@@ -6809,7 +6759,7 @@ index:
             website: http://www.republic-online.com/
             wikipedia: ''
         src_url:
-        - &id228
+        - &id226
             Address: PO Box 389
             Alternate Address: 121 S Pearl
             Circulation: '3060'
@@ -6923,9 +6873,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=324
     kspress.com/viewRecord.php?recid=326:
         ksa_site:
-        - *id040
+        - *id039
         src_url:
-        - &id202
+        - &id200
             Address: PO Box 278
             Alternate Address: 117 S Third
             Circulation: '2278'
@@ -6970,8 +6920,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id250
-            Address: PO Box 186
+        -   Address: PO Box 186
             Alternate Address: 204 W 4th
             Circulation: '1963'
             City: Caney
@@ -7013,7 +6962,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id204
+        - &id202
             Address: PO Box 308
             Alternate Address: 112 N Washington
             Circulation: '466'
@@ -7085,9 +7034,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=3280
     kspress.com/viewRecord.php?recid=3281:
         ksa_site:
-        - *id041
+        - *id040
         src_url:
-        - &id082
+        - &id080
             Address: 128 Oak
             Alternate Address: PO Box 256
             Circulation: '1083'
@@ -7214,7 +7163,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id163
+        - &id161
             Address: 218 S. Kansas
             Alternate Address: NONE
             Circulation: '5400'
@@ -7341,7 +7290,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id170
+        - &id168
             Address: 1729 Grand Blvd.
             Alternate Address: NONE
             Circulation: '48605'
@@ -7384,7 +7333,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id068
+        - &id066
             Address: 115 S. Kansas
             Alternate Address: PO Box 485
             Circulation: '18000'
@@ -7414,7 +7363,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=3323
     kspress.com/viewRecord.php?recid=3327:
         ksa_site:
-        - *id042
+        - *id041
         src_url:
         -   Address: PO Box 1337
             Alternate Address: NONE
@@ -7458,7 +7407,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id081
+        - &id079
             Address: Box 176
             Alternate Address: 409 East 7th
             Circulation: '1900'
@@ -7501,7 +7450,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id067
+        - &id065
             Address: 2722 SW Topeka Blvd
             Alternate Address: NONE
             Circulation: '17000'
@@ -7586,7 +7535,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id210
+        - &id208
             Address: PO Box 108
             Alternate Address: 108 N Concord
             Circulation: '1355'
@@ -7671,7 +7620,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id090
+        - &id088
             Address: PO Box 337
             Alternate Address: 314 N. Main
             Circulation: '1500'
@@ -7869,7 +7818,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=341
     kspress.com/viewRecord.php?recid=3419:
         ksa_site:
-        - &id058
+        - &id056
             address: Marysville, Kansas
             contact_page: ''
             editor: ''
@@ -7883,7 +7832,7 @@ index:
             website: http://marysvilleonline.net
             wikipedia: ''
         src_url:
-        - &id205
+        - &id203
             Address: 107 S 9th St
             Alternate Address: PO Box 271
             Circulation: '4400'
@@ -7968,7 +7917,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - *id043
+        - *id042
     kspress.com/viewRecord.php?recid=344:
         ksa_site:
         -   address: ''
@@ -8026,7 +7975,8 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        -   Address: 215 S. Kansas
+        - &id213
+            Address: 215 S. Kansas
             Alternate Address: NONE
             Circulation: '1217'
             City: Norton
@@ -8068,7 +8018,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id295
+        - &id293
             Address: 5301 N. Hillside St.
             Alternate Address: NONE
             Circulation: NONE
@@ -8363,7 +8313,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id160
+        - &id158
             Address: PO Box 298
             Alternate Address: NONE
             Circulation: '1100'
@@ -8406,7 +8356,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id273
+        - &id271
             Address: 108 N. Highland
             Alternate Address: NONE
             Circulation: '999'
@@ -8449,8 +8399,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id073
-            Address: PO Box 247
+        -   Address: PO Box 247
             Alternate Address: 308 Commercial St
             Circulation: '3242'
             City: Atchison
@@ -8493,7 +8442,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id254
+        - &id252
             Address: 222 W 6th St
             Alternate Address: PO Box 129
             Circulation: '3730'
@@ -8538,7 +8487,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id084
+        - &id082
             Address: 204 E. 5th St.
             Alternate Address: NONE
             Circulation: '2878'
@@ -8568,7 +8517,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=3526
     kspress.com/viewRecord.php?recid=353:
         ksa_site:
-        - &id112
+        - &id110
             address: ''
             contact_page: ''
             editor: 'Publisher
@@ -8597,7 +8546,7 @@ index:
             website: http://www.graphic-online.com/
             wikipedia: ''
         src_url:
-        - &id146
+        - &id144
             Address: PO Box 99
             Alternate Address: 635 Main Street
             Circulation: '1550'
@@ -8682,8 +8631,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id174
-            Address: PO Box 278
+        -   Address: PO Box 278
             Alternate Address: 607 Delaware
             Circulation: '2112'
             City: Oskaloosa
@@ -8767,7 +8715,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id251
+        - &id249
             Address: PO Box 128
             Alternate Address: 217 W. 5th Ave
             Circulation: '262'
@@ -8810,7 +8758,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id222
+        - &id220
             Address: PO Box 836
             Alternate Address: 220 S 18th St
             Circulation: '4347'
@@ -8840,9 +8788,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=362
     kspress.com/viewRecord.php?recid=363:
         ksa_site:
-        - *id044
+        - *id043
         src_url:
-        - &id224
+        - &id222
             Address: 113 N Walnut
             Alternate Address: PO Box 129
             Circulation: '1165'
@@ -8927,7 +8875,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id211
+        - &id209
             Address: PO Box H
             Alternate Address: 701 N Locust
             Circulation: '6763'
@@ -8999,9 +8947,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=367
     kspress.com/viewRecord.php?recid=368:
         ksa_site:
-        - *id045
+        - *id044
         src_url:
-        - &id225
+        - &id223
             Address: 320 S Main
             Alternate Address: PO Box 909
             Circulation: '1529'
@@ -9254,7 +9202,8 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        -   Address: 958 E. Wichita Ave.
+        - &id198
+            Address: 958 E. Wichita Ave.
             Alternate Address: PO Box 513
             Circulation: '2282'
             City: Russell
@@ -9296,7 +9245,8 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        -   Address: 226 E. Main
+        - &id248
+            Address: 226 E. Main
             Alternate Address: PO Box 417
             Circulation: '1861'
             City: Sedan
@@ -9325,9 +9275,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=381
     kspress.com/viewRecord.php?recid=383:
         ksa_site:
-        - *id046
+        - *id045
         src_url:
-        - &id153
+        - &id151
             Address: PO Box 99
             Alternate Address: 15 S Broadway
             Circulation: '1333'
@@ -9370,7 +9320,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id243
+        - &id241
             Address: 201 S Main
             Alternate Address: PO Box 266
             Circulation: '1763'
@@ -9497,8 +9447,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id277
-            Address: PO Box 544
+        -   Address: PO Box 544
             Alternate Address: 125 N. Main
             Circulation: '1017'
             City: Cheney
@@ -9540,8 +9489,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id215
-            Address: 310 W Washington
+        -   Address: 310 W Washington
             Alternate Address: PO Box 1050
             Circulation: '1244'
             City: St. Francis
@@ -9583,7 +9531,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id264
+        - &id262
             Address: PO Box 190
             Alternate Address: 117 S Sixth St
             Circulation: '1440'
@@ -9626,7 +9574,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id241
+        - &id239
             Address: PO Box 488
             Alternate Address: 318 N Main
             Circulation: '632'
@@ -9669,7 +9617,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id245
+        - &id243
             Address: PO Box 276
             Alternate Address: 114 E Broadway
             Circulation: '836'
@@ -9712,7 +9660,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id247
+        - &id245
             Address: PO Box 97
             Alternate Address: NONE
             Circulation: '886'
@@ -9755,7 +9703,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id248
+        - &id246
             Address: PO Box 521
             Alternate Address: 414 Main
             Circulation: '1620'
@@ -9798,7 +9746,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id268
+        - &id266
             Address: PO Box 1137
             Alternate Address: 21 N. Main Street
             Circulation: '772'
@@ -9969,7 +9917,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id274
+        - &id272
             Address: 520 E. 4th Street
             Alternate Address: 520 E 4th
             Circulation: '1558'
@@ -10001,7 +9949,7 @@ index:
         ksa_site:
         - *id005
         src_url:
-        - &id089
+        - &id087
             Address: 616 SE Jefferson
             Alternate Address: NONE
             Circulation: '37997'
@@ -10088,7 +10036,8 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        -   Address: PO Box 187
+        - &id172
+            Address: PO Box 187
             Alternate Address: 416 Broadway
             Circulation: '2441'
             City: Valley Falls
@@ -10117,7 +10066,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=408
     kspress.com/viewRecord.php?recid=409:
         ksa_site:
-        - &id270
+        - &id268
             address: Wamego, Kansas
             contact_page: ''
             editor: ''
@@ -10131,7 +10080,7 @@ index:
             website: http://www.thewamegosmokesignal.com/
             wikipedia: ''
         src_url:
-        - &id269
+        - &id267
             Address: 407 Lincoln
             Alternate Address: PO Box 267
             Circulation: '9728'
@@ -10174,7 +10123,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id074
+        - &id072
             Address: PO Box 316
             Alternate Address: 323 C. Street
             Circulation: '2800'
@@ -10259,7 +10208,33 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - *id047
+        -   Address: 205 Main St
+            Alternate Address: PO Box 218
+            Circulation: '1328'
+            City: WaKeeney
+            County: Trego
+            Fax: 785-743-5340
+            Member Type: Active
+            Newspaper Name: Western Kansas World
+            Phone: 785-743-2155
+            State: KS
+            Type: Weekly
+            Website: No Website...
+            ZIP: 67672-0218
+            roles:
+                Advertising Director:
+                    Name: Jerry Millard
+                Editor:
+                    Email: NONE
+                    Name: Jerry Millard
+                Managing Editor:
+                    Email: westernkansasworld@yahoo.com
+                    Name: Cathy Millard
+                Publisher:
+                    Email: NONE
+                    Name: Jerry Millard
+            src_name: Western Kansas World
+            src_url: http://kspress.com/viewRecord.php?recid=416
     kspress.com/viewRecord.php?recid=418:
         ksa_site:
         -   address: ''
@@ -10275,7 +10250,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id271
+        - &id269
             Address: 126 N Main
             Alternate Address: PO Box 279
             Circulation: '5209'
@@ -10318,7 +10293,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id294
+        - &id292
             Address: PO Box 98
             Alternate Address: 317 Main
             Circulation: '399'
@@ -10348,9 +10323,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=419
     kspress.com/viewRecord.php?recid=42:
         ksa_site:
-        - *id048
+        - *id046
         src_url:
-        - &id106
+        - &id104
             Address: PO Box 590
             Alternate Address: 822 E. River Ste 100
             Circulation: '2042'
@@ -10395,7 +10370,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id299
+        - &id298
             Address: PO Box 12003
             Alternate Address: 1600 Swift Ave., N. Kansas City, MO 64116
             Circulation: '1750'
@@ -10469,7 +10444,7 @@ index:
         ksa_site:
         - *id007
         src_url:
-        - &id151
+        - &id149
             Address: 507 N. Main
             Alternate Address: PO Box 857
             Circulation: '9305'
@@ -10514,7 +10489,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id139
+        - &id137
             Address: PO Box 303
             Alternate Address: NONE
             Circulation: '5000'
@@ -10559,7 +10534,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id230
+        - &id228
             Address: 405 Pershing
             Alternate Address: NONE
             Circulation: '9298'
@@ -10602,7 +10577,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id185
+        - &id183
             Address: 140 N Main
             Alternate Address: PO Box 353
             Circulation: '2400'
@@ -10645,7 +10620,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id096
+        - &id094
             Address: Cowley County Community College
             Alternate Address: 125 S 2nd
             Circulation: NONE
@@ -10717,7 +10692,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=467
     kspress.com/viewRecord.php?recid=481:
         ksa_site:
-        - &id064
+        - &id062
             address: Fort Hays State University
             contact_page: ''
             editor: ''
@@ -10731,7 +10706,7 @@ index:
             website: http://tmn.fhsu.edu/
             wikipedia: ''
         src_url:
-        - &id133
+        - &id131
             Address: Fort Hays State University
             Alternate Address: 600 Park St
             Circulation: '3000'
@@ -10761,7 +10736,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=481
     kspress.com/viewRecord.php?recid=486:
         ksa_site:
-        - &id267
+        - &id265
             address: Wichita State University
             contact_page: ''
             editor: ''
@@ -10775,7 +10750,7 @@ index:
             website: http://www.thesunflower.com/
             wikipedia: ''
         src_url:
-        - &id265
+        - &id263
             Address: Wichita State University
             Alternate Address: '1845 N Fairmount #134'
             Circulation: '5000'
@@ -10818,7 +10793,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id098
+        - &id096
             Address: PO Box 416
             Alternate Address: 209 E. First St.
             Circulation: '604'
@@ -10903,7 +10878,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id276
+        - &id274
             Address: PO Box 1794
             Alternate Address: 800 SW Jackson, Suite 1118
             Circulation: NONE
@@ -10933,9 +10908,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=537
     kspress.com/viewRecord.php?recid=538:
         ksa_site:
-        - *id049
+        - *id047
         src_url:
-        - &id191
+        - &id189
             Address: Kansas State University
             Alternate Address: Kedzie Hall 103
             Circulation: '15000'
@@ -10965,9 +10940,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=538
     kspress.com/viewRecord.php?recid=54:
         ksa_site:
-        - *id050
+        - *id048
         src_url:
-        - *id051
+        - *id049
     kspress.com/viewRecord.php?recid=55:
         ksa_site:
         -   address: ''
@@ -10983,7 +10958,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id072
+        - &id070
             Address: P.O. Box 120
             Alternate Address: NONE
             Circulation: '1740'
@@ -11013,9 +10988,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=55
     kspress.com/viewRecord.php?recid=56:
         ksa_site:
-        - *id052
+        - *id050
         src_url:
-        - &id071
+        - &id069
             Address: 200 E 5th Ave
             Alternate Address: PO Box 988
             Circulation: '3242'
@@ -11047,7 +11022,8 @@ index:
         ksa_site:
         - *id002
         src_url:
-        -   Address: PO Box 247
+        - &id071
+            Address: PO Box 247
             Alternate Address: 308 Commercial St
             Circulation: '3242'
             City: Atchison
@@ -11089,7 +11065,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id070
+        - &id068
             Address: 125 S West Street, Suite 105
             Alternate Address: NONE
             Circulation: '57800'
@@ -11132,7 +11108,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id252
+        - &id250
             Address: 11811 S. Sunset Drive, Suite 1300
             Alternate Address: NONE
             Circulation: '58500'
@@ -11162,9 +11138,10 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=588
     kspress.com/viewRecord.php?recid=6:
         ksa_site:
-        - *id053
+        - *id051
         src_url:
-        -   Address: 705 2nd Ave
+        - &id099
+            Address: 705 2nd Ave
             Alternate Address: PO Box 820
             Circulation: '6691'
             City: Dodge City
@@ -11206,7 +11183,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id134
+        - &id132
             Address: 116 E 2nd
             Alternate Address: PO Box 156
             Circulation: '692'
@@ -11238,7 +11215,7 @@ index:
         ksa_site:
         - *id003
         src_url:
-        - &id078
+        - &id076
             Address: 128 Oak
             Alternate Address: PO Box 256
             Circulation: '876'
@@ -11310,9 +11287,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=66
     kspress.com/viewRecord.php?recid=67:
         ksa_site:
-        - *id054
+        - *id052
         src_url:
-        - &id063
+        - &id061
             Address: 1805 N. Street
             Alternate Address: 1312 19th Street
             Circulation: '2604'
@@ -11600,7 +11577,7 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=88
     kspress.com/viewRecord.php?recid=89:
         ksa_site:
-        - &id302
+        - &id301
             address: Clay Center, Kansas
             contact_page: ''
             editor: ''
@@ -11614,7 +11591,7 @@ index:
             website: http://zwire.com/site/news.cfm?brd=1160
             wikipedia: ''
         src_url:
-        - &id092
+        - &id090
             Address: 805 5th Street
             Alternate Address: PO Box 519
             Circulation: '2150'
@@ -11646,7 +11623,8 @@ index:
         ksa_site:
         - *id006
         src_url:
-        -   Address: PO Box 958
+        - &id142
+            Address: PO Box 958
             Alternate Address: 310 N. Seventh St.
             Circulation: '6872'
             City: Garden City
@@ -11675,9 +11653,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=9
     kspress.com/viewRecord.php?recid=912:
         ksa_site:
-        - *id055
+        - *id053
         src_url:
-        - &id232
+        - &id230
             Address: PO Box 740
             Alternate Address: 333 S. 4th Street
             Circulation: '28000'
@@ -11707,9 +11685,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=912
     kspress.com/viewRecord.php?recid=949:
         ksa_site:
-        - *id056
+        - *id054
         src_url:
-        - &id104
+        - &id102
             Address: Emporia State University
             Alternate Address: 1200 Commercial, P.O. Box 4068
             Circulation: NONE
@@ -11752,7 +11730,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id093
+        - &id091
             Address: 324 Hudson
             Alternate Address: Drawer A
             Circulation: '2693'
@@ -11782,9 +11760,9 @@ index:
             src_url: http://kspress.com/viewRecord.php?recid=95
     kspress.com/viewRecord.php?recid=969:
         ksa_site:
-        - *id057
+        - *id055
         src_url:
-        - &id177
+        - &id175
             Address: 825 E Douglas
             Alternate Address: NONE
             Circulation: '72761'
@@ -11827,7 +11805,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id244
+        - &id242
             Address: PO Box 371
             Alternate Address: 114 S. Fourth St.
             Circulation: '1775'
@@ -11870,7 +11848,7 @@ index:
             website: ''
             wikipedia: ''
         src_url:
-        - &id235
+        - &id233
             Address: PO Box 231
             Alternate Address: NONE
             Circulation: '3800'
@@ -11914,16 +11892,16 @@ index:
             wikipedia: ''
     marionrecord.com:
         website:
-        - *id040
+        - *id039
     marysvilleonline.net:
         website:
-        - *id058
+        - *id056
     ottawaherald.com/submissions:
         contact_page:
         - *id029
     peabodykansas.com:
         named:
-        - &id291
+        - &id284
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4217
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Peabody,%20KS&wuSelect=WEATHER
@@ -11931,16 +11909,16 @@ index:
             name: Peabody Gazette-Bulletin
             named: http://peabodykansas.com/
         website:
-        - *id044
+        - *id043
     pitch.com:
         website:
-        - *id059
+        - *id057
     pratttribune.com:
         website:
-        - *id045
+        - *id044
     psucollegio.com:
         named:
-        - &id130
+        - &id128
             F: http://www.facebook.com/psucollegio
             T: http://www.twitter.com/PSU_Collegio
             V: http://www.youtube.com/user/collegiopsu
@@ -11948,13 +11926,13 @@ index:
             name: Collegio
             named: http://psucollegio.com/
         website:
-        - *id060
+        - *id058
     republic-online-dot-com.bloxcms-ny1.com/site/forms/online_services/letter:
         contact_page:
-        - *id061
+        - *id059
     signal.baldwincity.com:
         named:
-        - &id117
+        - &id115
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1172
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
             F: https://www.facebook.com/baldwincity
@@ -11990,15 +11968,15 @@ index:
         - *id021
     stir.sterling.edu:
         Website:
-        - *id062
+        - *id060
     thebellevilletelescope.com:
         Website:
-        - *id063
+        - *id061
         website:
-        - *id054
+        - *id052
     thebellevilletelescope.com/content/submit-article-submission:
         user_forum:
-        - *id054
+        - *id052
     thehypeweekly.com:
         website:
         -   address: Manhattan, Kansas
@@ -12015,7 +11993,7 @@ index:
             wikipedia: ''
     themercury.com:
         named:
-        - &id113
+        - &id111
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1210
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=946
             F: https://www.facebook.com/TheManhattanMercury
@@ -12028,16 +12006,16 @@ index:
         - *id025
     tmn.fhsu.edu:
         named:
-        - &id120
+        - &id118
             F: https://www.facebook.com/fhsuleader
             city: Ft. Hays State
             name: University Leader
             named: http://tmn.fhsu.edu/
         website:
-        - *id064
+        - *id062
     tsnews.com:
         website:
-        - *id065
+        - *id063
     twitter.com/AbileneRC1:
         twitter:
         - *id004
@@ -12046,13 +12024,13 @@ index:
         - *id002
     twitter.com/LVTimesNews:
         twitter:
-        - *id039
+        - *id038
     twitter.com/Telescope_News:
         twitter:
-        - *id054
+        - *id052
     twitter.com/WyandotteDaily:
         twitter:
-        - &id116
+        - &id114
             address: P. O. Box 12003, Kansas City, KS 66112-12003
             contact_page: ''
             editor: 'Editor Mary Rupert is a skilled, professional, award-winning
@@ -12071,10 +12049,10 @@ index:
         - *id019
     twitter.com/desotoexplorer:
         twitter:
-        - *id066
+        - *id064
     twitter.com/eudoranews:
         twitter:
-        - &id105
+        - &id103
             address: 'Address: 645 New Hampshire Street Lawrence, KS 66044'
             contact_page: http://www.eudoranews.com/about/contact/
             editor: editor@eudoranews.com
@@ -12089,7 +12067,7 @@ index:
             wikipedia: ''
     twitter.com/kansasdotcom:
         twitter:
-        - *id057
+        - *id055
     twitter.com/ljworld:
         twitter:
         - *id024
@@ -12098,7 +12076,7 @@ index:
         - *id029
     twitter.com/tonganoxie:
         twitter:
-        - &id114
+        - &id112
             address: 520 E 4th St, Tonganoxie, KS 66086
             contact_page: http://www.tonganoxiemirror.com/accounts/login/?next=/submit/letter/
             editor: ''
@@ -12113,21 +12091,21 @@ index:
             wikipedia: ''
     wellingtondailynews.com:
         website:
-        - *id032
+        - *id031
     winfieldcourier-dot-com.bloxcms.com/site/forms/online_services/letter:
         contact_page:
-        - *id035
+        - *id034
     www.Kansastag.gov:
         Website:
-        - *id067
+        - *id065
     www.RuralMessenger.com:
         Website:
-        - *id068
+        - *id066
     www.abilene-rc.com:
         Website:
-        - *id069
+        - *id067
         named:
-        - &id121
+        - &id119
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1167
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=886
             F: https://www.facebook.com/pages/Abilene-Reflector-Chronicle/127215967659
@@ -12140,10 +12118,10 @@ index:
         - *id004
     www.activeagingonline.com:
         Website:
-        - *id070
+        - *id068
     www.andoveramerican.com:
         named:
-        - &id122
+        - &id120
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4297
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
             F: https://www.facebook.com/pages/Andover-American/103607803046855
@@ -12154,9 +12132,9 @@ index:
             named: http://www.andoveramerican.com/
     www.arkcity.net:
         Website:
-        - *id071
+        - *id069
         named:
-        - &id126
+        - &id124
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1169
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=989
             F: https://www.facebook.com/pages/The-Arkansas-City-Traveler/248578965727
@@ -12165,12 +12143,12 @@ index:
             name: Arkansas City Traveler
             named: http://www.arkcity.net/
         website:
-        - *id052
+        - *id050
     www.arkvalleynews.com:
         Website:
-        - *id072
+        - *id070
         named:
-        - &id123
+        - &id121
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1228
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
             F: https://www.facebook.com/pages/Ark-Valley-News/113017225378942
@@ -12184,7 +12162,7 @@ index:
         - *id002
     www.atchisonglobenow.com:
         named:
-        - &id124
+        - &id122
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1170
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=890
             F: https://www.facebook.com/pages/Atchison-Globe/81864779191
@@ -12196,10 +12174,10 @@ index:
             named: http://www.atchisonglobenow.com/
     www.atchisonglobeonline.com:
         Website:
-        - *id073
+        - *id071
     www.augustagazette.com:
         named:
-        - &id125
+        - &id123
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1171
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
             F: https://www.facebook.com/pages/Augusta-Daily-Gazette/79941211261
@@ -12209,21 +12187,21 @@ index:
             named: http://www.augustagazette.com/
     www.backroadsnewsroom.com:
         Website:
-        - *id074
+        - *id072
     www.bakeru.edu/orangeline:
         Website:
-        - *id075
+        - *id073
     www.baldwincity.com:
         Website:
-        - *id076
+        - *id074
     www.bartonccc.edu/interrobang:
         Website:
-        - *id077
+        - *id075
     www.basehorinfo.com:
         Website:
-        - *id078
+        - *id076
         named:
-        - &id288
+        - &id287
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1173
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/thebasehorsentinel
@@ -12240,7 +12218,7 @@ index:
         - *id003
     www.basehorinfo.com/news/lansing:
         named:
-        - &id131
+        - &id129
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1205
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/thebasehorsentinel
@@ -12251,10 +12229,10 @@ index:
             named: http://www.basehorinfo.com/news/lansing/
     www.bizjournals.com/kansascity:
         Website:
-        - *id079
+        - *id077
     www.bizjournals.com/wichita:
         named:
-        - &id110
+        - &id108
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1231
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
             F: https://www.facebook.com/ICTBizJournal
@@ -12265,9 +12243,9 @@ index:
             named: http://www.bizjournals.com/wichita/
     www.bladeempire.com:
         Website:
-        - *id080
+        - *id078
         named:
-        - &id283
+        - &id281
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1179
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=900
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Concordia,%20KS&wuSelect=WEATHER
@@ -12278,12 +12256,12 @@ index:
         - *id010
     www.bluerapidsfreepress.com:
         Website:
-        - *id081
+        - *id079
     www.bonnersprings.com:
         Website:
-        - *id082
+        - *id080
         named:
-        - &id132
+        - &id130
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1174
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
             F: https://www.facebook.com/thechieftain
@@ -12294,20 +12272,20 @@ index:
             named: http://www.bonnersprings.com/
     www.butlercc.edu:
         Website:
-        - *id083
+        - *id081
     www.butlercountytimesgazette.com:
+        Website:
+        - *id082
+        website:
+        - *id083
+    www.campusledger.com:
         Website:
         - *id084
         website:
         - *id085
-    www.campusledger.com:
-        Website:
-        - *id086
-        website:
-        - *id087
     www.ccenterdispatch.com:
         named:
-        - &id128
+        - &id126
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1176
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=896
             F: https://www.facebook.com/pages/The-Clay-Center-Dispatch/131384151840
@@ -12317,9 +12295,9 @@ index:
             named: http://www.ccenterdispatch.com/
     www.chanute.com:
         Website:
-        - *id088
+        - *id086
         named:
-        - &id127
+        - &id125
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1175
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=909
             F: https://www.facebook.com/pages/The-Chanute-Tribune/100520906674028
@@ -12330,42 +12308,42 @@ index:
             named: http://www.chanute.com/
     www.cjonline.com:
         Website:
-        - *id089
+        - *id087
     www.clarionpaper.com:
         Website:
-        - *id090
+        - *id088
     www.clarkcountygazette.com:
         Website:
-        - *id091
+        - *id089
     www.claycenter.com:
         Website:
-        - *id092
+        - *id090
     www.coffeycountyonline.com:
         Website:
-        - *id093
+        - *id091
     www.colbycc.org:
         Website:
-        - *id094
+        - *id092
     www.couriertribuneonline.com:
         Website:
-        - *id095
+        - *id093
     www.cowley.cc.ks.us:
         Website:
-        - *id096
+        - *id094
     www.crusadernews.com:
         Website:
-        - *id097
+        - *id095
     www.cunninghamks.com:
         Website:
-        - *id098
+        - *id096
     www.cybersilhouette.com:
         Website:
-        - *id099
+        - *id097
     www.derbyinformer.com:
         Website:
-        - *id100
+        - *id098
         named:
-        - &id129
+        - &id127
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1180
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
             F: https://www.facebook.com/pages/The-Derby-Informer/75041195029
@@ -12376,7 +12354,7 @@ index:
             named: http://www.derbyinformer.com
     www.desotoexplorer.com:
         named:
-        - &id107
+        - &id105
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1182
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
             F: https://www.facebook.com/DeSotoExplorer
@@ -12385,18 +12363,18 @@ index:
             name: Desoto Explorer
             named: http://www.desotoexplorer.com/
         website:
-        - *id066
+        - *id064
     www.desotoexplorer.com/about/contact:
         contact_page:
-        - *id066
+        - *id064
     www.desotoexplorer.com/accounts/login/?next=/submit:
         user_forum:
-        - *id066
+        - *id064
     www.dodgeglobe.com:
         Website:
-        - *id101
+        - *id099
         named:
-        - &id108
+        - &id106
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1183
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=904
             F: https://www.facebook.com/DodgeGlobe
@@ -12406,13 +12384,13 @@ index:
             name: Dodge City Daily Globe
             named: http://www.dodgeglobe.com/
         website:
-        - *id053
+        - *id051
     www.dosmundos.com:
         Website:
-        - *id102
+        - *id100
     www.eldoradotimes.com:
         named:
-        - &id109
+        - &id107
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4669
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=905
             F: https://www.facebook.com/ElDoradoTimes
@@ -12423,9 +12401,9 @@ index:
             named: http://www.eldoradotimes.com/
     www.emporiagazette.com:
         Website:
-        - *id103
+        - *id101
         named:
-        - &id118
+        - &id116
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1186
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=908
             F: https://www.facebook.com/emporiagazetteofficial
@@ -12436,13 +12414,22 @@ index:
             name: Emporia Gazette
             named: http://www.emporiagazette.com/
         website:
-        - *id034
+        - *id033
     www.esubulletin.com:
         Website:
-        - *id104
+        - *id102
+        named:
+        - &id117
+            F: https://www.facebook.com/esubulletin
+            Kansas City: http://www.experiencekc.com/
+            T: http://www.twitter.com/esubulletin
+            V: http://www.youtube.com/user/ESUBulletin
+            city: Emporia State Univ
+            name: Bulletin
+            named: http://www.esubulletin.com/
     www.eudoranews.com:
         named:
-        - &id285
+        - &id283
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1187
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Eudora,%20KS&wuSelect=WEATHER
@@ -12450,41 +12437,31 @@ index:
             name: Eudora News
             named: http://www.eudoranews.com/
         website:
-        - *id105
+        - *id103
     www.eudoranews.com/about/contact:
         contact_page:
-        - *id105
+        - *id103
     www.eurekaherald.com:
         Website:
-        - *id106
-    www.experiencekc.com:
-        named:
-        - &id119
-            Bulletin: http://www.esubulletin.com/
-            F: https://www.facebook.com/esubulletin
-            T: http://www.twitter.com/esubulletin
-            V: http://www.youtube.com/user/ESUBulletin
-            city: Emporia State Univ
-            name: Kansas City
-            named: http://www.experiencekc.com/
+        - *id104
     www.facebook.com/AbileneRC:
         facebook:
         - *id004
     www.facebook.com/DeSotoExplorer:
         F:
-        - *id107
+        - *id105
     www.facebook.com/DeSotoExplorer?ref=br_tf:
         facebook:
-        - *id066
+        - *id064
     www.facebook.com/DodgeGlobe:
         F:
-        - *id108
+        - *id106
     www.facebook.com/ElDoradoTimes:
         F:
-        - *id109
+        - *id107
     www.facebook.com/GardenCityTelegram:
         F:
-        - &id145
+        - &id143
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1189
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=913
             F: https://www.facebook.com/GardenCityTelegram
@@ -12496,7 +12473,7 @@ index:
             named: http://www.gctelegram.com/
     www.facebook.com/HaysDailyNews:
         F:
-        - &id152
+        - &id150
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1192
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=920
             F: https://www.facebook.com/HaysDailyNews
@@ -12507,7 +12484,7 @@ index:
             named: http://www.hdnews.net/
     www.facebook.com/HillsboroFreePress:
         F:
-        - &id158
+        - &id156
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1194
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
             F: https://www.facebook.com/HillsboroFreePress
@@ -12517,13 +12494,13 @@ index:
             named: http://www.hillsborofreepress.com/
     www.facebook.com/ICTBizJournal:
         F:
-        - *id110
+        - *id108
     www.facebook.com/KansasCityKansan:
         facebook:
-        - *id111
+        - *id109
     www.facebook.com/LJWorld:
         F:
-        - &id199
+        - &id197
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1206
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=939
             F: https://www.facebook.com/LJWorld
@@ -12537,7 +12514,7 @@ index:
         - *id024
     www.facebook.com/LeaderandTimes:
         F:
-        - &id193
+        - &id191
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1208
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=942
             F: https://www.facebook.com/LeaderandTimes
@@ -12547,7 +12524,7 @@ index:
             named: http://www.leaderandtimes.com/
     www.facebook.com/LouisburgHerald:
         F:
-        - &id154
+        - &id152
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1209
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
             F: https://www.facebook.com/LouisburgHerald
@@ -12557,7 +12534,7 @@ index:
             named: http://www.herald-online.com/
     www.facebook.com/MarionCountyRecord:
         F:
-        - &id203
+        - &id201
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1211
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
             F: https://www.facebook.com/MarionCountyRecord
@@ -12568,7 +12545,7 @@ index:
             named: http://www.marionrecord.com/
     www.facebook.com/OsawatomieGraphic:
         F:
-        - &id147
+        - &id145
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1217
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
             F: https://www.facebook.com/OsawatomieGraphic
@@ -12578,10 +12555,10 @@ index:
             name: Osawatomie Graphic
             named: http://www.graphic-online.com/
         facebook:
-        - *id112
+        - *id110
     www.facebook.com/OttawaHerald:
         F:
-        - &id221
+        - &id219
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1218
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=964
             F: https://www.facebook.com/OttawaHerald
@@ -12595,7 +12572,7 @@ index:
         - *id029
     www.facebook.com/TheKiowaCountySignal:
         F:
-        - &id188
+        - &id186
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4670
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=919
             F: https://www.facebook.com/TheKiowaCountySignal
@@ -12606,10 +12583,10 @@ index:
             named: http://www.kiowacountysignal.com/
     www.facebook.com/TheManhattanMercury:
         F:
-        - *id113
+        - *id111
     www.facebook.com/TheNewtonKansan:
         F:
-        - &id257
+        - &id255
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1215
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=956
             F: https://www.facebook.com/TheNewtonKansan
@@ -12621,7 +12598,7 @@ index:
             named: http://www.thekansan.com/
     www.facebook.com/TimesSentinel:
         F:
-        - &id278
+        - &id276
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1190
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
             F: https://www.facebook.com/TimesSentinel
@@ -12632,7 +12609,7 @@ index:
             named: http://www.tsnews.com/
     www.facebook.com/TonganoxieMirror:
         F:
-        - &id275
+        - &id273
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1226
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/TonganoxieMirror
@@ -12642,13 +12619,13 @@ index:
             name: Mirror
             named: http://www.tonganoxiemirror.com/
         facebook:
-        - *id114
+        - *id112
     www.facebook.com/TopekaCapitalJournal:
         F:
-        - *id115
+        - *id113
     www.facebook.com/WellingtonDailyNews:
         F:
-        - &id281
+        - &id279
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1229
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=986
             F: https://www.facebook.com/WellingtonDailyNews
@@ -12658,18 +12635,18 @@ index:
             name: Wellington Daily News
             named: http://www.wgtndailynews.com/
         facebook:
-        - *id032
+        - *id031
     www.facebook.com/WyandotteDailyNews:
         facebook:
-        - *id116
+        - *id114
     www.facebook.com/baldwincity:
         F:
-        - *id117
+        - *id115
         facebook:
         - *id019
     www.facebook.com/dailyunionnewspaper:
         F:
-        - &id280
+        - &id278
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1199
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=932
             F: https://www.facebook.com/dailyunionnewspaper
@@ -12680,16 +12657,16 @@ index:
             named: http://www.yourdu.net/
     www.facebook.com/emporiagazetteofficial:
         F:
-        - *id118
+        - *id116
     www.facebook.com/esubulletin:
         F:
-        - *id119
+        - *id117
     www.facebook.com/fhsuleader:
         F:
-        - *id120
+        - *id118
     www.facebook.com/gbtribune:
         F:
-        - &id143
+        - &id141
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1191
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=918
             F: https://www.facebook.com/gbtribune
@@ -12700,7 +12677,7 @@ index:
             named: http://www.gbtribune.com/
     www.facebook.com/goodland.star.news:
         F:
-        - &id217
+        - &id215
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4854
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=916
             F: https://www.facebook.com/goodland.star.news
@@ -12710,7 +12687,7 @@ index:
             named: http://www.nwkansas.com/gldwebpages/gsnmain.html
     www.facebook.com/highplainsjournal:
         F:
-        - &id162
+        - &id160
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1184
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=904
             F: https://www.facebook.com/highplainsjournal
@@ -12722,7 +12699,7 @@ index:
             named: http://www.hpj.com/
     www.facebook.com/hutchinsonnews:
         F:
-        - &id165
+        - &id163
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1197
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=927
             F: https://www.facebook.com/hutchinsonnews
@@ -12734,7 +12711,7 @@ index:
             named: http://www.hutchnews.com/
     www.facebook.com/iolaregister:
         F:
-        - &id172
+        - &id170
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1198
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=929
             F: https://www.facebook.com/iolaregister
@@ -12745,7 +12722,7 @@ index:
             named: http://www.iolaregister.com/
     www.facebook.com/kansascitystar:
         F:
-        - &id186
+        - &id184
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1202
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
             F: https://www.facebook.com/kansascitystar
@@ -12757,7 +12734,7 @@ index:
             named: http://www.kcstar.com/
     www.facebook.com/kstatecollegian:
         F:
-        - &id192
+        - &id190
             F: http://www.facebook.com/kstatecollegian
             T: http://www.twitter.com/kstatecollegian
             V: http://www.youtube.com/user/Ecollegian
@@ -12766,7 +12743,7 @@ index:
             named: http://www.kstatecollegian.com/
     www.facebook.com/leavenworth.lamp:
         F:
-        - &id138
+        - &id136
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4672
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/leavenworth.lamp
@@ -12777,7 +12754,7 @@ index:
             named: http://www.ftleavenworthlamp.com/
     www.facebook.com/marysvilleonline:
         F:
-        - &id206
+        - &id204
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1212
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=949
             F: https://www.facebook.com/marysvilleonline
@@ -12788,7 +12765,7 @@ index:
             named: http://www.marysvilleonline.net/
     www.facebook.com/micorepublic:
         F:
-        - &id229
+        - &id227
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1220
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=965
             F: https://www.facebook.com/micorepublic
@@ -12797,10 +12774,10 @@ index:
             name: Miami County Republic
             named: http://www.republic-online.com/
         facebook:
-        - *id061
+        - *id059
     www.facebook.com/ochcnews:
         F:
-        - &id218
+        - &id216
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4414
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=944
             F: https://www.facebook.com/ochcnews
@@ -12811,24 +12788,24 @@ index:
             named: http://www.och-c.com/
     www.facebook.com/pages/Abilene-Reflector-Chronicle/127215967659:
         F:
-        - *id121
+        - *id119
     www.facebook.com/pages/Andover-American/103607803046855:
         F:
-        - *id122
+        - *id120
     www.facebook.com/pages/Ark-Valley-News/113017225378942:
         F:
-        - *id123
+        - *id121
     www.facebook.com/pages/Atchison-Globe/81864779191:
         F:
-        - *id124
+        - *id122
         facebook:
         - *id002
     www.facebook.com/pages/Augusta-Daily-Gazette/79941211261:
         F:
-        - *id125
+        - *id123
     www.facebook.com/pages/Colby-Free-Press/169192379763870:
         F:
-        - &id216
+        - &id214
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1178
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=897
             F: https://www.facebook.com/pages/Colby-Free-Press/169192379763870
@@ -12838,7 +12815,7 @@ index:
             named: http://www.nwkansas.com/cfpwebpages/cfpmain.html
     www.facebook.com/pages/Ellsworth-County-Independent-Reporter/81874371077:
         F:
-        - &id169
+        - &id167
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4160
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=907
             F: https://www.facebook.com/pages/Ellsworth-County-Independent-Reporter/81874371077
@@ -12850,7 +12827,7 @@ index:
             named: http://www.indyrepnews.com/
     www.facebook.com/pages/Parsons-Sun/132277526817483:
         F:
-        - &id223
+        - &id221
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1221
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=963
             F: https://www.facebook.com/pages/Parsons-Sun/132277526817483
@@ -12861,7 +12838,7 @@ index:
             named: http://www.parsonssun.com/
     www.facebook.com/pages/Salina-Journal/108241099200760:
         F:
-        - &id233
+        - &id231
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1224
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=971
             F: https://www.facebook.com/pages/Salina-Journal/108241099200760
@@ -12873,7 +12850,7 @@ index:
             named: http://www.salina.com/
     www.facebook.com/pages/St-John-News/125832347442459:
         F:
-        - &id242
+        - &id240
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4242
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=970
             F: https://www.facebook.com/pages/St-John-News/125832347442459
@@ -12883,22 +12860,22 @@ index:
             named: http://www.sjnewsonline.com/
     www.facebook.com/pages/The-Arkansas-City-Traveler/248578965727:
         F:
-        - *id126
+        - *id124
     www.facebook.com/pages/The-Belleville-Telescope/126240344112700:
         facebook:
-        - *id054
+        - *id052
     www.facebook.com/pages/The-Chanute-Tribune/100520906674028:
         F:
-        - *id127
+        - *id125
     www.facebook.com/pages/The-Clay-Center-Dispatch/131384151840:
         F:
-        - *id128
+        - *id126
     www.facebook.com/pages/The-Derby-Informer/75041195029:
         F:
-        - *id129
+        - *id127
     www.facebook.com/pages/The-Fort-Scott-Tribune/125159744185236:
         F:
-        - &id136
+        - &id134
             A: http://www.usnpl.com/addr/aaddressresult.php?id=3672
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=911
             F: https://www.facebook.com/pages/The-Fort-Scott-Tribune/125159744185236
@@ -12909,7 +12886,7 @@ index:
             named: http://www.fstribune.com/
     www.facebook.com/pages/The-Gyp-Hill-Premiere/201939456539625:
         F:
-        - &id149
+        - &id147
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1214
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=952
             F: https://www.facebook.com/pages/The-Gyp-Hill-Premiere/201939456539625
@@ -12919,7 +12896,7 @@ index:
             named: http://www.gyphillpremiere.com/
     www.facebook.com/pages/The-Kansas-City-Kansan/219961558816:
         F:
-        - &id182
+        - &id180
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1200
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=933
             F: https://www.facebook.com/pages/The-Kansas-City-Kansan/219961558816
@@ -12931,7 +12908,7 @@ index:
             named: http://www.kckansan.com/
     www.facebook.com/pages/The-McPherson-Sentinel/121845353350:
         F:
-        - &id208
+        - &id206
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1213
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=950
             F: https://www.facebook.com/pages/The-McPherson-Sentinel/121845353350
@@ -12943,7 +12920,7 @@ index:
             named: http://www.mcphersonsentinel.com/
     www.facebook.com/pages/The-Morning-Sun/75042554148:
         F:
-        - &id212
+        - &id210
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1222
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=915
             F: https://www.facebook.com/pages/The-Morning-Sun/75042554148
@@ -12955,7 +12932,7 @@ index:
             named: http://www.morningsun.net/
     www.facebook.com/pratt.tribune:
         F:
-        - &id226
+        - &id224
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1223
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=967
             F: https://www.facebook.com/pratt.tribune
@@ -12966,10 +12943,10 @@ index:
             named: http://www.pratttribune.com/
     www.facebook.com/psucollegio:
         F:
-        - *id130
+        - *id128
     www.facebook.com/sunflowerwsu:
         F:
-        - &id266
+        - &id264
             F: http://www.facebook.com/sunflowerwsu
             T: http://www.twitter.com/sunflowernews
             city: Wichita State
@@ -12977,7 +12954,7 @@ index:
             named: http://www.thesunflower.com/
     www.facebook.com/the.leavenworth.times:
         F:
-        - &id195
+        - &id193
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1204
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/the.leavenworth.times
@@ -12987,16 +12964,16 @@ index:
             name: Leavenworth Times
             named: http://www.leavenworthtimes.com/
         facebook:
-        - *id039
+        - *id038
     www.facebook.com/thebasehorsentinel:
         F:
-        - *id131
+        - *id129
     www.facebook.com/thechieftain:
         F:
-        - *id132
+        - *id130
     www.facebook.com/thekansan:
         F:
-        - &id176
+        - &id174
             F: https://www.facebook.com/thekansan
             T: http://www.twitter.com/udk_news
             city: Kansas Univ Lawrence
@@ -13004,7 +12981,7 @@ index:
             named: http://www.kansan.com/
     www.facebook.com/theshawneedispatch:
         F:
-        - &id238
+        - &id236
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1225
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
             F: https://www.facebook.com/theshawneedispatch
@@ -13015,7 +12992,7 @@ index:
             named: http://www.shawneedispatch.com/
     www.facebook.com/wichitaeagle:
         F:
-        - &id178
+        - &id176
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1230
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=988
             F: https://www.facebook.com/wichitaeagle
@@ -13026,7 +13003,7 @@ index:
             named: http://www.kansas.com/
     www.facebook.com/winfieldcourier:
         F:
-        - &id282
+        - &id280
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1232
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=989
             F: https://www.facebook.com/winfieldcourier
@@ -13037,76 +13014,76 @@ index:
             named: http://www.winfieldcourier.com/
     www.facebook.com/winfieldcourier?ref=stream:
         facebook:
-        - *id035
+        - *id034
     www.fhsu.edu/Leader:
         Website:
-        - *id133
+        - *id131
     www.frankfortareanews.com:
         Website:
-        - *id134
+        - *id132
     www.fstribune.com:
         Website:
-        - *id135
+        - *id133
         named:
-        - *id136
+        - *id134
         website:
         - *id017
     www.ftleavenworthlamp.com:
         Website:
-        - *id137
+        - *id135
         named:
-        - *id138
+        - *id136
     www.gardnernews.com:
         Website:
-        - *id139
+        - *id137
     www.garnett-ks.com:
         Website:
-        - *id140
+        - *id138
     www.garnettadvocate.com:
         Website:
-        - *id141
+        - *id139
     www.gbtribune.com:
+        Website:
+        - *id140
+        named:
+        - *id141
+    www.gctelegram.com:
         Website:
         - *id142
         named:
         - *id143
-    www.gctelegram.com:
+    www.graphic-online.com:
         Website:
         - *id144
         named:
         - *id145
-    www.graphic-online.com:
+        website:
+        - *id110
+    www.gyphillpremiere.com:
         Website:
         - *id146
         named:
         - *id147
-        website:
-        - *id112
-    www.gyphillpremiere.com:
-        Website:
-        - *id148
-        named:
-        - *id149
     www.hcindependent.com:
         Website:
-        - *id150
+        - *id148
     www.hdnews.net:
+        Website:
+        - *id149
+        named:
+        - *id150
+    www.herald-online.com:
         Website:
         - *id151
         named:
         - *id152
-    www.herald-online.com:
+        website:
+        - *id045
+    www.hesstonrecord.com:
         Website:
         - *id153
         named:
-        - *id154
-        website:
-        - *id046
-    www.hesstonrecord.com:
-        Website:
-        - *id155
-        named:
-        - &id279
+        - &id277
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1193
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=956
             T: http://www.twitter.com/RecordTime
@@ -13117,17 +13094,17 @@ index:
             named: http://www.hesstonrecord.com
     www.hiawathaworldonline.com:
         Website:
-        - *id156
+        - *id154
     www.hillsborofreepress.com:
         Website:
-        - *id157
+        - *id155
         named:
-        - *id158
+        - *id156
         website:
         - *id022
     www.holtonrecorder.com:
         named:
-        - &id284
+        - &id282
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1196
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=923
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Holton,%20KS&wuSelect=WEATHER
@@ -13136,103 +13113,103 @@ index:
             named: http://www.holtonrecorder.com/
     www.holtonrecorder.net:
         Website:
-        - *id159
+        - *id157
     www.hometowngirard.com:
         Website:
-        - *id160
+        - *id158
     www.hpj.com:
         Website:
-        - *id161
+        - *id159
         named:
-        - *id162
+        - *id160
     www.hpleader.com:
         Website:
-        - *id163
+        - *id161
     www.hutchnews.com:
         Website:
-        - *id164
+        - *id162
         named:
-        - *id165
+        - *id163
         website:
-        - *id166
+        - *id164
     www.indy.cc.ks.us:
         Website:
-        - *id167
+        - *id165
     www.indyrepnews.com:
         Website:
-        - *id168
+        - *id166
         named:
-        - *id169
+        - *id167
     www.inkkc.com:
         Website:
-        - *id170
+        - *id168
     www.iolaregister.com:
         Website:
-        - *id171
+        - *id169
         named:
-        - *id172
+        - *id170
     www.jcpost.com:
         website:
-        - *id173
+        - *id171
     www.jeffcountynews.com:
         Website:
-        - *id174
+        - *id172
     www.kansan.com:
+        Website:
+        - *id173
+        named:
+        - *id174
+    www.kansas.com:
         Website:
         - *id175
         named:
         - *id176
-    www.kansas.com:
-        Website:
-        - *id177
-        named:
-        - *id178
         website:
-        - *id057
+        - *id055
     www.kansas.com/opinion/letters/submit:
         contact_page:
-        - *id057
+        - *id055
     www.kansascity.com:
         Website:
-        - *id179
+        - *id177
         website:
-        - *id036
+        - *id035
     www.kansascity.com/opinion/letters:
         contact_page:
-        - *id036
+        - *id035
     www.kcjc.com:
         website:
-        - *id180
+        - *id178
     www.kcjewishchronicle.com:
         Website:
-        - *id181
+        - *id179
     www.kckansan.com:
         named:
-        - *id182
+        - *id180
         website:
-        - *id111
+        - *id109
     www.kckcc.edu/advocate:
         Website:
-        - *id183
+        - *id181
     www.kcnursingnews.com:
         Website:
-        - *id184
+        - *id182
     www.kconline.com:
         Website:
-        - *id185
+        - *id183
     www.kcstar.com:
         named:
-        - *id186
+        - *id184
     www.kiowacountysignal.com:
+        Website:
+        - *id185
+        named:
+        - *id186
+    www.kiowanews.com:
         Website:
         - *id187
         named:
-        - *id188
-    www.kiowanews.com:
-        Website:
-        - *id189
-        named:
-        - &id290
+        - &id285
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1203
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=952
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Kiowa,%20KS&wuSelect=WEATHER
@@ -13241,85 +13218,99 @@ index:
             named: http://www.kiowanews.com/
     www.ksseniortimes.com:
         Website:
-        - *id190
+        - *id188
     www.kstatecollegian.com:
         Website:
-        - *id191
+        - *id189
         named:
-        - *id192
+        - *id190
         website:
-        - *id049
+        - *id047
     www.leaderandtimes.com:
         named:
-        - *id193
+        - *id191
     www.leavenworthtimes.com:
         Website:
-        - *id194
+        - *id192
         named:
-        - *id195
+        - *id193
         website:
-        - *id039
+        - *id038
     www.lincolnsentinel.com:
         Website:
-        - *id196
+        - *id194
     www.linncountynews.net:
         Website:
-        - *id197
+        - *id195
     www.ljworld.com:
         Website:
-        - *id198
+        - *id196
         named:
-        - *id199
+        - *id197
     www.mainstreetmedia.us:
         Website:
-        - *id200
+        - *id198
     www.manhattanfreepress.com:
         Website:
-        - *id201
+        - *id199
     www.marionrecord.com:
         Website:
-        - *id202
+        - *id200
         named:
-        - *id203
+        - *id201
     www.marquettetribune.com:
         Website:
-        - *id204
+        - *id202
     www.marysvilleonline.net:
+        Website:
+        - *id203
+        named:
+        - *id204
+    www.mcphersonsentinel.com:
         Website:
         - *id205
         named:
         - *id206
-    www.mcphersonsentinel.com:
-        Website:
-        - *id207
-        named:
-        - *id208
         website:
         - *id018
     www.midksnews.com:
         Website:
-        - *id209
+        - *id207
     www.minneapolismessenger.net:
         Website:
-        - *id210
+        - *id208
     www.morningsun.net:
         Website:
-        - *id211
+        - *id209
         named:
-        - *id212
+        - *id210
         website:
-        - *id213
+        - *id211
+    www.morningsun.net/x1445722346/Girard-Press-to-close-March-25:
+        website:
+        -   address: Girard, Kansas
+            contact_page: ''
+            editor: ''
+            facebook: ''
+            fax: ''
+            ksa_site: ''
+            name: Girard Press
+            phone: ''
+            twitter: ''
+            user_forum: ''
+            website: http://www.morningsun.net/x1445722346/Girard-Press-to-close-March-25
+            wikipedia: ''
     www.ncfhaaa.com:
         Website:
-        - *id214
+        - *id212
     www.nwkansas.com:
         Website:
-        - *id215
+        - *id213
         website:
         - *id023
     www.nwkansas.com/bcwebpages/bcmain.html:
         named:
-        - &id287
+        - &id286
             A: http://www.usnpl.com/addr/aaddressresult.php?id=4885
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=969
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Bird%20City,%20KS&wuSelect=WEATHER
@@ -13328,19 +13319,19 @@ index:
             named: http://www.nwkansas.com/bcwebpages/bcmain.html
     www.nwkansas.com/cfpwebpages/cfpmain.html:
         named:
-        - *id216
+        - *id214
     www.nwkansas.com/gldwebpages/gsnmain.html:
         named:
-        - *id217
+        - *id215
     www.och-c.com:
         named:
-        - *id218
+        - *id216
     www.ocherald-chronicle.com:
         Website:
-        - *id219
+        - *id217
     www.olathedailynews.com:
         named:
-        - &id286
+        - &id289
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1216
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=960
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Olathe,%20KS&wuSelect=WEATHER
@@ -13349,9 +13340,9 @@ index:
             named: http://www.olathedailynews.com/
     www.ottawaherald.com:
         Website:
-        - *id220
+        - *id218
         named:
-        - *id221
+        - *id219
         website:
         - *id029
     www.oucampus.org:
@@ -13370,78 +13361,78 @@ index:
             wikipedia: ''
     www.parsonssun.com:
         Website:
-        - *id222
+        - *id220
         named:
-        - *id223
+        - *id221
     www.peabodykansas.com:
         Website:
-        - *id224
+        - *id222
     www.pratttribune.com:
         Website:
-        - *id225
+        - *id223
         named:
-        - *id226
+        - *id224
     www.psucollegio.com:
         Website:
-        - *id227
+        - *id225
     www.republic-online.com:
         Website:
-        - *id228
+        - *id226
         named:
-        - *id229
+        - *id227
         website:
-        - *id061
+        - *id059
     www.rileyarmy.mil/newspaper:
         Website:
-        - *id230
+        - *id228
     www.sabethaherald.com:
         Website:
-        - *id231
+        - *id229
     www.salina.com:
         Website:
-        - *id232
+        - *id230
         named:
-        - *id233
+        - *id231
         website:
-        - *id055
+        - *id053
     www.scottcountyrecord.com:
         Website:
-        - *id234
+        - *id232
     www.sekvoice.com:
         Website:
-        - *id235
+        - *id233
     www.sentineltimes.com:
         Website:
-        - *id236
+        - *id234
     www.shawneedispatch.com:
         Website:
-        - *id237
+        - *id235
         named:
-        - *id238
+        - *id236
         website:
-        - *id239
+        - *id237
     www.signal-enterprise.com:
         Website:
-        - *id240
+        - *id238
     www.sjnewsonline.com:
         Website:
-        - *id241
+        - *id239
         named:
-        - *id242
+        - *id240
     www.smithcountypioneer.com:
         Website:
-        - *id243
+        - *id241
     www.squaredealnews.com:
         Website:
-        - *id244
+        - *id242
     www.staffordcourier.com:
         Website:
-        - *id245
+        - *id243
     www.starj.com:
         Website:
-        - *id246
+        - *id244
         named:
-        - &id289
+        - &id288
             A: http://www.usnpl.com/addr/aaddressresult.php?id=1195
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=948
             W: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Hillsboro,%20KS&wuSelect=WEATHER
@@ -13450,586 +13441,587 @@ index:
             named: http://www.starj.com/
     www.sterlingbulletin.net:
         Website:
-        - *id247
+        - *id245
     www.stocktonsentinel.com:
         Website:
-        - *id248
+        - *id246
     www.superiorne.com:
         Website:
-        - *id249
+        - *id247
     www.taylornews.org:
         Website:
-        - *id250
+        - *id248
     www.thebelleplainenews.com:
         Website:
-        - *id251
+        - *id249
     www.thebesttimes.org:
         Website:
-        - *id252
+        - *id250
     www.thechronicleonline.net:
         Website:
-        - *id253
+        - *id251
     www.thedailyunion.net:
         Website:
-        - *id254
+        - *id252
         website:
-        - *id255
+        - *id253
     www.thekansan.com:
         Website:
-        - *id256
+        - *id254
         named:
-        - *id257
+        - *id255
         website:
         - *id026
     www.thelegalrecord.net:
         Website:
-        - *id258
+        - *id256
     www.themercury.com:
         Website:
-        - *id259
+        - *id257
     www.thenewsleaf.com:
         Website:
-        - *id260
+        - *id258
     www.theolathenews.com:
         website:
-        - *id261
+        - *id259
     www.thepelicanpress.com:
         Website:
-        - *id262
+        - *id260
     www.thesedgwickcountypost.com:
         Website:
-        - *id263
+        - *id261
     www.thesmstar.com:
         Website:
-        - *id264
+        - *id262
     www.thesunflower.com:
         Website:
-        - *id265
+        - *id263
         named:
-        - *id266
+        - *id264
         website:
-        - *id267
+        - *id265
     www.thesyracusejournal.com:
         Website:
-        - *id268
+        - *id266
     www.thewamegosmokesignal.com:
         Website:
-        - *id269
+        - *id267
         website:
-        - *id270
+        - *id268
     www.thewesterntimes.com:
         Website:
-        - *id271
+        - *id269
     www.tiemposyp.com:
         Website:
-        - *id272
+        - *id270
     www.tiogatimes.com:
         Website:
-        - *id273
+        - *id271
     www.tonganoxiemirror.com:
         Website:
-        - *id274
+        - *id272
         named:
-        - *id275
+        - *id273
         website:
-        - *id114
+        - *id112
     www.tonganoxiemirror.com/accounts/login/?next=/submit/letter:
         contact_page:
-        - *id114
+        - *id112
     www.topekametro.com:
         Website:
-        - *id276
+        - *id274
     www.tsnews.com:
         Website:
-        - *id277
+        - *id275
         named:
-        - *id278
+        - *id276
     www.twitter.com/CJ_news:
         T:
-        - *id115
+        - *id113
     www.twitter.com/ChadFrey:
         T:
-        - *id257
+        - *id255
     www.twitter.com/DerbyInformer:
         T:
-        - *id129
+        - *id127
     www.twitter.com/ElDoradoTimes:
         T:
-        - *id109
+        - *id107
     www.twitter.com/FSTribune:
         T:
-        - *id136
+        - *id134
     www.twitter.com/GB_Tribune:
         T:
-        - *id143
+        - *id141
     www.twitter.com/HighPlainsJrnl:
         T:
-        - *id162
+        - *id160
     www.twitter.com/HutchNews:
         T:
-        - *id165
+        - *id163
     www.twitter.com/ICTBizJournal:
         T:
-        - *id110
+        - *id108
     www.twitter.com/KCStar:
         T:
-        - *id186
+        - *id184
     www.twitter.com/LVTimesNews:
         T:
-        - *id195
+        - *id193
     www.twitter.com/MERCnewsroom:
         T:
-        - *id113
+        - *id111
     www.twitter.com/MarysvilleTweet:
         T:
-        - *id206
+        - *id204
     www.twitter.com/NorthWestKansas:
         T:
-        - *id152
+        - *id150
     www.twitter.com/OsageCounty:
         T:
-        - *id218
+        - *id216
     www.twitter.com/PSU_Collegio:
         T:
-        - *id130
+        - *id128
     www.twitter.com/ParsonsSun:
         T:
-        - *id223
+        - *id221
     www.twitter.com/PrattTribune:
         T:
-        - *id226
+        - *id224
     www.twitter.com/RecordTime:
         T:
-        - *id279
+        - *id277
     www.twitter.com/TheKiowaSignal:
         T:
-        - *id188
+        - *id186
     www.twitter.com/The_Morning_Sun:
         T:
-        - *id212
+        - *id210
     www.twitter.com/TimesSentinel1:
         T:
-        - *id278
+        - *id276
     www.twitter.com/andoveramerican:
         T:
-        - *id122
+        - *id120
     www.twitter.com/arkvalleynews:
         T:
-        - *id123
+        - *id121
     www.twitter.com/atchisonglobe:
         T:
-        - *id124
+        - *id122
     www.twitter.com/baldwincity:
         T:
-        - *id117
+        - *id115
     www.twitter.com/basehorsentinel:
         T:
-        - *id131
+        - *id129
     www.twitter.com/bonnersprings:
         T:
-        - *id132
+        - *id130
     www.twitter.com/chanutetribune:
         T:
-        - *id127
+        - *id125
     www.twitter.com/dcglobe:
         T:
-        - *id108
+        - *id106
     www.twitter.com/emporiagazette:
         T:
-        - *id118
+        - *id116
     www.twitter.com/esubulletin:
         T:
-        - *id119
+        - *id117
     www.twitter.com/fortleavenworth:
         T:
-        - *id138
+        - *id136
     www.twitter.com/gctelegram:
         T:
-        - *id145
+        - *id143
     www.twitter.com/indyrep:
         T:
-        - *id169
+        - *id167
     www.twitter.com/iolaregister:
         T:
-        - *id172
+        - *id170
     www.twitter.com/kansasdotcom:
         T:
-        - *id178
+        - *id176
     www.twitter.com/kckansan:
         T:
-        - *id182
+        - *id180
     www.twitter.com/kstatecollegian:
         T:
-        - *id192
+        - *id190
     www.twitter.com/ljworld:
         T:
-        - *id199
+        - *id197
     www.twitter.com/macsentinel:
         T:
-        - *id208
+        - *id206
     www.twitter.com/marionrecord:
         T:
-        - *id203
+        - *id201
     www.twitter.com/oheraldnews:
         T:
-        - *id221
+        - *id219
     www.twitter.com/salinajournal:
         T:
-        - *id233
+        - *id231
     www.twitter.com/shawneedispatch:
         T:
-        - *id238
+        - *id236
     www.twitter.com/sunflowernews:
         T:
-        - *id266
+        - *id264
     www.twitter.com/thedailyunion:
         T:
-        - *id280
+        - *id278
     www.twitter.com/tonganoxie:
         T:
-        - *id275
+        - *id273
     www.twitter.com/udk_news:
         T:
-        - *id176
+        - *id174
     www.twitter.com/wgtndailynews:
         T:
-        - *id281
+        - *id279
     www.twitter.com/winfieldcourier:
         T:
-        - *id282
+        - *id280
     www.usnpl.com/addr/aacountyresult.php?countyid=886:
         C:
-        - *id121
+        - *id119
     www.usnpl.com/addr/aacountyresult.php?countyid=890:
         C:
-        - *id124
+        - *id122
     www.usnpl.com/addr/aacountyresult.php?countyid=896:
         C:
-        - *id128
+        - *id126
     www.usnpl.com/addr/aacountyresult.php?countyid=897:
         C:
-        - *id216
+        - *id214
     www.usnpl.com/addr/aacountyresult.php?countyid=900:
         C:
-        - *id283
+        - *id281
     www.usnpl.com/addr/aacountyresult.php?countyid=904:
         C:
-        - *id108
+        - *id106
     www.usnpl.com/addr/aacountyresult.php?countyid=905:
         C:
-        - *id125
+        - *id107
     www.usnpl.com/addr/aacountyresult.php?countyid=907:
         C:
-        - *id169
+        - *id167
     www.usnpl.com/addr/aacountyresult.php?countyid=908:
         C:
-        - *id118
+        - *id116
     www.usnpl.com/addr/aacountyresult.php?countyid=909:
         C:
-        - *id127
+        - *id125
     www.usnpl.com/addr/aacountyresult.php?countyid=911:
         C:
-        - *id136
+        - *id134
     www.usnpl.com/addr/aacountyresult.php?countyid=913:
         C:
-        - *id145
+        - *id143
     www.usnpl.com/addr/aacountyresult.php?countyid=915:
         C:
-        - *id212
+        - *id210
     www.usnpl.com/addr/aacountyresult.php?countyid=916:
         C:
-        - *id217
+        - *id215
     www.usnpl.com/addr/aacountyresult.php?countyid=918:
         C:
-        - *id143
+        - *id141
     www.usnpl.com/addr/aacountyresult.php?countyid=919:
         C:
-        - *id188
+        - *id186
     www.usnpl.com/addr/aacountyresult.php?countyid=920:
         C:
-        - *id152
+        - *id150
     www.usnpl.com/addr/aacountyresult.php?countyid=923:
         C:
-        - *id284
+        - *id282
     www.usnpl.com/addr/aacountyresult.php?countyid=927:
         C:
-        - *id165
+        - *id163
     www.usnpl.com/addr/aacountyresult.php?countyid=929:
         C:
-        - *id172
+        - *id170
     www.usnpl.com/addr/aacountyresult.php?countyid=932:
         C:
-        - *id280
+        - *id278
     www.usnpl.com/addr/aacountyresult.php?countyid=933:
         C:
-        - *id132
+        - *id180
     www.usnpl.com/addr/aacountyresult.php?countyid=939:
         C:
-        - *id285
+        - *id283
     www.usnpl.com/addr/aacountyresult.php?countyid=940:
         C:
-        - *id131
+        - *id129
     www.usnpl.com/addr/aacountyresult.php?countyid=942:
         C:
-        - *id193
+        - *id191
     www.usnpl.com/addr/aacountyresult.php?countyid=944:
         C:
-        - *id218
+        - *id216
     www.usnpl.com/addr/aacountyresult.php?countyid=946:
         C:
-        - *id113
+        - *id111
     www.usnpl.com/addr/aacountyresult.php?countyid=948:
         C:
-        - *id158
+        - *id284
     www.usnpl.com/addr/aacountyresult.php?countyid=949:
         C:
-        - *id206
+        - *id204
     www.usnpl.com/addr/aacountyresult.php?countyid=950:
         C:
-        - *id208
+        - *id206
     www.usnpl.com/addr/aacountyresult.php?countyid=952:
         C:
-        - *id149
+        - *id285
     www.usnpl.com/addr/aacountyresult.php?countyid=956:
         C:
-        - *id257
+        - *id277
     www.usnpl.com/addr/aacountyresult.php?countyid=960:
         C:
-        - *id286
+        - *id105
     www.usnpl.com/addr/aacountyresult.php?countyid=963:
         C:
-        - *id223
+        - *id221
     www.usnpl.com/addr/aacountyresult.php?countyid=964:
         C:
-        - *id221
+        - *id219
     www.usnpl.com/addr/aacountyresult.php?countyid=965:
         C:
-        - *id154
+        - *id152
     www.usnpl.com/addr/aacountyresult.php?countyid=967:
         C:
-        - *id226
+        - *id224
     www.usnpl.com/addr/aacountyresult.php?countyid=969:
         C:
-        - *id287
+        - *id286
     www.usnpl.com/addr/aacountyresult.php?countyid=970:
         C:
-        - *id242
+        - *id240
     www.usnpl.com/addr/aacountyresult.php?countyid=971:
         C:
-        - *id233
+        - *id231
     www.usnpl.com/addr/aacountyresult.php?countyid=980:
         C:
-        - *id115
+        - *id113
     www.usnpl.com/addr/aacountyresult.php?countyid=986:
         C:
-        - *id281
+        - *id279
     www.usnpl.com/addr/aacountyresult.php?countyid=988:
         C:
-        - *id129
+        - *id108
     www.usnpl.com/addr/aacountyresult.php?countyid=989:
         C:
-        - *id126
+        - *id124
     www.usnpl.com/addr/aaddressresult.php?id=1167:
         A:
-        - *id121
+        - *id119
     www.usnpl.com/addr/aaddressresult.php?id=1169:
         A:
-        - *id126
+        - *id124
     www.usnpl.com/addr/aaddressresult.php?id=1170:
         A:
-        - *id124
+        - *id122
     www.usnpl.com/addr/aaddressresult.php?id=1171:
         A:
-        - *id125
+        - *id123
     www.usnpl.com/addr/aaddressresult.php?id=1172:
         A:
-        - *id117
+        - *id115
     www.usnpl.com/addr/aaddressresult.php?id=1173:
         A:
-        - *id288
+        - *id287
     www.usnpl.com/addr/aaddressresult.php?id=1174:
         A:
-        - *id132
+        - *id130
     www.usnpl.com/addr/aaddressresult.php?id=1175:
         A:
-        - *id127
+        - *id125
     www.usnpl.com/addr/aaddressresult.php?id=1176:
         A:
-        - *id128
+        - *id126
     www.usnpl.com/addr/aaddressresult.php?id=1178:
         A:
-        - *id216
+        - *id214
     www.usnpl.com/addr/aaddressresult.php?id=1179:
         A:
-        - *id283
+        - *id281
     www.usnpl.com/addr/aaddressresult.php?id=1180:
         A:
-        - *id129
+        - *id127
     www.usnpl.com/addr/aaddressresult.php?id=1182:
         A:
-        - *id107
+        - *id105
     www.usnpl.com/addr/aaddressresult.php?id=1183:
         A:
-        - *id108
+        - *id106
     www.usnpl.com/addr/aaddressresult.php?id=1184:
         A:
-        - *id162
+        - *id160
     www.usnpl.com/addr/aaddressresult.php?id=1186:
         A:
-        - *id118
+        - *id116
     www.usnpl.com/addr/aaddressresult.php?id=1187:
         A:
-        - *id285
+        - *id283
     www.usnpl.com/addr/aaddressresult.php?id=1189:
         A:
-        - *id145
+        - *id143
     www.usnpl.com/addr/aaddressresult.php?id=1190:
         A:
-        - *id278
+        - *id276
     www.usnpl.com/addr/aaddressresult.php?id=1191:
         A:
-        - *id143
+        - *id141
     www.usnpl.com/addr/aaddressresult.php?id=1192:
         A:
-        - *id152
+        - *id150
     www.usnpl.com/addr/aaddressresult.php?id=1193:
         A:
-        - *id279
+        - *id277
     www.usnpl.com/addr/aaddressresult.php?id=1194:
         A:
-        - *id158
+        - *id156
     www.usnpl.com/addr/aaddressresult.php?id=1195:
         A:
-        - *id289
+        - *id288
     www.usnpl.com/addr/aaddressresult.php?id=1196:
         A:
-        - *id284
+        - *id282
     www.usnpl.com/addr/aaddressresult.php?id=1197:
         A:
-        - *id165
+        - *id163
     www.usnpl.com/addr/aaddressresult.php?id=1198:
         A:
-        - *id172
+        - *id170
     www.usnpl.com/addr/aaddressresult.php?id=1199:
         A:
-        - *id280
+        - *id278
     www.usnpl.com/addr/aaddressresult.php?id=1200:
         A:
-        - *id182
+        - *id180
     www.usnpl.com/addr/aaddressresult.php?id=1202:
         A:
-        - *id186
+        - *id184
     www.usnpl.com/addr/aaddressresult.php?id=1203:
         A:
-        - *id290
+        - *id285
     www.usnpl.com/addr/aaddressresult.php?id=1204:
         A:
-        - *id195
+        - *id193
     www.usnpl.com/addr/aaddressresult.php?id=1205:
         A:
-        - *id131
+        - *id129
     www.usnpl.com/addr/aaddressresult.php?id=1206:
         A:
-        - *id199
+        - *id197
     www.usnpl.com/addr/aaddressresult.php?id=1208:
         A:
-        - *id193
+        - *id191
     www.usnpl.com/addr/aaddressresult.php?id=1209:
         A:
-        - *id154
+        - *id152
     www.usnpl.com/addr/aaddressresult.php?id=1210:
         A:
-        - *id113
+        - *id111
     www.usnpl.com/addr/aaddressresult.php?id=1211:
         A:
-        - *id203
+        - *id201
     www.usnpl.com/addr/aaddressresult.php?id=1212:
         A:
-        - *id206
+        - *id204
     www.usnpl.com/addr/aaddressresult.php?id=1213:
         A:
-        - *id208
+        - *id206
     www.usnpl.com/addr/aaddressresult.php?id=1214:
         A:
-        - *id149
+        - *id147
     www.usnpl.com/addr/aaddressresult.php?id=1215:
         A:
-        - *id257
+        - *id255
     www.usnpl.com/addr/aaddressresult.php?id=1216:
         A:
-        - *id286
+        - *id289
     www.usnpl.com/addr/aaddressresult.php?id=1217:
         A:
-        - *id147
+        - *id145
     www.usnpl.com/addr/aaddressresult.php?id=1218:
         A:
-        - *id221
+        - *id219
     www.usnpl.com/addr/aaddressresult.php?id=1220:
         A:
-        - *id229
+        - *id227
     www.usnpl.com/addr/aaddressresult.php?id=1221:
         A:
-        - *id223
+        - *id221
     www.usnpl.com/addr/aaddressresult.php?id=1222:
         A:
-        - *id212
+        - *id210
     www.usnpl.com/addr/aaddressresult.php?id=1223:
         A:
-        - *id226
+        - *id224
     www.usnpl.com/addr/aaddressresult.php?id=1224:
         A:
-        - *id233
+        - *id231
     www.usnpl.com/addr/aaddressresult.php?id=1225:
         A:
-        - *id238
+        - *id236
     www.usnpl.com/addr/aaddressresult.php?id=1226:
         A:
-        - *id275
+        - *id273
     www.usnpl.com/addr/aaddressresult.php?id=1227:
         A:
-        - *id115
+        - *id113
     www.usnpl.com/addr/aaddressresult.php?id=1228:
         A:
-        - *id123
+        - *id121
     www.usnpl.com/addr/aaddressresult.php?id=1229:
         A:
-        - *id281
+        - *id279
     www.usnpl.com/addr/aaddressresult.php?id=1230:
         A:
-        - *id178
+        - *id176
     www.usnpl.com/addr/aaddressresult.php?id=1231:
         A:
-        - *id110
+        - *id108
     www.usnpl.com/addr/aaddressresult.php?id=1232:
         A:
-        - *id282
+        - *id280
     www.usnpl.com/addr/aaddressresult.php?id=3672:
         A:
-        - *id136
+        - *id134
     www.usnpl.com/addr/aaddressresult.php?id=4160:
         A:
-        - *id169
+        - *id167
     www.usnpl.com/addr/aaddressresult.php?id=4217:
         A:
-        - *id291
+        - *id284
     www.usnpl.com/addr/aaddressresult.php?id=4242:
         A:
-        - *id242
+        - *id240
     www.usnpl.com/addr/aaddressresult.php?id=4297:
         A:
-        - *id122
+        - *id120
     www.usnpl.com/addr/aaddressresult.php?id=4414:
         A:
-        - *id218
+        - *id216
     www.usnpl.com/addr/aaddressresult.php?id=4669:
         A:
-        - *id109
+        - *id107
     www.usnpl.com/addr/aaddressresult.php?id=4670:
         A:
-        - *id188
+        - *id186
     www.usnpl.com/addr/aaddressresult.php?id=4671:
         A:
-        -   A: http://www.usnpl.com/addr/aaddressresult.php?id=4671
+        - &id297
+            A: http://www.usnpl.com/addr/aaddressresult.php?id=4671
             C: http://www.usnpl.com/addr/aacountyresult.php?countyid=940
             F: https://www.facebook.com/the.leavenworth.times
             T: http://www.twitter.com/LVTimesNews
@@ -14039,311 +14031,311 @@ index:
             named: http://www.leavenworthtimes.com/
     www.usnpl.com/addr/aaddressresult.php?id=4672:
         A:
-        - *id138
+        - *id136
     www.usnpl.com/addr/aaddressresult.php?id=4854:
         A:
-        - *id217
+        - *id215
     www.usnpl.com/addr/aaddressresult.php?id=4885:
         A:
-        - *id287
+        - *id286
     www.voiceitwichita.com:
         Website:
-        - *id292
+        - *id290
     www.wellingtondailynews.com:
         Website:
-        - *id293
+        - *id291
     www.westyrecorder.com:
         Website:
-        - *id294
+        - *id292
     www.wgtndailynews.com:
         named:
-        - *id281
+        - *id279
     www.whhshighlighter.net:
         Website:
-        - *id295
+        - *id293
     www.wichitabusinessjournal.com:
         Website:
-        - *id296
+        - *id294
     www.wilsoncountycitizen.com:
         Website:
-        - *id297
+        - *id295
     www.winfieldcourier.com:
         Website:
-        - *id298
+        - *id296
         named:
-        - *id282
+        - *id280
         website:
-        - *id035
+        - *id034
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Abilene,%20KS&wuSelect=WEATHER:
         W:
-        - *id121
+        - *id119
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Andover,%20KS&wuSelect=WEATHER:
         W:
-        - *id122
+        - *id120
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Arkansas%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id126
+        - *id124
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Atchison,%20KS&wuSelect=WEATHER:
         W:
-        - *id124
+        - *id122
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Augusta,%20KS&wuSelect=WEATHER:
         W:
-        - *id125
+        - *id123
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Baldwin%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id117
+        - *id115
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Basehor,%20KS&wuSelect=WEATHER:
         W:
-        - *id288
+        - *id287
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Bird%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id287
+        - *id286
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Bonner%20Springs,%20KS&wuSelect=WEATHER:
         W:
-        - *id132
+        - *id130
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Chanute,%20KS&wuSelect=WEATHER:
         W:
-        - *id127
+        - *id125
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Cheney,%20KS&wuSelect=WEATHER:
         W:
-        - *id278
+        - *id276
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Clay%20Center,%20KS&wuSelect=WEATHER:
         W:
-        - *id128
+        - *id126
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Colby,%20KS&wuSelect=WEATHER:
         W:
-        - *id216
+        - *id214
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Concordia,%20KS&wuSelect=WEATHER:
         W:
-        - *id283
+        - *id281
     www.wunderground.com/cgi-bin/findweather/getForecast?query=De%20Soto,%20KS&wuSelect=WEATHER:
         W:
-        - *id107
+        - *id105
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Derby,%20KS&wuSelect=WEATHER:
         W:
-        - *id129
+        - *id127
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Dodge%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id108
+        - *id106
     www.wunderground.com/cgi-bin/findweather/getForecast?query=El%20Dorado,%20KS&wuSelect=WEATHER:
         W:
-        - *id109
+        - *id107
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Ellsworth,%20KS&wuSelect=WEATHER:
         W:
-        - *id169
+        - *id167
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Emporia,%20KS&wuSelect=WEATHER:
         W:
-        - *id118
+        - *id116
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Eudora,%20KS&wuSelect=WEATHER:
         W:
-        - *id285
+        - *id283
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Fort%20Scott,%20KS&wuSelect=WEATHER:
         W:
-        - *id136
+        - *id134
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Garden%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id145
+        - *id143
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Goodland,%20KS&wuSelect=WEATHER:
         W:
-        - *id217
+        - *id215
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Great%20Bend,%20KS&wuSelect=WEATHER:
         W:
-        - *id143
+        - *id141
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Greensburg,%20KS&wuSelect=WEATHER:
         W:
-        - *id188
+        - *id186
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Hays,%20KS&wuSelect=WEATHER:
         W:
-        - *id152
+        - *id150
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Hesston,%20KS&wuSelect=WEATHER:
         W:
-        - *id279
+        - *id277
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Hillsboro,%20KS&wuSelect=WEATHER:
         W:
-        - *id158
+        - *id156
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Holton,%20KS&wuSelect=WEATHER:
         W:
-        - *id284
+        - *id282
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Hutchinson,%20KS&wuSelect=WEATHER:
         W:
-        - *id165
+        - *id163
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Iola,%20KS&wuSelect=WEATHER:
         W:
-        - *id172
+        - *id170
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Junction%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id280
+        - *id278
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Kansas%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id186
+        - *id180
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Kiowa,%20KS&wuSelect=WEATHER:
         W:
-        - *id290
+        - *id285
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Lansing,%20KS&wuSelect=WEATHER:
         W:
-        - *id131
+        - *id129
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Lawrence,%20KS&wuSelect=WEATHER:
         W:
-        - *id199
+        - *id197
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Leavenworth,%20KS&wuSelect=WEATHER:
         W:
-        - *id138
+        - *id297
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Liberal,%20KS&wuSelect=WEATHER:
         W:
-        - *id193
+        - *id191
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Louisburg,%20KS&wuSelect=WEATHER:
         W:
-        - *id154
+        - *id152
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Manhattan,%20KS&wuSelect=WEATHER:
         W:
-        - *id113
+        - *id111
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Marion,%20KS&wuSelect=WEATHER:
         W:
-        - *id203
+        - *id201
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Marysville,%20KS&wuSelect=WEATHER:
         W:
-        - *id206
+        - *id204
     www.wunderground.com/cgi-bin/findweather/getForecast?query=McPherson,%20KS&wuSelect=WEATHER:
         W:
-        - *id208
+        - *id206
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Medicine%20Lodge,%20KS&wuSelect=WEATHER:
         W:
-        - *id149
+        - *id147
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Newton,%20KS&wuSelect=WEATHER:
         W:
-        - *id257
+        - *id255
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Olathe,%20KS&wuSelect=WEATHER:
         W:
-        - *id286
+        - *id289
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Osage%20City,%20KS&wuSelect=WEATHER:
         W:
-        - *id218
+        - *id216
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Osawatomie,%20KS&wuSelect=WEATHER:
         W:
-        - *id147
+        - *id145
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Ottawa,%20KS&wuSelect=WEATHER:
         W:
-        - *id221
+        - *id219
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Paola,%20KS&wuSelect=WEATHER:
         W:
-        - *id229
+        - *id227
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Parsons,%20KS&wuSelect=WEATHER:
         W:
-        - *id223
+        - *id221
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Peabody,%20KS&wuSelect=WEATHER:
         W:
-        - *id291
+        - *id284
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Pittsburg,%20KS&wuSelect=WEATHER:
         W:
-        - *id212
+        - *id210
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Pratt,%20KS&wuSelect=WEATHER:
         W:
-        - *id226
+        - *id224
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Saint%20John,%20KS&wuSelect=WEATHER:
         W:
-        - *id242
+        - *id240
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Salina,%20KS&wuSelect=WEATHER:
         W:
-        - *id233
+        - *id231
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Shawnee,%20KS&wuSelect=WEATHER:
         W:
-        - *id238
+        - *id236
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Tonganoxie,%20KS&wuSelect=WEATHER:
         W:
-        - *id275
+        - *id273
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Topeka,%20KS&wuSelect=WEATHER:
         W:
-        - *id115
+        - *id113
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Valley%20Center,%20KS&wuSelect=WEATHER:
         W:
-        - *id123
+        - *id121
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Wellington,%20KS&wuSelect=WEATHER:
         W:
-        - *id281
+        - *id279
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Wichita,%20KS&wuSelect=WEATHER:
         W:
-        - *id178
+        - *id108
     www.wunderground.com/cgi-bin/findweather/getForecast?query=Winfield,%20KS&wuSelect=WEATHER:
         W:
-        - *id282
+        - *id280
     www.wyandottedailynews.com/about:
         website:
-        - *id116
+        - *id114
     www.wyandottewest.com:
         Website:
-        - *id299
+        - *id298
     www.wybiznews.com:
         Website:
-        - *id300
+        - *id299
     www.wyecho.com:
         Website:
-        - *id301
+        - *id300
     www.yourdu.net:
         named:
-        - *id280
+        - *id278
     www.youtube.com/user/AtchisonGlobe:
         V:
-        - *id124
+        - *id122
     www.youtube.com/user/ESUBulletin:
         V:
-        - *id119
+        - *id117
     www.youtube.com/user/Ecollegian:
         V:
-        - *id192
+        - *id190
     www.youtube.com/user/GCTelegram:
         V:
-        - *id145
+        - *id143
     www.youtube.com/user/HighPlainsJournal:
         V:
-        - *id162
+        - *id160
     www.youtube.com/user/KansasCityKansan:
         V:
-        - *id182
+        - *id180
     www.youtube.com/user/KansasCityStarVideo:
         V:
-        - *id186
+        - *id184
     www.youtube.com/user/LJWorldLawrence:
         V:
-        - *id199
+        - *id197
     www.youtube.com/user/McPhersonSentinel:
         V:
-        - *id208
+        - *id206
     www.youtube.com/user/NewtonKansanSports:
         V:
-        - *id257
+        - *id255
     www.youtube.com/user/OsawatomieGraphic:
         V:
-        - *id147
+        - *id145
     www.youtube.com/user/PittMorningSun:
         V:
-        - *id212
+        - *id210
     www.youtube.com/user/TheHutchinsonNews:
         V:
-        - *id165
+        - *id163
     www.youtube.com/user/TheOttawaHerald:
         V:
-        - *id221
+        - *id219
     www.youtube.com/user/cjonline11:
         V:
-        - *id115
+        - *id113
     www.youtube.com/user/collegiopsu:
         V:
-        - *id130
+        - *id128
     www.youtube.com/user/emporiagazette:
         V:
-        - *id118
+        - *id116
     www.youtube.com/user/indyrepnews:
         V:
-        - *id169
+        - *id167
     www.youtube.com/user/rmedia1/videos:
         V:
-        - *id279
+        - *id277
     www.youtube.com/user/salinajournal:
         V:
-        - *id233
+        - *id231
     www2.ljworld.com:
         website:
         - *id024
     zwire.com/site/news.cfm?brd=1160:
         website:
-        - *id302
+        - *id301

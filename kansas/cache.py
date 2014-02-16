@@ -3,6 +3,7 @@ import urllib.request
 from urllib.error import HTTPError
 from urllib.error import URLError 
 import yaml
+import cgi
 
 bad = (
     'http://www.youtube.com/user/cjonline11',
@@ -15,6 +16,7 @@ bad = (
 
 def cache(url):
     name = url 
+    print("load url: %s" % url)
     href=None
     name = name.replace("/","").replace(".","").replace(":","")
 
@@ -49,12 +51,36 @@ def cache(url):
             except URLError  as exp:
                 print("URL timeout %s" % url)
                 print("URL exp %s" % exp)
+                reason = str(exp.reason)
+                print("URL exp reason '%s'" % reason)
+                
+                if reason == '[Errno -2] Name or service not known':
+                    # no route to host
+                    print("bail out %s" % url)
+                    return None
+
                 res = None
 
         print("URL loaded: %s" % url)
-        print (res)
-        print (res.info())
-        print (dir(res))
+
+        #        for i in res.info():
+        #            print ("I %s" %  i) 
+        ct= res.getheader("Content-Type")
+        _, params = cgi.parse_header(ct)
+        
+        if 'charset' in params:
+            print ("CharSet %s" % params['charset'])
+            charset= params['charset']
+        else:
+            
+            print ("INFO %s" % res.info()) 
+            print ("param %s" % params)
+            charset= "iso-8859-1"
+
+        ##: text/html; charset=utf-8
+        #resp[0]['content-type']
+        #print (res)
+        #        print (dir(res))
 
         data = res.read()
         #string = data.decode()
@@ -62,8 +88,13 @@ def cache(url):
         obj = {
             'inurl' :url,
             'outurl' :href,
-            'data': data.decode('utf-8'),
+            'header' :res.info(),
+            'charset' : charset,
+            'data': data.decode(charset),
             }
+
+        
+
 
         yml= yaml.dump(obj,p)
         p.close()
