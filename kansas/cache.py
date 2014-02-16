@@ -2,8 +2,11 @@ import os
 import urllib.request
 from urllib.error import HTTPError
 from urllib.error import URLError 
+import yaml
+
 def cache(url):
     name = url 
+    href=None
     name = name.replace("/","").replace(".","").replace(":","")
 
     filename = "cache/%s.html" % name
@@ -11,12 +14,13 @@ def cache(url):
         os.mkdir("cache")
 
     if not os.path.isfile(filename):
-        p = open (filename,"wb")    
+        p = open (filename,"w")    
         res = None
         while(not res):
             try:
                 print ("going to open %s" % url)
                 res = urllib.request.urlopen(url)
+                href=res.geturl()
                 
             except HTTPError as exp:
                 print("URL http Failed %s" % url)
@@ -32,15 +36,35 @@ def cache(url):
                 print("URL exp %s" % exp)
                 res = None
 
-
         print("URL loaded: %s" % url)
+        print (res)
+        print (res.info())
+        print (dir(res))
+
         data = res.read()
         #string = data.decode()
-        p.write(data)
+
+        obj = {
+            'inurl' :url,
+            'outurl' :href,
+            'data': data.decode('utf-8'),
+            }
+
+        yml= yaml.dump(obj,p)
         p.close()
     p = open (filename,"r")    
     try :
         string = p.read()
     except:
         return "ERROR"
-    return string
+
+    try :
+        return yaml.load(string)
+    except Exception as exp:
+        print (exp)
+        return {
+            'inurl': url,
+            'outurl': url,
+            'data': string
+            }            
+        

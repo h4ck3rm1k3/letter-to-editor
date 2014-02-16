@@ -6,7 +6,7 @@ import os
 import yaml
 import pprint
 import re
-
+from urllib.error import HTTPError
 BASE="http://www.mondotimes.com"
 
 class MyHTMLParser(HTMLParser):
@@ -78,10 +78,10 @@ class MondoInfoHTMLParser(HTMLParser):
             "sources" : [] 
             }
         self.done = False
+        self.title = []
 
-
-    def matches(self, r,t,names):
-        m = re.match(r,t)
+    def matches(self, regex,text,names):
+        m = re.match(regex,text)
         count = 0
         if m:
             count = 1
@@ -111,12 +111,34 @@ class MondoInfoHTMLParser(HTMLParser):
     def handle_endtag(self, tag):
         if self.done:
             return
+
+        if self.state == ['html','head','title'] :
+            if self.matches(
+                regex=r'(.+) \- (daily newspaper|newspaper) in (.+) (?:with|covering) (.+)',
+                text=" ".join(self.title),
+                names=[
+                    "title",
+                    "type",
+                    "location",
+                    "coverage"
+                    ]
+                ):
+                self.sources(self.title)
+            else:
+                raise Exception(title)
+
         #print ("Encountered an end tag :", tag)
         self.state.pop()
 
     def sources(self,data):
 
-        self.index["sources"].append(data)
+        self.index["sources"].append(
+            [
+                ",".join(self.state),
+                data,
+                self.href
+                ]
+            )
 
         
     def handle_data(self, data):
@@ -130,8 +152,6 @@ class MondoInfoHTMLParser(HTMLParser):
             return
         if not data:
             return
-        #if not self.href:
-        #    return
 
         if self.href.startswith("http://www.facebook.com/MondoTimes"):
             return
@@ -142,26 +162,21 @@ class MondoInfoHTMLParser(HTMLParser):
         if self.href.startswith("http://www.easymedialist.com/"):
             return
 
+
         if self.href.startswith("http://www.mondotimes.com/"):
-            return
+            if self.href.startswith("http://www.mondotimes.com/include/click"):
+                cache(self.href)
+            else:
+                return
 
         if data not in self.index:
+            if self.state == ['html','head','title'] :
+                self.title.append(data)
+                return
 
-            if self.matches(r'For more (.+) contact information,',data, ["name"]):
+            elif self.matches(r'For more (.+) contact information,',data, ["name"]):
                 self.sources(data)
-            #                   Name - newspaper in Osborne, Kansas USA with local news and community events
-            elif self.matches(
-                r'(.+) \- (daily newspaper|newspaper) in (.+) (?:with|covering) (.+)',
-                data,
-                [
-                    "name",
-                    "type",
-                    "location",
-                    "coverage"
-                    ]
-                ):
-                self.sources(data)
-
+            
             elif data.startswith("Mailing address:"):
                 data=data.replace("Mailing address: ","")
                 self.index['address']=data
@@ -170,7 +185,37 @@ class MondoInfoHTMLParser(HTMLParser):
                 pass
 
             elif self.matches(r'(.+) is the (news editor|news director|managing editor|editor) of the (.+)',data, ["editor","editor_role","name"]):
-                self.index['editor1_source']=data
+                self.sources(data)
+
+            elif self.matches(
+                r'(\w+.+) replaced (\w+.+) who (earlier|previously) replaced (\w+.+) as the (news editor|managing editor|editor) of the (.+)',data,
+                [
+                    "temp_new_editor",
+                    "temp_old_editor",
+                    "temp_old2_editor",
+                    "temp_role",
+                    "test_name"
+                    ]
+                ):
+                self.sources(data)
+                role = self.index['temp_role' ]
+                role = role.replace(" ","_")
+                new_e = self.index['temp_new_editor' ]
+                old_e = self.index['temp_old_editor' ]
+                old_e2 = self.index['temp_old2_editor' ]
+
+                assert(len(new_e)<20)
+                assert(len(role)<20)
+                assert(len(old_e)<20)
+                assert(len(old_e2)<20)
+
+                self.index['old_%s' % role ]=old_e
+                self.index['old2_%s' % role ]=old_e2
+                self.index['new_%s' % role ]=new_e
+                del self.index['temp_role' ]
+                del self.index['temp_new_editor' ]
+                del self.index['temp_old_editor' ]
+                del self.index['temp_old2_editor' ]
 
             elif (
                 self.matches(
@@ -184,6 +229,9 @@ class MondoInfoHTMLParser(HTMLParser):
                         "name"
                         ]
                     )
+
+                #  X replaced Y who earlier replaced Z as the R of the T
+
             or
             (
                 self.matches(
@@ -200,6 +248,13 @@ class MondoInfoHTMLParser(HTMLParser):
                 role = role.replace(" ","_")
                 new_e = self.index['temp_new_editor' ]
                 old_e = self.index['temp_old_editor' ]
+
+                if len(new_e) > 20 :
+                    raise Exception(new_e)
+
+                assert(len(role)<20)
+                assert(len(old_e)<20)
+
                 self.index['old_%s' % role ]=old_e
                 self.index['new_%s' % role ]=new_e
 
@@ -239,7 +294,8 @@ class MondoInfoHTMLParser(HTMLParser):
                 self.index[data]=self.href
 
 url='%s/newspapers/usa/kansas.html' % BASE
-string = cache(url)
+res = cache(url)
+string = res['data']
 parser = MyHTMLParser()
 parser.feed(string)
 
@@ -252,7 +308,7 @@ for idx in parser.index:
             url = obj[a]
             page = cache(url)
             info_parser = MondoInfoHTMLParser()
-            info_parser.feed(page)
+            info_parser.feed(page['data'])
             parser.index[idx].update(dict(info_parser.index))
 
 
