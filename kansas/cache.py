@@ -2,6 +2,7 @@ import os
 import urllib.request
 from urllib.error import HTTPError
 from urllib.error import URLError 
+import yaml
 
 bad = (
     'http://www.youtube.com/user/cjonline11',
@@ -12,79 +13,73 @@ bad = (
 )
 #http://www.sterling.edu/stir-newspaper
 
-def fetch (url):    
-    if url == " " :
-        return None 
+def cache(url):
+    name = url 
+    href=None
+    name = name.replace("/","").replace(".","").replace(":","")
 
-    print("to fetch URL: '%s'" % url)
-    res = None
-    while(not res):
-        try:
-            res = urllib.request.urlopen(url)                
-        except HTTPError as exp:
-            print("URL http Failed %s" % url)
-            print("URL http exp %s" % exp)
-            if exp.code == 403:
-                return None
-            if exp.code == 404 :
-                return None
-            return None
-
-        except URLError  as exp:
-            print("URL error %s" % url)
-            estr = str(exp)
-            print("URL exp %s" % estr)
-            if exp.reason.errno == 110 : # timeout
-                return None
-            elif exp.reason.errno == -2 : # 
-                return None
-            res = None
-    data = res.read()
-    return data
+    if url in bad:
+        print("URL skipped %s" % url)        
+        data = "SKIPPED"
+        return
     
 
-def cache(url):
-    url = url.strip().rstrip()
-
-    if not url :
-        return None
-    if url == "":
-        return None
-    if url[0:3]=="www":
-        url = "http://" + url
-    elif url[0]=="?":
-        return None
-    elif url.startswith('http://'):
-        pass
-    elif url.startswith('https://'):
-        pass
-    else :
-        url = "http://" + url
-
-    name = url 
-    name = name.replace("/","").replace(".","").replace(":","")
     filename = "cache/%s.html" % name
+    if not os.path.isdir("cache"):
+        os.mkdir("cache")
+
     if not os.path.isfile(filename):
-        data = None
-        if url in bad:
-            print("URL skipped %s" % url)        
-            data = "SKIPPED"
-        else:
-            data = fetch(url)
-        if (data):
-            print("URL loaded: %s with data len:%s" % (url, len(data)))
-        else:
-            print("URL loaded: %s with no data" % (url))
-            data = None
+        p = open (filename,"w")    
+        res = None
+        while(not res):
+            try:
+                print ("going to open %s" % url)
+                res = urllib.request.urlopen(url)
+                href=res.geturl()
+                
+            except HTTPError as exp:
+                print("URL http Failed %s" % url)
+                print("URL http exp %s" % exp)
+                if exp.code == 403:
+                    return None
+                if exp.code == 404 :
+                    return None
+                return None
 
+            except URLError  as exp:
+                print("URL timeout %s" % url)
+                print("URL exp %s" % exp)
+                res = None
+
+        print("URL loaded: %s" % url)
+        print (res)
+        print (res.info())
+        print (dir(res))
+
+        data = res.read()
         #string = data.decode()
-        p = open (filename,"wb")    
-        if (data):
-            p.write(data)
-        p.close()
-    else:
-        print("URL cached: %s in file:%s" % (url, filename))
 
+        obj = {
+            'inurl' :url,
+            'outurl' :href,
+            'data': data.decode('utf-8'),
+            }
+
+        yml= yaml.dump(obj,p)
+        p.close()
     p = open (filename,"r")    
-    string = p.read()
-    return string
+    try :
+        string = p.read()
+    except:
+        return "ERROR"
+
+    try :
+        return yaml.load(string)
+    except Exception as exp:
+        print (exp)
+        return {
+            'inurl': url,
+            'outurl': url,
+            'data': string
+            }            
+        

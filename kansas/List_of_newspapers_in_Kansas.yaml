@@ -1,0 +1,400 @@
+' Times':
+    name: ' Times'
+    page: ''
+    site: Downs
+    siteurl: https://en.wikipedia.org/wiki/Downs,_Kansas
+Advocate:
+    name: Advocate
+    page: https://en.wikipedia.org/wiki/Advocate,_Student_Newspaper
+    site: Kansas City Kansas Community College
+    siteurl: https://en.wikipedia.org/wiki/Kansas_City_Kansas_Community_College
+Anderson County Advocate:
+    name: Anderson County Advocate
+    page: https://en.wikipedia.org/wiki/Anderson_County_Advocate
+    site: Garnett
+    siteurl: https://en.wikipedia.org/wiki/Garnett,_Kansas
+Anderson County Review:
+    name: Anderson County Review
+    page: https://en.wikipedia.org/wiki/Anderson_County_Review
+    site: Garnett
+    siteurl: https://en.wikipedia.org/wiki/Garnett,_Kansas
+Atchison Champion:
+    name: Atchison Champion
+    page: https://en.wikipedia.org/w/index.php?title=Atchison_Champion&action=edit&redlink=1
+    site: Atchison, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Atchison,_Kansas
+Atchison Daily Globe:
+    name: Atchison Daily Globe
+    page: https://en.wikipedia.org/wiki/Atchison_Daily_Globe
+    site: Atchison, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Atchison,_Kansas
+Baldwin City Signal:
+    name: Baldwin City Signal
+    page: https://en.wikipedia.org/wiki/Baldwin_City_Signal
+    site: Baldwin City
+    siteurl: https://en.wikipedia.org/wiki/Baldwin_City,_Kansas
+Basehore Sentinal:
+    name: Basehore Sentinal
+    page: https://en.wikipedia.org/wiki/Basehore_Sentinal
+    site: Basehor
+    siteurl: https://en.wikipedia.org/wiki/Basehor,_Kansas
+Belleville Telescope:
+    name: Belleville Telescope
+    page: https://en.wikipedia.org/wiki/Belleville_Telescope
+    site: Belleville
+    siteurl: https://en.wikipedia.org/wiki/Belleville,_Kansas
+Beloit Call:
+    name: Beloit Call
+    page: https://en.wikipedia.org/w/index.php?title=Beloit_Call&action=edit&redlink=1
+    site: Beliot
+    siteurl: https://en.wikipedia.org/w/index.php?title=Beliot,_Kansas&action=edit&redlink=1
+Bonner Springs Chieftain:
+    name: Bonner Springs Chieftain
+    page: https://en.wikipedia.org/w/index.php?title=Bonner_Springs_Chieftain&action=edit&redlink=1
+    site: Bonner Springs
+    siteurl: https://en.wikipedia.org/wiki/Bonner_Springs,_Kansas
+Butler County Times Gazette:
+    name: Butler County Times Gazette
+    page: https://en.wikipedia.org/w/index.php?title=Butler_County_Times_Gazette&action=edit&redlink=1
+    site: Butler County
+    siteurl: https://en.wikipedia.org/wiki/Butler_County,_Kansas
+Clay Center Dispatch:
+    name: Clay Center Dispatch
+    page: https://en.wikipedia.org/w/index.php?title=Clay_Center_Dispatch&action=edit&redlink=1
+    site: Clay Center
+    siteurl: https://en.wikipedia.org/wiki/Clay_Center,_Kansas
+Collegio:
+    name: Collegio
+    page: https://en.wikipedia.org/w/index.php?title=Collegio,_Student_Newspaper&action=edit&redlink=1
+    site: Pittsburg State University
+    siteurl: https://en.wikipedia.org/wiki/Pittsburg_State_University
+Concordia Blade-Empire:
+    name: Concordia Blade-Empire
+    page: https://en.wikipedia.org/wiki/Concordia_Blade-Empire
+    site: Concordia
+    siteurl: https://en.wikipedia.org/wiki/Concordia,_Kansas
+Daily Union:
+    name: Daily Union
+    page: https://en.wikipedia.org/wiki/Daily_Union
+    site: Junction City
+    siteurl: https://en.wikipedia.org/wiki/Junction_City,_Kansas
+Dodge City Daily Globe:
+    name: Dodge City Daily Globe
+    page: https://en.wikipedia.org/wiki/Dodge_City_Daily_Globe
+    site: Dodge City
+    siteurl: https://en.wikipedia.org/wiki/Dodge_City,_Kansas
+Emporia Gazette:
+    name: Emporia Gazette
+    page: https://en.wikipedia.org/wiki/Emporia_Gazette
+    site: Emporia, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Emporia,_Kansas
+Fort Scott Tribune:
+    name: Fort Scott Tribune
+    page: https://en.wikipedia.org/wiki/Fort_Scott_Tribune
+    site: Fort Scott, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Fort_Scott,_Kansas
+Garden City Telegram:
+    name: Garden City Telegram
+    page: https://en.wikipedia.org/wiki/Garden_City_Telegram
+    site: Garden City
+    siteurl: https://en.wikipedia.org/wiki/Garden_City,_Kansas
+Great Bend Tribune:
+    name: Great Bend Tribune
+    page: https://en.wikipedia.org/w/index.php?title=Great_Bend_Tribune&action=edit&redlink=1
+    site: Great Bend
+    siteurl: https://en.wikipedia.org/wiki/Great_Bend,_Kansas
+Hays Post:
+    name: Hays Post
+    page: https://en.wikipedia.org/w/index.php?title=Hays_Post&action=edit&redlink=1
+    site: Hays
+    siteurl: https://en.wikipedia.org/wiki/Hays,_Kansas
+Hiawatha World:
+    name: Hiawatha World
+    page: https://en.wikipedia.org/w/index.php?title=Hiawatha_World&action=edit&redlink=1
+    site: Hiawatha
+    siteurl: https://en.wikipedia.org/wiki/Hiawatha,_Kansas
+High Plains Journal:
+    name: High Plains Journal
+    page: https://en.wikipedia.org/wiki/High_Plains_Journal
+    site: Dodge City
+    siteurl: https://en.wikipedia.org/wiki/Dodge_City,_Kansas
+Hillsboro Free Press:
+    name: Hillsboro Free Press
+    page: https://en.wikipedia.org/wiki/Hillsboro_Free_Press
+    site: Hillsboro
+    siteurl: https://en.wikipedia.org/wiki/Hillsboro,_Kansas
+Hillsboro Star-Journal:
+    name: Hillsboro Star-Journal
+    page: https://en.wikipedia.org/wiki/Hillsboro_Star-Journal
+    site: Hillsboro
+    siteurl: https://en.wikipedia.org/wiki/Hillsboro,_Kansas
+Independence Daily Reporter:
+    name: Independence Daily Reporter
+    page: https://en.wikipedia.org/w/index.php?title=Independence_Daily_Reporter&action=edit&redlink=1
+    site: Independence
+    siteurl: https://en.wikipedia.org/wiki/Independence,_Kansas
+Kansas City Kansan:
+    name: Kansas City Kansan
+    page: https://en.wikipedia.org/wiki/Kansas_City_Kansan
+    site: Kansas City
+    siteurl: https://en.wikipedia.org/wiki/Kansas_City,_Kansas
+Kansas State Collegian:
+    name: Kansas State Collegian
+    page: https://en.wikipedia.org/wiki/Kansas_State_Collegian
+    site: Kansas State University
+    siteurl: https://en.wikipedia.org/wiki/Kansas_State_University
+Kiowa County Signal:
+    name: Kiowa County Signal
+    page: https://en.wikipedia.org/w/index.php?title=Kiowa_County_Signal&action=edit&redlink=1
+    site: Greensburg
+    siteurl: https://en.wikipedia.org/wiki/Greensburg,_Kansas
+Lansing Chronicle Times:
+    name: Lansing Chronicle Times
+    page: https://en.wikipedia.org/w/index.php?title=Lansing_Chronicle_Times&action=edit&redlink=1
+    site: Lansing
+    siteurl: https://en.wikipedia.org/wiki/Lansing,_Kansas
+Leavenworth Times:
+    name: Leavenworth Times
+    page: https://en.wikipedia.org/wiki/Leavenworth_Times
+    site: Leavenworth, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Leavenworth,_Kansas
+Marion County Record:
+    name: Marion County Record
+    page: https://en.wikipedia.org/wiki/Marion_County_Record
+    site: Marion
+    siteurl: https://en.wikipedia.org/wiki/Marion,_Kansas
+Marysville Advocate:
+    name: Marysville Advocate
+    page: https://en.wikipedia.org/w/index.php?title=Marysville_Advocate&action=edit&redlink=1
+    site: Marysville
+    siteurl: https://en.wikipedia.org/wiki/Marysville,_Kansas
+McPherson Sentinel:
+    name: McPherson Sentinel
+    page: https://en.wikipedia.org/wiki/McPherson_Sentinel
+    site: McPherson
+    siteurl: https://en.wikipedia.org/wiki/McPherson,_Kansas
+Newton Kansan:
+    name: Newton Kansan
+    page: https://en.wikipedia.org/wiki/Newton_Kansan
+    site: Newton
+    siteurl: https://en.wikipedia.org/wiki/Newton,_Kansas
+Ottawa Herald:
+    name: Ottawa Herald
+    page: https://en.wikipedia.org/wiki/Ottawa_Herald
+    site: Ottawa
+    siteurl: https://en.wikipedia.org/wiki/Ottawa,_Kansas
+Peabody Gazette-Bulletin:
+    name: Peabody Gazette-Bulletin
+    page: https://en.wikipedia.org/wiki/Peabody_Gazette-Bulletin
+    site: Peabody
+    siteurl: https://en.wikipedia.org/wiki/Peabody,_Kansas
+Pratt Tribune:
+    name: Pratt Tribune
+    page: https://en.wikipedia.org/wiki/Pratt_Tribune
+    site: Pratt
+    siteurl: https://en.wikipedia.org/wiki/Pratt,_Kansas
+St John News:
+    name: St John News
+    page: https://en.wikipedia.org/w/index.php?title=St_John_News&action=edit&redlink=1
+    site: St John
+    siteurl: https://en.wikipedia.org/w/index.php?title=St_John,_Kansas&action=edit&redlink=1
+The Abilene Reflector-Chronicle:
+    name: The Abilene Reflector-Chronicle
+    page: https://en.wikipedia.org/wiki/The_Abilene_Reflector-Chronicle
+    site: Abilene
+    siteurl: https://en.wikipedia.org/wiki/Abilene,_Kansas
+The Andover Journal-Advocate:
+    name: The Andover Journal-Advocate
+    page: https://en.wikipedia.org/w/index.php?title=The_Andover_Journal-Advocate&action=edit&redlink=1
+    site: Andover
+    siteurl: https://en.wikipedia.org/wiki/Andover,_Kansas
+The Anthony Republican:
+    name: The Anthony Republican
+    page: https://en.wikipedia.org/wiki/The_Anthony_Republican
+    site: Anthony
+    siteurl: https://en.wikipedia.org/wiki/Anthony,_Kansas
+The Arkansas City Traveler:
+    name: The Arkansas City Traveler
+    page: https://en.wikipedia.org/wiki/The_Arkansas_City_Traveler
+    site: Arkansas City
+    siteurl: https://en.wikipedia.org/wiki/Arkansas_City,_Kansas
+The Augusta Daily Gazette:
+    name: The Augusta Daily Gazette
+    page: https://en.wikipedia.org/wiki/The_Augusta_Daily_Gazette
+    site: Augusta
+    siteurl: https://en.wikipedia.org/wiki/Augusta,_Kansas
+The Bulletin:
+    name: The Bulletin
+    page: https://en.wikipedia.org/w/index.php?title=The_Bulletin,_Student_Newspaper&action=edit&redlink=1
+    site: Emporia State University
+    siteurl: https://en.wikipedia.org/wiki/Emporia_State_University
+The Campus:
+    name: The Campus
+    page: https://en.wikipedia.org/wiki/The_Campus
+    site: Ottawa University
+    siteurl: https://en.wikipedia.org/wiki/Ottawa_University
+The Chanute Tribune:
+    name: The Chanute Tribune
+    page: https://en.wikipedia.org/w/index.php?title=The_Chanute_Tribune&action=edit&redlink=1
+    site: Chanute
+    siteurl: https://en.wikipedia.org/wiki/Chanute,_Kansas
+The Coffeyville Journal:
+    name: The Coffeyville Journal
+    page: https://en.wikipedia.org/wiki/The_Coffeyville_Journal
+    site: Coffeyville
+    siteurl: https://en.wikipedia.org/wiki/Coffeyville,_Kansas
+The Colby Free Press:
+    name: The Colby Free Press
+    page: https://en.wikipedia.org/wiki/Colby_Free_Press
+    site: Colby
+    siteurl: https://en.wikipedia.org/wiki/Colby,_Kansas
+The Courier-Tribune:
+    name: The Courier-Tribune
+    page: https://en.wikipedia.org/w/index.php?title=The_Courier-Tribune&action=edit&redlink=1
+    site: Seneca
+    siteurl: https://en.wikipedia.org/wiki/Seneca,_Kansas
+The De Soto Explorer:
+    name: The De Soto Explorer
+    page: https://en.wikipedia.org/wiki/The_De_Soto_Explorer
+    site: De Soto
+    siteurl: https://en.wikipedia.org/wiki/De_Soto,_Kansas
+The Derby Weekly Informer:
+    name: The Derby Weekly Informer
+    page: https://en.wikipedia.org/w/index.php?title=The_Derby_Weekly_Informer&action=edit&redlink=1
+    site: Derby
+    siteurl: https://en.wikipedia.org/wiki/Derby,_Kansas
+The Edwards County Sentinel:
+    name: The Edwards County Sentinel
+    page: https://en.wikipedia.org/w/index.php?title=The_Edwards_County_Sentinel&action=edit&redlink=1
+    site: Kinsley
+    siteurl: https://en.wikipedia.org/wiki/Kinsley,_Kansas
+The Eudora News:
+    name: The Eudora News
+    page: https://en.wikipedia.org/w/index.php?title=The_Eudora_News&action=edit&redlink=1
+    site: Eudora
+    siteurl: https://en.wikipedia.org/wiki/Eudora,_Kansas
+The Eureka Herald:
+    name: The Eureka Herald
+    page: https://en.wikipedia.org/w/index.php?title=The_Eureka_Herald&action=edit&redlink=1
+    site: Eureka
+    siteurl: https://en.wikipedia.org/wiki/Eureka,_Kansas
+The Fort Leavenworth Lamp:
+    name: The Fort Leavenworth Lamp
+    page: https://en.wikipedia.org/w/index.php?title=The_Fort_Leavenworth_Lamp&action=edit&redlink=1
+    site: Fort Leavenworth
+    siteurl: https://en.wikipedia.org/wiki/Fort_Leavenworth,_Kansas
+The Girard Press:
+    name: The Girard Press
+    page: https://en.wikipedia.org/w/index.php?title=The_Girard_Press&action=edit&redlink=1
+    site: Girard
+    siteurl: https://en.wikipedia.org/wiki/Girard,_Kansas
+The Hays Daily News:
+    name: The Hays Daily News
+    page: https://en.wikipedia.org/wiki/The_Hays_Daily_News
+    site: Hays
+    siteurl: https://en.wikipedia.org/wiki/Hays,_Kansas
+The Holton Recorder:
+    name: The Holton Recorder
+    page: https://en.wikipedia.org/w/index.php?title=The_Holton_Recorder&action=edit&redlink=1
+    site: Holton
+    siteurl: https://en.wikipedia.org/wiki/Holton,_Kansas
+The Hutchinson News:
+    name: The Hutchinson News
+    page: https://en.wikipedia.org/wiki/The_Hutchinson_News
+    site: Hutchinson
+    siteurl: https://en.wikipedia.org/wiki/Hutchinson,_Kansas
+The Hype Weekly:
+    name: The Hype Weekly
+    page: https://en.wikipedia.org/w/index.php?title=The_Hype_Weekly&action=edit&redlink=1
+    site: Manhattan, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Manhattan,_Kansas
+The Iola Register:
+    name: The Iola Register
+    page: https://en.wikipedia.org/w/index.php?title=The_Iola_Register&action=edit&redlink=1
+    site: Iola
+    siteurl: https://en.wikipedia.org/wiki/Iola,_Kansas
+The Jackson County Journal:
+    name: The Jackson County Journal
+    page: https://en.wikipedia.org/w/index.php?title=The_Jackson_County_Journal&action=edit&redlink=1
+    site: Holton
+    siteurl: https://en.wikipedia.org/wiki/Holton,_Kansas
+The Kiowa News:
+    name: The Kiowa News
+    page: https://en.wikipedia.org/w/index.php?title=The_Kiowa_News&action=edit&redlink=1
+    site: Kiowa
+    siteurl: https://en.wikipedia.org/wiki/Kiowa,_Kansas
+The Lawrence Journal-World:
+    name: The Lawrence Journal-World
+    page: https://en.wikipedia.org/wiki/The_Lawrence_Journal-World
+    site: Lawrence, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Lawrence,_Kansas
+The Manhattan Mercury:
+    name: The Manhattan Mercury
+    page: https://en.wikipedia.org/wiki/The_Manhattan_Mercury
+    site: Manhattan, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Manhattan,_Kansas
+The Morning Sun:
+    name: The Morning Sun
+    page: https://en.wikipedia.org/wiki/The_Morning_Sun_(Pittsburg)
+    site: Pittsburg, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Pittsburg,_Kansas
+The Olathe News:
+    name: The Olathe News
+    page: https://en.wikipedia.org/wiki/The_Olathe_News
+    site: Olathe, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Olathe,_Kansas
+The Rush County News:
+    name: The Rush County News
+    page: https://en.wikipedia.org/w/index.php?title=The_Rush_County_News&action=edit&redlink=1
+    site: La Crosse
+    siteurl: https://en.wikipedia.org/wiki/La_Crosse,_Kansas
+The Salina Journal:
+    name: The Salina Journal
+    page: https://en.wikipedia.org/wiki/The_Salina_Journal
+    site: Salina, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Salina,_Kansas
+The Sunflower:
+    name: The Sunflower
+    page: https://en.wikipedia.org/w/index.php?title=The_Sunflower,_Student_Newspaper&action=edit&redlink=1
+    site: Wichita State University
+    siteurl: https://en.wikipedia.org/wiki/Wichita_State_University
+The Times-Sentinel:
+    name: The Times-Sentinel
+    page: https://en.wikipedia.org/w/index.php?title=The_Times-Sentinel&action=edit&redlink=1
+    site: Cheney
+    siteurl: https://en.wikipedia.org/wiki/Cheney,_Kansas
+The University Leader:
+    name: The University Leader
+    page: https://en.wikipedia.org/w/index.php?title=The_University_Leader,_Student_Newspaper&action=edit&redlink=1
+    site: Fort Hays State University
+    siteurl: https://en.wikipedia.org/wiki/Fort_Hays_State_University
+The Wichita Eagle:
+    name: The Wichita Eagle
+    page: https://en.wikipedia.org/wiki/The_Wichita_Eagle
+    site: Wichita, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Wichita,_Kansas
+The Winfield Daily Courier:
+    name: The Winfield Daily Courier
+    page: https://en.wikipedia.org/wiki/The_Winfield_Daily_Courier
+    site: Winfield
+    siteurl: https://en.wikipedia.org/wiki/Winfield,_Kansas
+Topeka Capital-Journal:
+    name: Topeka Capital-Journal
+    page: https://en.wikipedia.org/wiki/Topeka_Capital-Journal
+    site: Topeka, Kansas
+    siteurl: https://en.wikipedia.org/wiki/Topeka,_Kansas
+University Daily Kansan:
+    name: University Daily Kansan
+    page: https://en.wikipedia.org/wiki/University_Daily_Kansan
+    site: University of Kansas
+    siteurl: https://en.wikipedia.org/wiki/University_of_Kansas
+Wamego Smoke Signal:
+    name: Wamego Smoke Signal
+    page: https://en.wikipedia.org/w/index.php?title=Wamego_Smoke_Signal&action=edit&redlink=1
+    site: Wamego
+    siteurl: https://en.wikipedia.org/wiki/Wamego,_Kansas
+Wellington Daily News:
+    name: Wellington Daily News
+    page: https://en.wikipedia.org/wiki/Wellington_Daily_News
+    site: Wellington
+    siteurl: https://en.wikipedia.org/w/index.php?title=Wellington_,_Kansas&action=edit&redlink=1
