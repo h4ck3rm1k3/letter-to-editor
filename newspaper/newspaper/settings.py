@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'letter_to_editor',
+    'mediawiki',
 )
 
 MIDDLEWARE_CLASSES = (
