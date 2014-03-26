@@ -58,9 +58,19 @@ WSGI_APPLICATION = 'newspaper.wsgi.application'
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+    'default2': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    },
+    #'wikidb': 
+
+    'default' : {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'wikidb',
+        'USER': 'wikiuser',
+        'PASSWORD': 'password',
+        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
+        'PORT': '3306',
     }
 }
 
