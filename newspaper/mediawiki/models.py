@@ -27,7 +27,8 @@ class Archive(models.Model):
     ar_text_id = models.IntegerField(blank=True, null=True)
     ar_deleted = models.IntegerField()
     ar_len = models.IntegerField(blank=True, null=True)
-    ar_page_id = models.IntegerField(blank=True, null=True)
+    #ar_page_id = models.IntegerField(blank=True, null=True)
+    ar_page = models.ForeignKey('Page') # db_column
     ar_parent_id = models.IntegerField(blank=True, null=True)
     ar_sha1 = models.CharField(max_length=32)
     ar_content_model = models.CharField(max_length=32, blank=True)
@@ -51,7 +52,10 @@ class Category(models.Model):
 
 
 class Categorylinks(models.Model):
-    cl_from = models.IntegerField()
+    unique_together = (("cl_from", "cl_to"),)
+    #cl_from = models.IntegerField()
+    cl_from = models.ForeignKey('Page', db_column="cl_from")
+
     cl_to = models.CharField(max_length=255)
     cl_sortkey = models.CharField(max_length=230)
     cl_sortkey_prefix = models.CharField(max_length=255)
@@ -78,7 +82,9 @@ class ChangeTag(models.Model):
 
 class Externallinks(models.Model):
     el_id = models.IntegerField(primary_key=True)
-    el_from = models.IntegerField()
+    #el_from = models.IntegerField()
+    el_from = models.ForeignKey('Page', db_column="el_from")
+
     el_to = models.TextField()
     el_index = models.TextField()
 
@@ -146,7 +152,9 @@ class Image(models.Model):
 
 
 class Imagelinks(models.Model):
-    il_from = models.IntegerField()
+    #il_from = models.IntegerField()
+    il_from = models.ForeignKey('Page', db_column="il_from")
+
     il_to = models.CharField(max_length=255)
 
     class Meta:
@@ -193,7 +201,8 @@ class Ipblocks(models.Model):
 
 
 class Iwlinks(models.Model):
-    iwl_from = models.IntegerField()
+    #iwl_from = models.IntegerField()
+    iwl_from = models.ForeignKey('Page', db_column="iwl_from")
     iwl_prefix = models.CharField(max_length=20)
     iwl_title = models.CharField(max_length=255)
 
@@ -231,7 +240,8 @@ class L10NCache(models.Model):
 
 
 class Langlinks(models.Model):
-    ll_from = models.IntegerField()
+    #ll_from = models.IntegerField()
+    ll_from = models.ForeignKey('Page', db_column="ll_from")
     ll_lang = models.CharField(max_length=20)
     ll_title = models.CharField(max_length=255)
 
@@ -259,7 +269,8 @@ class Logging(models.Model):
     log_user_text = models.CharField(max_length=255)
     log_namespace = models.IntegerField()
     log_title = models.CharField(max_length=255)
-    log_page = models.IntegerField(blank=True, null=True)
+    #    log_page = models.IntegerField(blank=True, null=True)
+    log_page = models.ForeignKey('Page', db_column="log_page")
     log_comment = models.CharField(max_length=255)
     log_params = models.TextField()
     log_deleted = models.IntegerField()
@@ -343,9 +354,14 @@ class Page(models.Model):
     page_random = models.FloatField()
     page_touched = models.CharField(max_length=14)
     page_links_updated = models.CharField(max_length=14, blank=True)
-    page_latest = models.IntegerField()
+    #page_latest = models.IntegerField()
+    page_latest = models.ForeignKey('Revision', db_column="page_latest")
+
     page_len = models.IntegerField()
     page_content_model = models.CharField(max_length=32, blank=True)
+
+    def __unicode__(self):
+        return u'%s' % (self.page_title)
 
     class Meta:
         # managed = False
@@ -353,7 +369,8 @@ class Page(models.Model):
 
 
 class PageProps(models.Model):
-    pp_page = models.IntegerField()
+    #pp_page = models.IntegerField()
+    pp_page = models.ForeignKey('Page', db_column="pp_page")
     pp_propname = models.CharField(max_length=60)
     pp_value = models.TextField()
 
@@ -364,7 +381,8 @@ class PageProps(models.Model):
 
 class PageRestrictions(models.Model):
     pr_id = models.IntegerField(primary_key=True)
-    pr_page = models.IntegerField()
+    #pr_page = models.IntegerField()
+    pr_page = models.ForeignKey('Page', db_column="pr_page")
     pr_type = models.CharField(max_length=60)
     pr_level = models.CharField(max_length=60)
     pr_cascade = models.IntegerField()
@@ -377,7 +395,8 @@ class PageRestrictions(models.Model):
 
 
 class Pagelinks(models.Model):
-    pl_from = models.IntegerField()
+    #pl_from = models.IntegerField()
+    pl_from = models.ForeignKey('Page', db_column="pl_from")
     pl_namespace = models.IntegerField()
     pl_title = models.CharField(max_length=255)
 
@@ -466,7 +485,8 @@ class Recentchanges(models.Model):
 
 
 class Redirect(models.Model):
-    rd_from = models.IntegerField(primary_key=True)
+    #rd_from = models.IntegerField(primary_key=True)
+    rd_from = models.ForeignKey('Page', db_column="rd_from")
     rd_namespace = models.IntegerField()
     rd_title = models.CharField(max_length=255)
     rd_interwiki = models.CharField(max_length=32, blank=True)
@@ -479,8 +499,12 @@ class Redirect(models.Model):
 
 class Revision(models.Model):
     rev_id = models.IntegerField(primary_key=True)
-    rev_page = models.IntegerField()
-    rev_text_id = models.IntegerField()
+    #rev_page = models.IntegerField()
+    rev_page = models.ForeignKey('Page', db_column="rev_page")
+
+    #rev_text_id = models.IntegerField()
+    rev_text_id = models.ForeignKey('Text', db_column="rev_text_id")
+
     rev_comment = models.TextField()
     rev_user = models.IntegerField()
     rev_user_text = models.CharField(max_length=255)
@@ -499,7 +523,9 @@ class Revision(models.Model):
 
 
 class Searchindex(models.Model):
-    si_page = models.IntegerField(unique=True)
+    #si_page = models.IntegerField(unique=True)
+    si_page = models.ForeignKey('Page', db_column="si_page")
+
     si_title = models.CharField(max_length=255)
     si_text = models.TextField()
 
@@ -563,7 +589,8 @@ class TagSummary(models.Model):
 
 
 class Templatelinks(models.Model):
-    tl_from = models.IntegerField()
+    #tl_from = models.IntegerField()
+    tl_from = models.ForeignKey('Page', db_column="tl_from")
     tl_namespace = models.IntegerField()
     tl_title = models.CharField(max_length=255)
 

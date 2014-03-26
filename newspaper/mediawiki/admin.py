@@ -76,7 +76,6 @@ MsgResource,
 MsgResourceLinks,
 Objectcache,
 Oldimage,
-Page,
 PageProps,
 PageRestrictions,
 Pagelinks,
@@ -105,3 +104,12 @@ UserProperties,
 ValidTag,
 Watchlist) :
     admin.site.register(model)
+
+class RevisionInline(admin.TabularInline):
+    model = Revision
+
+class PageAdmin(admin.ModelAdmin):
+    inlines = [
+       RevisionInline,
+    ]
+admin.site.register(Page,PageAdmin)
